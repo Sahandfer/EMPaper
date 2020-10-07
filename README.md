@@ -4,13 +4,13 @@
 
 ## 2020
 
-|                            Title                             |                    Source                     |                             Code                             | Stars |
-| :----------------------------------------------------------: | :-------------------------------------------: | :----------------------------------------------------------: | :---: |
+| Title                                                        |                    Source                     |                             Code                             | Stars |
+| :----------------------------------------------------------- | :-------------------------------------------: | :----------------------------------------------------------: | :---: |
 | [A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support](https://github.com/Sahandfer/Empathetic-COAI-Papers/blob/master/A%20Computational%20Approach%20to%20Understanding%20Empathy%20Expressed%20in%20Text-Based%20Mental%20Health%20Support.md) |   [arxiv](https://arxiv.org/abs/2009.08441)   | [link](https://github.com/behavioral-data/Empathy-Mental-Health) |   9   |
-| MIME: MIMicking Emotions for Empathetic Response Generation  | [arxiv](https://arxiv.org/pdf/2010.01454.pdf) | [link](https://github.com/facebookresearch/EmpatheticDialogues) |  140  |
+| [MIME: MIMicking Emotions for Empathetic Response Generation](https://github.com/Sahandfer/Empathetic-COAI-Papers/blob/master/MIME%20-%20MIMicking%20Emotions%20for%20Empathetic%20Response%20Generation.md) | [arxiv](https://arxiv.org/pdf/2010.01454.pdf) | [link](https://github.com/facebookresearch/EmpatheticDialogues) |  140  |
 | Empathetic Dialogue Generation via Knowledge Enhancing and Emotion Dependency Modeling |                                               |                                                              |       |
 | EmpTransfo- A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems |                                               |                                                              |       |
-|                   What If Bots Feel Moods                    |                                               |                                                              |       |
+| What If Bots Feel Moods                                      |                                               |                                                              |       |
 
 ## 2019
 
