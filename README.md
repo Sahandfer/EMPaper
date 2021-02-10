@@ -1,6 +1,10 @@
 # Empathetic Conversational AI Papers
 
-> This repository aims to cover the recent work on empathethic conversational AI systems. The related source code for each paper would be provided if available.
+> This repository aims to cover the recent work on empathetic conversational AI systems; this might include relative corpora (i.e. datasets), empathetic chat-bots, computational methods and empathetic models, and even subjects heavily related to empathy such as emotion. The related source code for each paper would be provided if available.
+
+## Disclaimer
+
+The reviews made on this repository are fully based on personal opinion and understanding; the provided ideas or criticism are not guaranteed to  be completely accurate as I have been doing my research in the field of natural language processing and empathetic dialogue generation for a number of months. Please let know if I have made a mistake or proposed a wrong idea. Your comments are much appreciated.
 
 ## 2020
 
@@ -11,7 +15,7 @@
 | Empathetic Dialogue Generation via Knowledge Enhancing and Emotion Dependency Modeling | [arxiv](https://arxiv.org/pdf/2009.09708.pdf) |                                                              |       |
 | EmpTransfo- A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems | [arxiv](https://arxiv.org/pdf/2003.02958.pdf) |                                                              |       |
 | What If Bots Feel Moods                                      |                                               |                                                              |       |
-| Hierarchical Pre-training for Sequence Labelling in Spoken Dialog | [arxiv](https://arxiv.org/pdf/2009.11152.pdf) |                                                              |       |
+| Hierarchical Pre-training for Sequence Labeling in Spoken Dialog | [arxiv](https://arxiv.org/pdf/2009.11152.pdf) |                                                              |       |
 
 ## 2019
 
@@ -41,7 +45,6 @@
 |                            Title                             | Source | Code | Stars |
 | :----------------------------------------------------------: | :----: | :--: | :---: |
 | A Deep Learning Approach to Modeling Empathy in Addiction Counseling |        |      |       |
-
 
 ## Copyright
 
