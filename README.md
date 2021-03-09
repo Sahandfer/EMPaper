@@ -4,20 +4,20 @@
 
 ## 2021
 
-| Title                                                        |                  Source                   |                     Code (:star:)                      | Type  |
-| :----------------------------------------------------------- | :---------------------------------------: | :----------------------------------------------------: | :---: |
-| [WWW21] Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach | [arxiv](https://arxiv.org/abs/2101.07714) | [link](https://github.com/behavioral-data/PARTNER) (3) | Model |
-| EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction | [arxiv](https://arxiv.org/abs/2102.00272) |                           -                            | Model |
+| Title                                                        |                  Source                   |                      Code (:star:)                       | Type  |
+| :----------------------------------------------------------- | :---------------------------------------: | :------------------------------------------------------: | :---: |
+| [WWW21] Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach | [arxiv](https://arxiv.org/abs/2101.07714) | [:link:](https://github.com/behavioral-data/PARTNER) (3) | Model |
+| EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction | [arxiv](https://arxiv.org/abs/2102.00272) |                            -                             | Model |
 
 ## 2020
 
 | Title                                                        |                            Source                            |                        Code (:star:)                         |   Type    |
 | :----------------------------------------------------------- | :----------------------------------------------------------: | :----------------------------------------------------------: | :-------: |
-| [COLING20] A Taxonomy of Empathetic Response Intents in Human Social Conversations |          [arxiv](https://arxiv.org/abs/2012.04080)           | [link](https://github.com/anuradha1992/EmpatheticIntents) (4) |  Dataset  |
-| [[EMNLP20] A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support](https://github.com/Sahandfer/Empathetic-COAI-Papers/blob/master/Reviews/A%20Computational%20Approach%20to%20Understanding%20Empathy%20Expressed%20in%20Text-Based%20Mental%20Health%20Support.md) |          [arxiv](https://arxiv.org/abs/2009.08441)           | [link](https://github.com/behavioral-data/Empathy-Mental-Health) (20) | Framework |
-| [[EMNLP20] MIME: MIMicking Emotions for Empathetic Response Generation](https://github.com/Sahandfer/Empathetic-COAI-Papers/blob/master/Reviews/MIME%20-%20MIMicking%20Emotions%20for%20Empathetic%20Response%20Generation.md) |        [arxiv](https://arxiv.org/pdf/2010.01454.pdf)         | [link](https://github.com/facebookresearch/EmpatheticDialogues) (140) |   Model   |
+| [COLING20] A Taxonomy of Empathetic Response Intents in Human Social Conversations |          [arxiv](https://arxiv.org/abs/2012.04080)           | [:link:](https://github.com/anuradha1992/EmpatheticIntents) (4) |  Dataset  |
+| [[EMNLP20] A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support](https://github.com/Sahandfer/Empathetic-COAI-Papers/blob/master/Reviews/A%20Computational%20Approach%20to%20Understanding%20Empathy%20Expressed%20in%20Text-Based%20Mental%20Health%20Support.md) |          [arxiv](https://arxiv.org/abs/2009.08441)           | [:link:](https://github.com/behavioral-data/Empathy-Mental-Health) (20) | Framework |
+| [[EMNLP20] MIME: MIMicking Emotions for Empathetic Response Generation](https://github.com/Sahandfer/Empathetic-COAI-Papers/blob/master/Reviews/MIME%20-%20MIMicking%20Emotions%20for%20Empathetic%20Response%20Generation.md) |        [arxiv](https://arxiv.org/pdf/2010.01454.pdf)         | [:link:](https://github.com/facebookresearch/EmpatheticDialogues) (140) |   Model   |
 | Towards Empathetic Dialogue Generation over Multi-type Knowledge |          [arxiv](https://arxiv.org/abs/2009.09708)           |                              -                               |   Model   |
-| EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems |          [arxiv](https://arxiv.org/abs/2003.02958)           |   [link](https://github.com/roholazandie/EmpTransfo) (11)    |   Model   |
+| EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems |          [arxiv](https://arxiv.org/abs/2003.02958)           |  [:link:](https://github.com/roholazandie/EmpTransfo) (11)   |   Model   |
 | [SIGIR20] What If Bots Feel Moods ? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks |  [acm](https://dl.acm.org/doi/abs/10.1145/3397271.3401108)   |                              -                               |   Model   |
 | Dialoguetrm: exploring the intra- And inter-modal emotional behaviors in the conversation |          [arxiv](https://arxiv.org/abs/2010.07637)           |                                                              |   Model   |
 | [EMNLP20] A Multi-Persona Chatbot for Hotline Counselor Training | [aclweb](https://www.aclweb.org/anthology/2020.findings-emnlp.324/) |                              -                               | Framework |
@@ -28,7 +28,7 @@
 | :----------------------------------------------------------- | :---------------------------------------: | :----------------------------------------------------------: | :-----: |
 | Emotional Neural Language Generation Grounded in Situational Contexts |                                           |                                                              |         |
 | Generating Responses with a Specific Emotion in Dialog       |                                           |                                                              |         |
-| [ACL19] Towards Empathetic Open-domain Conversation Models   | [arxiv](https://arxiv.org/abs/1811.00207) | [link](https://github.com/facebookresearch/EmpatheticDialogues) (173) | Dataset |
+| [ACL19] Towards Empathetic Open-domain Conversation Models   | [arxiv](https://arxiv.org/abs/1811.00207) | [:link:](https://github.com/facebookresearch/EmpatheticDialogues) (173) | Dataset |
 
 ## 2018
 
