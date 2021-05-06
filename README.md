@@ -2,25 +2,44 @@
 
 > A list of papers related to empathy in dialog systems and empathetic response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--05--05-success" alt="update"/><img src="https://img.shields.io/badge/Psychology%20Paper-Psych-blueviolet" alt="arXiv"/><img src="https://img.shields.io/badge/arXiv%20Paper-arXiv-brightgreen" alt="arXiv"/><img src="https://img.shields.io/badge/Conference%20Paper-conf_name-red" alt="conf"/><img src="https://img.shields.io/badge/Paper%20Type-type-informational" alt="type"/><img src="https://img.shields.io/badge/Source%20Code-Code-2D333B" alt="type"/>
+<img src="https://img.shields.io/badge/Last%20Update-2021--05--06-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-24-2D333B" alt="PaperNum"/>
 
-- <a href="https://arxiv.org/abs/2101.07714"><img src="https://img.shields.io/badge/-WWW21-red" alt="conf"/></a><img src="https://img.shields.io/badge/-Model-informational" alt="type"/><a href="https://github.com/behavioral-data/PARTNER"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a> Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach, 2021.
-- <a href="https://arxiv.org/abs/2102.00272"><img src="https://img.shields.io/badge/-arXiv-brightgreen" alt="arXiv"/></a><img src="https://img.shields.io/badge/-Model-informational" alt="type"/><a href="https://github.com/behavioral-data/PARTNER"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a> EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction, 2021.
-- <a href="https://arxiv.org/abs/2012.04080"><img src="https://img.shields.io/badge/-COLING20-red" alt="conf"/></a><img src="https://img.shields.io/badge/-Dataset-informational" alt="type"/><a href="https://github.com/anuradha1992/EmpatheticIntents"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a> A Taxonomy of Empathetic Response Intents in Human Social Conversations, 2020.
--  <a href="https://arxiv.org/abs/2009.08441"><img src="https://img.shields.io/badge/-EMNLP20-red" alt="conf"/></a><img src="https://img.shields.io/badge/-Framework-informational" alt="type"/><a href="https://github.com/behavioral-data/Empathy-Mental-Health"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a> A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support, 2020.
-- <a href="https://arxiv.org/abs/2010.01454"><img src="https://img.shields.io/badge/-EMNLP20-red" alt="conf"/></a><img src="https://img.shields.io/badge/-Model-informational" alt="type"/><a href="https://github.com/facebookresearch/EmpatheticDialogues"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a>MIME: MIMicking Emotions for Empathetic Response Generation, 2020.
-- <a href="https://arxiv.org/abs/2009.09708"><img src="https://img.shields.io/badge/-EMNLP20-red" alt="conf"/></a><img src="https://img.shields.io/badge/-Model-informational" alt="type"/><a href="https://github.com/facebookresearch/EmpatheticDialogues"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a>Towards Empathetic Dialogue Generation over Multi-type Knowledge, 2020.
-- <a href="https://arxiv.org/abs/2003.02958"><img src="https://img.shields.io/badge/-arXiv-brightgreen" alt="arXiv"></a><img src="https://img.shields.io/badge/-Model-informational" alt="type"/><a href="https://github.com/roholazandie/EmpTransfo"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a>EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems, 2020.
-- <a href="https://dl.acm.org/doi/abs/10.1145/3397271.3401108"><img src="https://img.shields.io/badge/-SIGIR20-red" alt="conf"/></a><img src="https://img.shields.io/badge/-Model-informational" alt="type"/>What If Bots Feel Moods ? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks, 2020.
-- <a href="https://ieeexplore.ieee.org/document/9054379/"><img src="https://img.shields.io/badge/-ICASSP20-red" alt="conf"/></a><img src="https://img.shields.io/badge/-Model-informational" alt="type"/><a href="https://github.com/HLTCHKUST/sentiment-lookahead"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a>Generating Empathetic Responses by Looking Ahead the User's Sentiment, 2020.
-- <a href="https://arxiv.org/abs/2010.07637"><img src="https://img.shields.io/badge/-arXiv-brightgreen" alt="arXiv"></a><img src="https://img.shields.io/badge/-Model-informational" alt="type"/> DialogueTRM: exploring the intra- And inter-modal emotional behaviors in the conversation, 2020.
-- <a href="https://www.aclweb.org/anthology/2020.findings-emnlp.324"><img src="https://img.shields.io/badge/-EMNLP20-red" alt="conf"/></a><img src="https://img.shields.io/badge/-Framework-informational" alt="type"/>A Multi-Persona Chatbot for Hotline Counselor Training, 2020.
-- <a href="https://arxiv.org/abs/1811.00207"><img src="https://img.shields.io/badge/-ACL19-red" alt="conf"/></a><img src="https://img.shields.io/badge/-Dataset-informational" alt="type"/><a href="https://github.com/facebookresearch/EmpatheticDialogues"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a> Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset, 2019.
-- <a href="http://arxiv.org/abs/1911.11161"><img src="https://img.shields.io/badge/-arXiv-brightgreen" alt="arXiv"></a><img src="https://img.shields.io/badge/-Model-informational" alt="type"/><a href="https://github.com/sashank06/CCNLG-emotion"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a> Emotional Neural Language Generation Grounded in Situational Contexts, 2019.
-- <a href="http://arxiv.org/abs/1911.11161"><img src="https://img.shields.io/badge/-ACL19-red" alt="conf"/></a><img src="https://img.shields.io/badge/-Model-informational" alt="type"/> Generating Responses with a Specific Emotion in Dialog, 2019.
-- <a href="http://arxiv.org/abs/1802.08379"><img src="https://img.shields.io/badge/-LREC18-red" alt="conf"></a><img src="https://img.shields.io/badge/-Dataset-informational" alt="type"/><a href="https://academiasinicanlplab.github.io/#download"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a> EmotionLines: An Emotion Corpus of Multi-Party Conversations, 2018.
-- <a href="http://arxiv.org/abs/1802.08379"><img src="https://img.shields.io/badge/-AAAI18-red" alt="conf"></a><img src="https://img.shields.io/badge/-Model-informational" alt="type"/><a href="https://github.com/tuxchow/ecm"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a> Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, 2018.
-- <a href="http://aclweb.org/anthology/D18-1004"><img src="https://img.shields.io/badge/-EMNLP18-red" alt="conf"></a><img src="https://img.shields.io/badge/-Dataset-informational" alt="type"/><a href="https://github.com/davidjurgens/support"><img src="https://img.shields.io/badge/-Code-2D333B" alt="type"/></a> It’s going to be okay: Measuring Access to Support in Online Communities, 2018.
+# <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
+
+- `WWW21` Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach, 2021. [[pdf]](https://arxiv.org/abs/2101.07714) [[code]](https://github.com/behavioral-data/PARTNER)
+- EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction, 2021. [[pdf]](https://arxiv.org/abs/2102.00272)
+- `EMNLP20` MIME: MIMicking Emotions for Empathetic Response Generation, 2020. [[pdf]](https://arxiv.org/abs/2010.01454) [[code]](https://github.com/declare-lab/MIME)
+- EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems, 2020. [[pdf]](https://arxiv.org/abs/2003.02958) [[code]](https://github.com/roholazandie/EmpTransfo)
+- `SIGIR20` What If Bots Feel Moods ? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks, 2020. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3397271.3401108)
+- `ICASSP20` Generating Empathetic Responses by Looking Ahead the User's Sentiment, 2020. [[pdf]](https://ieeexplore.ieee.org/document/9054379/) [[code]](https://github.com/HLTCHKUST/sentiment-lookahead)
+- DialogueTRM: exploring the intra- And inter-modal emotional behaviors in the conversation, 2020. [[pdf]](https://arxiv.org/abs/2010.07637)
+- `COLING20` EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation, 2020 [[pdf]](https://arxiv.org/abs/1911.08698) [[code]](https://github.com/qtli/EmpDG)
+- HappyBot: Generating Empathetic Dialogue Responses by Improving User Experience Look-ahead, 2019.  [[pdf]](http://arxiv.org/abs/1906.08487)
+- Emotional Neural Language Generation Grounded in Situational Contexts, 2019. [[pdf]](http://arxiv.org/abs/1911.11161) [[code]](https://github.com/sashank06/CCNLG-emotion)
+- `ACL19`  Generating Responses with a Specific Emotion in Dialog, 2019. [[pdf]](http://arxiv.org/abs/1911.11161)
+- `AAI18` Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, 2018. [[pdf]](http://arxiv.org/abs/1802.08379) [[code]](https://github.com/tuxchow/ecm)
+
+# <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
+
+- `COLING20` A Taxonomy of Empathetic Response Intents in Human Social Conversations, 2020. [[pdf]](http://arxiv.org/abs/2012.04080) [[code]](https://github.com/anuradha1992/EmpatheticIntents)
+- `ACL19` Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset, 2019. [[pdf]](https://arxiv.org/abs/1811.00207) [[code]](https://github.com/facebookresearch/EmpatheticDialogues)
+- `LREC18` EmotionLines: An Emotion Corpus of Multi-Party Conversations, 2018. [[pdf]](http://arxiv.org/abs/1802.08379) [[code]](https://academiasinicanlplab.github.io/#download)
+- `EMNLP18` It’s going to be okay: Measuring Access to Support in Online Communities, 2018. [[pdf]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/davidjurgens/support)
+
+# <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
+
+- `EMNLP20` A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support, 2020. [[pdf]](https://arxiv.org/abs/2009.08441) [[code]](ttps://github.com/behavioral-data/Empathy-Mental-Health)
+- `EMNLP20` A Multi-Persona Chatbot for Hotline Counselor Training, 2020. [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.324)
+
+# <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
+
+
+- Are we really measuring empathy? Proposal for a new measurement framework, 2017. [[pdf]](https://linkinghub.elsevier.com/retrieve/pii/S0149763417304852)
+- The positive (and negative) psychology of empathy, 2016. [[pdf]](https://www.semanticscholar.org/paper/The-Positive-(and-Negative)-Psychology-of-Empathy-Grynberg-Konrath/4d7278564c9ece399f62df490960c2e0b4d73860)
+- Empathy: A review of the concept, 2016. [[pdf]](http://journals.sagepub.com/doi/10.1177/1754073914558466)
+- Information seeking and social support in online health communities: Impact on patients' perceived empathy, 2011. [[pdf]](https://academic.oup.com/jamia/article/18/3/298/699704)
+- The fullness of empathy: reflections and illustrations, 1995. [[pdf]](http://ajot.aota.org/Article.aspx?doi=10.5014/ajot.49.1.24)
+- Empathy: The charismatic chimera, 1978. [[pdf]](http://www.tandfonline.com/doi/abs/10.1080/00220612.1978.10671527)
 
 ## Copyright
 
