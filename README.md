@@ -18,6 +18,7 @@
 - `ACL19`  Generating Responses with a Specific Emotion in Dialog, 2019. [[pdf]](http://arxiv.org/abs/1911.11161)
 - `AAI18` Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, 2018. [[pdf]](http://arxiv.org/abs/1802.08379) [[code]](https://github.com/tuxchow/ecm)
 - A deep learning approach to modeling empathy in addiction counseling, 2016. [[pdf]](http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0554.html)
+- Empathetic BERT2BERT Conversational Model: Learning Arabic Language Generation with Little Data [[pdf]](https://arxiv.org/pdf/2103.04353.pdf) [[code]](https://github.com/aub-mind/Arabic-Empathetic-Chatbot)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
