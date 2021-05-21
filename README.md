@@ -2,7 +2,7 @@
 
 > A list of papers related to empathy in dialog systems and empathetic response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--05--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-35-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Last%20Update-2021--05--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-36-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -10,6 +10,7 @@
 - Generating Empathetic Responses with a Large Scale Dialog Dataset [[pdf]](http://arxiv.org/abs/2105.06829)
 - Towards Detecting Need for Empathetic Response in Motivational Interviewing, 2021. [[pdf]](http://arxiv.org/abs/2105.09649) 
 - `WWW21` Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach, 2021. [[pdf]](https://arxiv.org/abs/2101.07714) [[code]](https://github.com/behavioral-data/PARTNER)
+- Empathetic BERT2BERT Conversational Model: Learning Arabic Language Generation with Little Data, 2021. [[pdf]](https://arxiv.org/abs/2103.04353) [[code]](https://github.com/aub-mind/Arabic-Empathetic-Chatbot)
 - EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction, 2021. [[pdf]](https://arxiv.org/abs/2102.00272)
 - `EMNLP20` MIME: MIMicking Emotions for Empathetic Response Generation, 2020. [[pdf]](https://arxiv.org/abs/2010.01454) [[code]](https://github.com/declare-lab/MIME)
 - EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems, 2020. [[pdf]](https://arxiv.org/abs/2003.02958) [[code]](https://github.com/roholazandie/EmpTransfo)
