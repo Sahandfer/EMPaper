@@ -2,10 +2,12 @@
 
 > A list of papers related to empathy in dialog systems and empathetic response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--05--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-36-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Last%20Update-2021--05--26-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-38-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- Towards an Online Empathetic Chatbot with Emotion Causes, 2021. [[pdf]](http://arxiv.org/abs/2105.11903)
+- Towards Detecting Need for Empathetic Response in Motivational Interviewing. 2021. [[pdf]](http://arxiv.org/abs/2105.09649)
 - `ACL21` CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation, 2021. [[pdf]](https://arxiv.org/abs/2105.08316) [[code]](https://github.com/chujiezheng/CoMAE)
 - Generating Empathetic Responses with a Large Scale Dialog Dataset [[pdf]](http://arxiv.org/abs/2105.06829)
 - Towards Detecting Need for Empathetic Response in Motivational Interviewing, 2021. [[pdf]](http://arxiv.org/abs/2105.09649) 
@@ -59,3 +61,4 @@
 ## Copyright
 
 The contents of this repository is bound by the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
+
