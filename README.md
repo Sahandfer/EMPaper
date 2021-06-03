@@ -2,7 +2,7 @@
 
 > A list of papers related to empathy in dialog systems and empathetic response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--06--02-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-40-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Last%20Update-2021--06--03-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-43-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -24,6 +24,8 @@
 - Emotional Neural Language Generation Grounded in Situational Contexts, 2019. [[pdf]](http://arxiv.org/abs/1911.11161) [[code]](https://github.com/sashank06/CCNLG-emotion)
 - `ACL19`  Generating Responses with a Specific Emotion in Dialog, 2019. [[pdf]](http://arxiv.org/abs/1911.11161)
 - `AAI18` Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, 2018. [[pdf]](http://arxiv.org/abs/1802.08379) [[code]](https://github.com/tuxchow/ecm)
+- `AAAI18` Eliciting Positive Emotion through Affect-Sensitive Dialogue Response Generation: A Neural Network Approach, 2018. [[pdf]](https://ahcweb01.naist.jp/papers/conference/2018/201802_AAAI_nurul-lu_1/201802_AAAI_nurul-lu_1.paper.pdf)
+- `ACL17` Affect-LM: A Neural Language Model for Customizable Affective Text Generation, 2017. [[pdf]](http://arxiv.org/abs/1704.06851)
 - A deep learning approach to modeling empathy in addiction counseling, 2016. [[pdf]](http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0554.html)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
@@ -32,6 +34,7 @@
 - `ACL19` Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset, 2019. [[pdf]](https://arxiv.org/abs/1811.00207) [[code]](https://github.com/facebookresearch/EmpatheticDialogues)
 - `LREC18` EmotionLines: An Emotion Corpus of Multi-Party Conversations, 2018. [[pdf]](http://arxiv.org/abs/1802.08379) [[code]](https://academiasinicanlplab.github.io/#download)
 - `EMNLP18` It’s going to be okay: Measuring Access to Support in Online Communities, 2018. [[pdf]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/davidjurgens/support)
+- `ACL17` MojiTalk: Generating Emotional Responses at Scale, 2017. [[pdf]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/ArponKundu/UIU_MojiTalk?utm_source=catalyzex.com)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
