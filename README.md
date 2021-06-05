@@ -2,10 +2,11 @@
 
 > A list of papers related to empathy in dialog systems and empathetic response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--06--03-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-43-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Last%20Update-2021--06--05-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-47-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- `CPL21` Towards Low-Resource Real-Time Assessment of Empathy in Counselling, 2021. [[pdf]](https://www.aclweb.org/anthology/2021.clpsych-1.22/)
 - SentEmojiBot: Empathising Conversations Generation with Emojis, 2021. [[pdf]](http://arxiv.org/abs/2105.12399)
 - Towards an Online Empathetic Chatbot with Emotion Causes, 2021. [[pdf]](http://arxiv.org/abs/2105.11903)
 - Towards Detecting Need for Empathetic Response in Motivational Interviewing. 2021. [[pdf]](http://arxiv.org/abs/2105.09649)
@@ -30,6 +31,8 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
+- `ACL21` Towards Emotional Support Dialog Systems, 2021. [[pdf]](http://arxiv.org/abs/2106.01144) [[code]](https://github.com/thu-coai/Emotional-Support-Conversation)
+- `ACL21` PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support, 2021. [[pdf]](http://arxiv.org/abs/2106.01702)
 - `COLING20` A Taxonomy of Empathetic Response Intents in Human Social Conversations, 2020. [[pdf]](http://arxiv.org/abs/2012.04080) [[code]](https://github.com/anuradha1992/EmpatheticIntents)
 - `ACL19` Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset, 2019. [[pdf]](https://arxiv.org/abs/1811.00207) [[code]](https://github.com/facebookresearch/EmpatheticDialogues)
 - `LREC18` EmotionLines: An Emotion Corpus of Multi-Party Conversations, 2018. [[pdf]](http://arxiv.org/abs/1802.08379) [[code]](https://academiasinicanlplab.github.io/#download)
@@ -38,6 +41,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
+- Supporting Cognitive and Emotional Empathic Writing of Students, 2021. [[pdf]](http://arxiv.org/abs/2105.14815)
 - `EMNLP20` A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support, 2020. [[pdf]](https://arxiv.org/abs/2009.08441) [[code]](https://github.com/behavioral-data/Empathy-Mental-Health)
 - `EMNLP20` A Multi-Persona Chatbot for Hotline Counselor Training, 2020. [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.324)
 - `EMNLP20` Towards Persona-Based Empathetic Conversational Models [[pdf]](http://arxiv.org/abs/2004.12316) [[code]](https://github.com/zhongpeixiang/PEC)
