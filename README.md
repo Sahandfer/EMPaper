@@ -2,7 +2,7 @@
 
 > A list of papers related to empathy in dialog systems and empathetic response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--06--05-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-47-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Last%20Update-2021--06--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-48-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -48,6 +48,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Chatbot-ff69bf" alt="arXiv"/>
 
+- ERICA: An Empathetic Android Companion for Covid-19 Quarantine, 2021. [[pdf]](http://arxiv.org/abs/2106.02325)
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2020. [[pdf]](http://arxiv.org/abs/1812.08989)
 - Recipes for building an open-domain chatbot, 2020. [[pdf]](http://arxiv.org/abs/2004.13637)
 - Towards a Human-like Open-Domain Chatbot, 2020. [[pdf]](http://arxiv.org/abs/2001.09977)
