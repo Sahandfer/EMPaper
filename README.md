@@ -2,10 +2,11 @@
 
 > A list of papers related to empathy in dialog systems and empathetic response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--06--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-48-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Last%20Update-2021--06--30-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-49-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- `CIKM21` Exemplars-guided Empathetic Response Generation Controlled by the Elements of Human Communication, 2021. [[pdf]](http://arxiv.org/abs/2106.11791) [[code]](https://github.com/declare-lab/exemplary-empathy)
 - `CPL21` Towards Low-Resource Real-Time Assessment of Empathy in Counselling, 2021. [[pdf]](https://www.aclweb.org/anthology/2021.clpsych-1.22/)
 - SentEmojiBot: Empathising Conversations Generation with Emojis, 2021. [[pdf]](http://arxiv.org/abs/2105.12399)
 - Towards an Online Empathetic Chatbot with Emotion Causes, 2021. [[pdf]](http://arxiv.org/abs/2105.11903)
