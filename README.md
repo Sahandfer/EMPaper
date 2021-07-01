@@ -2,7 +2,7 @@
 
 > A list of papers related to empathy in dialog systems and empathetic response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--06--30-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-49-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Last%20Update-2021--07--01-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-50-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -59,6 +59,7 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
 
+- Facilitation of human empathy through self-disclosure of anthropomorphic agents, 2021. [[pdf]](http://arxiv.org/abs/2106.09906)
 - A theoretical approach for a novel model to Realizing Empathy, 2020. [[pdf](https://arxiv.org/abs/2009.01229)]
 - I like that you feel my pain, but I love that you feel my joy: Empathy for a partner’s negative versus positive emotions independently affect relationship quality, 2019. [[pdf]](http://journals.sagepub.com/doi/10.1177/0265407517746518)
 - Are we really measuring empathy? Proposal for a new measurement framework, 2017. [[pdf]](https://linkinghub.elsevier.com/retrieve/pii/S0149763417304852)
