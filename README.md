@@ -2,7 +2,7 @@
 
 > A list of papers related to empathy in dialog systems and empathetic response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--07--01-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-50-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Last%20Update-2021--07--03-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-51-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -42,6 +42,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
+- Automatically Select Emotion for Response via Personality-affected Emotion Transition, 2021. [[pdf]](http://arxiv.org/abs/2106.15846)
 - Supporting Cognitive and Emotional Empathic Writing of Students, 2021. [[pdf]](http://arxiv.org/abs/2105.14815)
 - `EMNLP20` A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support, 2020. [[pdf]](https://arxiv.org/abs/2009.08441) [[code]](https://github.com/behavioral-data/Empathy-Mental-Health)
 - `EMNLP20` A Multi-Persona Chatbot for Hotline Counselor Training, 2020. [[pdf]](https://www.aclweb.org/anthology/2020.findings-emnlp.324)
