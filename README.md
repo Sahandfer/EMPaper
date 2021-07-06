@@ -60,9 +60,9 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
 
-- `ACL21` Exploring Self-Identified Counseling Expertise in Online Support Forums, 2021. [[pdf](http://arxiv.org/abs/2106.12976)]
-- Facilitation of human empathy through self-disclosure of anthropomorphic agents, 2021. [[pdf](http://arxiv.org/abs/2106.09906)]
-- A theoretical approach for a novel model to Realizing Empathy, 2020. [[pdf](https://arxiv.org/abs/2009.01229)]
+- `ACL21` Exploring Self-Identified Counseling Expertise in Online Support Forums, 2021. [[pdf]](http://arxiv.org/abs/2106.12976) [[code]](https://github.com/MichiganNLP/MHP-and-Peers-Reddit)
+- Facilitation of human empathy through self-disclosure of anthropomorphic agents, 2021. [[pdf]](http://arxiv.org/abs/2106.09906)
+- A theoretical approach for a novel model to Realizing Empathy, 2020. [[pdf]](https://arxiv.org/abs/2009.01229)
 - I like that you feel my pain, but I love that you feel my joy: Empathy for a partner’s negative versus positive emotions independently affect relationship quality, 2019. [[pdf]](http://journals.sagepub.com/doi/10.1177/0265407517746518)
 - Are we really measuring empathy? Proposal for a new measurement framework, 2017. [[pdf]](https://linkinghub.elsevier.com/retrieve/pii/S0149763417304852)
 - The positive (and negative) psychology of empathy, 2016. [[pdf]](https://www.semanticscholar.org/paper/The-Positive-(and-Negative)-Psychology-of-Empathy-Grynberg-Konrath/4d7278564c9ece399f62df490960c2e0b4d73860)
