@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--07--06-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-52-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Last%20Update-2021--07--11-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-54-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -17,6 +17,7 @@
 - `WWW21` Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach, 2021. [[pdf]](https://arxiv.org/abs/2101.07714) [[code]](https://github.com/behavioral-data/PARTNER)
 - Empathetic BERT2BERT Conversational Model: Learning Arabic Language Generation with Little Data, 2021. [[pdf]](https://arxiv.org/abs/2103.04353) [[code]](https://github.com/aub-mind/Arabic-Empathetic-Chatbot)
 - EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction, 2021. [[pdf]](https://arxiv.org/abs/2102.00272)
+- Towards Empathetic Dialogue Generation over Multi-type Knowledge, 2020. [[pdf]](http://arxiv.org/abs/2009.09708)
 - `EMNLP20` MIME: MIMicking Emotions for Empathetic Response Generation, 2020. [[pdf]](https://arxiv.org/abs/2010.01454) [[code]](https://github.com/declare-lab/MIME)
 - EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems, 2020. [[pdf]](https://arxiv.org/abs/2003.02958) [[code]](https://github.com/roholazandie/EmpTransfo)
 - `SIGIR20` What If Bots Feel Moods ? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks, 2020. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3397271.3401108)
@@ -24,6 +25,7 @@
 - DialogueTRM: exploring the intra- And inter-modal emotional behaviors in the conversation, 2020. [[pdf]](https://arxiv.org/abs/2010.07637)
 - `COLING20` EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation, 2020 [[pdf]](https://arxiv.org/abs/1911.08698) [[code]](https://github.com/qtli/EmpDG)
 - Emotional Neural Language Generation Grounded in Situational Contexts, 2019. [[pdf]](http://arxiv.org/abs/1911.11161) [[code]](https://github.com/sashank06/CCNLG-emotion)
+- `EMNLP19`  MOEL: Mixture of empathetic listeners, 2019. [[pdf]](https://www.aclweb.org/anthology/D19-1012) [[code]](https://github.com/HLTCHKUST/MoEL)
 - `ACL19`  Generating Responses with a Specific Emotion in Dialog, 2019. [[pdf]](http://arxiv.org/abs/1911.11161)
 - `AAAI18` Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, 2018. [[pdf]](http://arxiv.org/abs/1802.08379) [[code]](https://github.com/tuxchow/ecm)
 - `AAAI18` Eliciting Positive Emotion through Affect-Sensitive Dialogue Response Generation: A Neural Network Approach, 2018. [[pdf]](https://ahcweb01.naist.jp/papers/conference/2018/201802_AAAI_nurul-lu_1/201802_AAAI_nurul-lu_1.paper.pdf)
