@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Last%20Update-2021--07--13-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-60-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--07--16-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-63-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -29,6 +29,7 @@
 - Emotional Neural Language Generation Grounded in Situational Contexts, 2019. [[pdf]](http://arxiv.org/abs/1911.11161) [[code]](https://github.com/sashank06/CCNLG-emotion)
 - `EMNLP19`  MOEL: Mixture of empathetic listeners, 2019. [[pdf]](https://www.aclweb.org/anthology/D19-1012) [[code]](https://github.com/HLTCHKUST/MoEL)
 - `ACL19`  Generating Responses with a Specific Emotion in Dialog, 2019. [[pdf]](http://arxiv.org/abs/1911.11161)
+- `LREC19`  Empathetic dialog systems, 2019. [[pdf]](http://lrec2018.lrec-conf.org/media/filer_public/2018/05/03/pascale_fungempathetic_dialog_systems.pdf)
 - `AAAI18` Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, 2018. [[pdf]](http://arxiv.org/abs/1802.08379) [[code]](https://github.com/tuxchow/ecm)
 - `AAAI18` Eliciting Positive Emotion through Affect-Sensitive Dialogue Response Generation: A Neural Network Approach, 2018. [[pdf]](https://ahcweb01.naist.jp/papers/conference/2018/201802_AAAI_nurul-lu_1/201802_AAAI_nurul-lu_1.paper.pdf)
 - `ACL17` Affect-LM: A Neural Language Model for Customizable Affective Text Generation, 2017. [[pdf]](http://arxiv.org/abs/1704.06851)
@@ -74,11 +75,13 @@
 - Are we really measuring empathy? Proposal for a new measurement framework, 2017. [[pdf]](https://linkinghub.elsevier.com/retrieve/pii/S0149763417304852)
 - The positive (and negative) psychology of empathy, 2016. [[pdf]](https://www.semanticscholar.org/paper/The-Positive-(and-Negative)-Psychology-of-Empathy-Grynberg-Konrath/4d7278564c9ece399f62df490960c2e0b4d73860)
 - Empathy: A review of the concept, 2016. [[pdf]](http://journals.sagepub.com/doi/10.1177/1754073914558466)
+- The Emerging Study of Positive Empathy, 2015. [[pdf]](https://onlinelibrary.wiley.com/doi/10.1111/spc3.12157)
 - From what isn’t empathy to empathic learning process, 2013. [[pdf]](https://linkinghub.elsevier.com/retrieve/pii/S1877042814010696)
 - Information seeking and social support in online health communities: Impact on patients' perceived empathy, 2011. [[pdf]](https://academic.oup.com/jamia/article/18/3/298/699704)
 - The fullness of empathy: reflections and illustrations, 1995. [[pdf]](http://ajot.aota.org/Article.aspx?doi=10.5014/ajot.49.1.24)
 - Empathy: The charismatic chimera, 1978. [[pdf]](http://www.tandfonline.com/doi/abs/10.1080/00220612.1978.10671527)
 - A measure of emotional empathy, 1972. [[pdf]](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.1972.tb00078.x)
+- The nature of sympathy in the art of psychotherapy, 1961. [[pdf]](https://www.tandfonline.com/doi/abs/10.1080/00332747.1961.11023267)
 
 ## Copyright
 
