@@ -2,10 +2,12 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--07--16-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-63-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--08--20-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-65-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- `ACL21` Modulating Language Models with Emotions, 2021. [[pdf]](https://arxiv.org/abs/2108.07886)
+- `INLG21` Affective Decoding for Empathetic Response Generation, 2021. [[pdf]](https://arxiv.org/abs/2108.08102) [[code]](Affective Decoding for Empathetic Response Generation)
 - `CIKM21` Exemplars-guided Empathetic Response Generation Controlled by the Elements of Human Communication, 2021. [[pdf]](http://arxiv.org/abs/2106.11791) [[code]](https://github.com/declare-lab/exemplary-empathy)
 - `CPL21` Towards Low-Resource Real-Time Assessment of Empathy in Counselling, 2021. [[pdf]](https://www.aclweb.org/anthology/2021.clpsych-1.22/)
 - SentEmojiBot: Empathising Conversations Generation with Emojis, 2021. [[pdf]](http://arxiv.org/abs/2105.12399)
