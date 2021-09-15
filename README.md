@@ -7,69 +7,37 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
 - CEM: Commonsense-aware Empathetic Response Generation, 2021. [[pdf]](https://arxiv.org/abs/2109.05739)
-
 - Empathetic Dialogue Generation with Pre-trained RoBERTa-GPT2 and External Knowledge, 2021. [[pdf]](https://arxiv.org/abs/2109.03004)
-
 - `ACL21` Modulating Language Models with Emotions, 2021. [[pdf]](https://arxiv.org/abs/2108.07886)
-
 - `INLG21` Affective Decoding for Empathetic Response Generation, 2021. [[pdf]](https://arxiv.org/abs/2108.08102) [[code]](https://github.com/zenggo/affective-decoding-4-empathetic-dialog)
-
 - `CIKM21` Exemplars-guided Empathetic Response Generation Controlled by the Elements of Human Communication, 2021. [[pdf]](http://arxiv.org/abs/2106.11791) [[code]](https://github.com/declare-lab/exemplary-empathy)
-
 - `CPL21` Towards Low-Resource Real-Time Assessment of Empathy in Counselling, 2021. [[pdf]](https://www.aclweb.org/anthology/2021.clpsych-1.22/)
-
 - Modeling Human Motives and Emotions from Personal Narratives Using External Knowledge And Entity Tracking, 2021. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3442381.3449997)
-
 - SentEmojiBot: Empathising Conversations Generation with Emojis, 2021. [[pdf]](http://arxiv.org/abs/2105.12399)
-
 - Towards an Online Empathetic Chatbot with Emotion Causes, 2021. [[pdf]](http://arxiv.org/abs/2105.11903)
-
 - Towards Detecting Need for Empathetic Response in Motivational Interviewing. 2021. [[pdf]](http://arxiv.org/abs/2105.09649)
-
 - `ACL21` CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation, 2021. [[pdf]](https://arxiv.org/abs/2105.08316) [[code]](https://github.com/chujiezheng/CoMAE)
-
 - Generative Adversarial Imitation Learning for Empathy-based AI, 2021. [[pdf]](http://arxiv.org/abs/2105.13328)
-
 - Generating Empathetic Responses with a Large Scale Dialog Dataset [[pdf]](http://arxiv.org/abs/2105.06829)
-
 - Towards Detecting Need for Empathetic Response in Motivational Interviewing, 2021. [[pdf]](http://arxiv.org/abs/2105.09649) 
-
 - `WWW21` Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach, 2021. [[pdf]](https://arxiv.org/abs/2101.07714) [[code]](https://github.com/behavioral-data/PARTNER)
-
 - Empathetic BERT2BERT Conversational Model: Learning Arabic Language Generation with Little Data, 2021. [[pdf]](https://arxiv.org/abs/2103.04353) [[code]](https://github.com/aub-mind/Arabic-Empathetic-Chatbot)
-
 - EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction, 2021. [[pdf]](https://arxiv.org/abs/2102.00272)
-
 - Towards Empathetic Dialogue Generation over Multi-type Knowledge, 2020. [[pdf]](http://arxiv.org/abs/2009.09708)
-
 - `LREC20` Learning word ratings for empathy and distress from document-level user responses, 2020. [[pdf]](http://arxiv.org/abs/1912.01079)
-
 - `EMNLP20` MIME: MIMicking Emotions for Empathetic Response Generation, 2020. [[pdf]](https://arxiv.org/abs/2010.01454) [[code]](https://github.com/declare-lab/MIME)
-
 - EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems, 2020. [[pdf]](https://arxiv.org/abs/2003.02958) [[code]](https://github.com/roholazandie/EmpTransfo)
-
 - `SIGIR20` What If Bots Feel Moods ? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks, 2020. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3397271.3401108)
-
 - `ICASSP20` Generating Empathetic Responses by Looking Ahead the User's Sentiment, 2020. [[pdf]](https://ieeexplore.ieee.org/document/9054379/) [[code]](https://github.com/HLTCHKUST/sentiment-lookahead)
-
 - DialogueTRM: exploring the intra- And inter-modal emotional behaviors in the conversation, 2020. [[pdf]](https://arxiv.org/abs/2010.07637)
-
 - `COLING20` EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation, 2020 [[pdf]](https://arxiv.org/abs/1911.08698) [[code]](https://github.com/qtli/EmpDG)
-
 - Emotional Neural Language Generation Grounded in Situational Contexts, 2019. [[pdf]](http://arxiv.org/abs/1911.11161) [[code]](https://github.com/sashank06/CCNLG-emotion)
-
 - `EMNLP19`  MOEL: Mixture of empathetic listeners, 2019. [[pdf]](https://www.aclweb.org/anthology/D19-1012) [[code]](https://github.com/HLTCHKUST/MoEL)
-
 - `ACL19`  Generating Responses with a Specific Emotion in Dialog, 2019. [[pdf]](http://arxiv.org/abs/1911.11161)
-
 - `LREC19`  Empathetic dialog systems, 2019. [[pdf]](http://lrec2018.lrec-conf.org/media/filer_public/2018/05/03/pascale_fungempathetic_dialog_systems.pdf)
-
 - `AAAI18` Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, 2018. [[pdf]](http://arxiv.org/abs/1802.08379) [[code]](https://github.com/tuxchow/ecm)
-
 - `AAAI18` Eliciting Positive Emotion through Affect-Sensitive Dialogue Response Generation: A Neural Network Approach, 2018. [[pdf]](https://ahcweb01.naist.jp/papers/conference/2018/201802_AAAI_nurul-lu_1/201802_AAAI_nurul-lu_1.paper.pdf)
-
 - `ACL17` Affect-LM: A Neural Language Model for Customizable Affective Text Generation, 2017. [[pdf]](http://arxiv.org/abs/1704.06851)
-
 - A deep learning approach to modeling empathy in addiction counseling, 2016. [[pdf]](http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0554.html)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
@@ -103,7 +71,6 @@
 - CAiRE: An Empathetic Neural Chatbot, 2019. [[pdf]](http://arxiv.org/abs/1907.12108)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
-
 
 - `ACL21` Exploring Self-Identified Counseling Expertise in Online Support Forums, 2021. [[pdf]](http://arxiv.org/abs/2106.12976) [[code]](https://github.com/MichiganNLP/MHP-and-Peers-Reddit)
 - Facilitation of human empathy through self-disclosure of anthropomorphic agents, 2021. [[pdf]](http://arxiv.org/abs/2106.09906)
