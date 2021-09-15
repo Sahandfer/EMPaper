@@ -2,43 +2,80 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--08--20-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-65-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--09--15-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-72-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- CEM: Commonsense-aware Empathetic Response Generation, 2021. [[pdf]](https://arxiv.org/abs/2109.05739)
+
+- Empathetic Dialogue Generation with Pre-trained RoBERTa-GPT2 and External Knowledge, 2021. [[pdf]](https://arxiv.org/abs/2109.03004)
+
 - `ACL21` Modulating Language Models with Emotions, 2021. [[pdf]](https://arxiv.org/abs/2108.07886)
-- `INLG21` Affective Decoding for Empathetic Response Generation, 2021. [[pdf]](https://arxiv.org/abs/2108.08102) [[code]](Affective Decoding for Empathetic Response Generation)
+
+- `INLG21` Affective Decoding for Empathetic Response Generation, 2021. [[pdf]](https://arxiv.org/abs/2108.08102) [[code]](https://github.com/zenggo/affective-decoding-4-empathetic-dialog)
+
 - `CIKM21` Exemplars-guided Empathetic Response Generation Controlled by the Elements of Human Communication, 2021. [[pdf]](http://arxiv.org/abs/2106.11791) [[code]](https://github.com/declare-lab/exemplary-empathy)
+
 - `CPL21` Towards Low-Resource Real-Time Assessment of Empathy in Counselling, 2021. [[pdf]](https://www.aclweb.org/anthology/2021.clpsych-1.22/)
+
+- Modeling Human Motives and Emotions from Personal Narratives Using External Knowledge And Entity Tracking, 2021. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3442381.3449997)
+
 - SentEmojiBot: Empathising Conversations Generation with Emojis, 2021. [[pdf]](http://arxiv.org/abs/2105.12399)
+
 - Towards an Online Empathetic Chatbot with Emotion Causes, 2021. [[pdf]](http://arxiv.org/abs/2105.11903)
+
 - Towards Detecting Need for Empathetic Response in Motivational Interviewing. 2021. [[pdf]](http://arxiv.org/abs/2105.09649)
+
 - `ACL21` CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation, 2021. [[pdf]](https://arxiv.org/abs/2105.08316) [[code]](https://github.com/chujiezheng/CoMAE)
+
 - Generative Adversarial Imitation Learning for Empathy-based AI, 2021. [[pdf]](http://arxiv.org/abs/2105.13328)
+
 - Generating Empathetic Responses with a Large Scale Dialog Dataset [[pdf]](http://arxiv.org/abs/2105.06829)
+
 - Towards Detecting Need for Empathetic Response in Motivational Interviewing, 2021. [[pdf]](http://arxiv.org/abs/2105.09649) 
+
 - `WWW21` Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach, 2021. [[pdf]](https://arxiv.org/abs/2101.07714) [[code]](https://github.com/behavioral-data/PARTNER)
+
 - Empathetic BERT2BERT Conversational Model: Learning Arabic Language Generation with Little Data, 2021. [[pdf]](https://arxiv.org/abs/2103.04353) [[code]](https://github.com/aub-mind/Arabic-Empathetic-Chatbot)
+
 - EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction, 2021. [[pdf]](https://arxiv.org/abs/2102.00272)
+
 - Towards Empathetic Dialogue Generation over Multi-type Knowledge, 2020. [[pdf]](http://arxiv.org/abs/2009.09708)
+
 - `LREC20` Learning word ratings for empathy and distress from document-level user responses, 2020. [[pdf]](http://arxiv.org/abs/1912.01079)
+
 - `EMNLP20` MIME: MIMicking Emotions for Empathetic Response Generation, 2020. [[pdf]](https://arxiv.org/abs/2010.01454) [[code]](https://github.com/declare-lab/MIME)
+
 - EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems, 2020. [[pdf]](https://arxiv.org/abs/2003.02958) [[code]](https://github.com/roholazandie/EmpTransfo)
+
 - `SIGIR20` What If Bots Feel Moods ? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks, 2020. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3397271.3401108)
+
 - `ICASSP20` Generating Empathetic Responses by Looking Ahead the User's Sentiment, 2020. [[pdf]](https://ieeexplore.ieee.org/document/9054379/) [[code]](https://github.com/HLTCHKUST/sentiment-lookahead)
+
 - DialogueTRM: exploring the intra- And inter-modal emotional behaviors in the conversation, 2020. [[pdf]](https://arxiv.org/abs/2010.07637)
+
 - `COLING20` EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation, 2020 [[pdf]](https://arxiv.org/abs/1911.08698) [[code]](https://github.com/qtli/EmpDG)
+
 - Emotional Neural Language Generation Grounded in Situational Contexts, 2019. [[pdf]](http://arxiv.org/abs/1911.11161) [[code]](https://github.com/sashank06/CCNLG-emotion)
+
 - `EMNLP19`  MOEL: Mixture of empathetic listeners, 2019. [[pdf]](https://www.aclweb.org/anthology/D19-1012) [[code]](https://github.com/HLTCHKUST/MoEL)
+
 - `ACL19`  Generating Responses with a Specific Emotion in Dialog, 2019. [[pdf]](http://arxiv.org/abs/1911.11161)
+
 - `LREC19`  Empathetic dialog systems, 2019. [[pdf]](http://lrec2018.lrec-conf.org/media/filer_public/2018/05/03/pascale_fungempathetic_dialog_systems.pdf)
+
 - `AAAI18` Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, 2018. [[pdf]](http://arxiv.org/abs/1802.08379) [[code]](https://github.com/tuxchow/ecm)
+
 - `AAAI18` Eliciting Positive Emotion through Affect-Sensitive Dialogue Response Generation: A Neural Network Approach, 2018. [[pdf]](https://ahcweb01.naist.jp/papers/conference/2018/201802_AAAI_nurul-lu_1/201802_AAAI_nurul-lu_1.paper.pdf)
+
 - `ACL17` Affect-LM: A Neural Language Model for Customizable Affective Text Generation, 2017. [[pdf]](http://arxiv.org/abs/1704.06851)
+
 - A deep learning approach to modeling empathy in addiction counseling, 2016. [[pdf]](http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0554.html)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
+- EmoWOZ: A Large-Scale Corpus and Labelling Scheme for Emotion in Task-Oriented Dialogue Systems, 2021. [[pdf]](https://arxiv.org/abs/2109.04919)
+- A Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts, 2021. [[pdf]](https://arxiv.org/abs/2108.11810) [[code]](https://github.com/humanfactorspsych/covid19-tom-empathy-diary?utm_source=catalyzex.com)
 - `ACL21` Towards Emotional Support Dialog Systems, 2021. [[pdf]](http://arxiv.org/abs/2106.01144) [[code]](https://github.com/thu-coai/Emotional-Support-Conversation)
 - `ACL21` PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support, 2021. [[pdf]](http://arxiv.org/abs/2106.01702)
 - `COLING20` A Taxonomy of Empathetic Response Intents in Human Social Conversations, 2020. [[pdf]](http://arxiv.org/abs/2012.04080) [[code]](https://github.com/anuradha1992/EmpatheticIntents)
@@ -79,7 +116,9 @@
 - Empathy: A review of the concept, 2016. [[pdf]](http://journals.sagepub.com/doi/10.1177/1754073914558466)
 - The Emerging Study of Positive Empathy, 2015. [[pdf]](https://onlinelibrary.wiley.com/doi/10.1111/spc3.12157)
 - From what isn’t empathy to empathic learning process, 2013. [[pdf]](https://linkinghub.elsevier.com/retrieve/pii/S1877042814010696)
+- Crowdsourcing Collective Emotional Intelligence, 2012. [[pdf]](https://arxiv.org/abs/1204.3481)
 - Information seeking and social support in online health communities: Impact on patients' perceived empathy, 2011. [[pdf]](https://academic.oup.com/jamia/article/18/3/298/699704)
+- Social and emotional support and its implication for health, 2008. [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2729718/pdf/nihms138203.pdf)
 - The fullness of empathy: reflections and illustrations, 1995. [[pdf]](http://ajot.aota.org/Article.aspx?doi=10.5014/ajot.49.1.24)
 - Empathy: The charismatic chimera, 1978. [[pdf]](http://www.tandfonline.com/doi/abs/10.1080/00220612.1978.10671527)
 - A measure of emotional empathy, 1972. [[pdf]](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.1972.tb00078.x)
