@@ -2,11 +2,12 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--09--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-73-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--09--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-74-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
 - CEM: Commonsense-aware Empathetic Response Generation, 2021. [[pdf]](https://arxiv.org/abs/2109.05739)
+- `EMNLP21` Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes, 2021. [[pdf]](https://arxiv.org/abs/2109.08828) [[code]](https://github.com/skywalker023/focused-empathy)
 - `EMNLP21` Constructing Emotion Consensus and Utilizing Unpaired Data for Empathetic Dialogue Generation, 2021. [[pdf]](https://arxiv.org/abs/2109.07779)
 - Empathetic Dialogue Generation with Pre-trained RoBERTa-GPT2 and External Knowledge, 2021. [[pdf]](https://arxiv.org/abs/2109.03004)
 - `ACL21` Modulating Language Models with Emotions, 2021. [[pdf]](https://arxiv.org/abs/2108.07886)
