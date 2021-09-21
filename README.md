@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--09--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-74-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--09--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-75-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -86,6 +86,7 @@
 - The Emerging Study of Positive Empathy, 2015. [[pdf]](https://onlinelibrary.wiley.com/doi/10.1111/spc3.12157)
 - From what isn’t empathy to empathic learning process, 2013. [[pdf]](https://linkinghub.elsevier.com/retrieve/pii/S1877042814010696)
 - Crowdsourcing Collective Emotional Intelligence, 2012. [[pdf]](https://arxiv.org/abs/1204.3481)
+- From knowledge to hope: online depression communities, 2012. [[pdf]](https://www.researchgate.net/publication/269617593_From_knowledge_to_hope_Online_depression_communities)
 - Information seeking and social support in online health communities: Impact on patients' perceived empathy, 2011. [[pdf]](https://academic.oup.com/jamia/article/18/3/298/699704)
 - Social and emotional support and its implication for health, 2008. [[pdf]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2729718/pdf/nihms138203.pdf)
 - The fullness of empathy: reflections and illustrations, 1995. [[pdf]](http://ajot.aota.org/Article.aspx?doi=10.5014/ajot.49.1.24)
