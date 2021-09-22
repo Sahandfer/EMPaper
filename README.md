@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--09--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-75-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--09--22-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-76-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -65,6 +65,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Chatbot-ff69bf" alt="arXiv"/>
 
+- Emily: Developing An Emotion-affective Open-Domain Chatbot with Knowledge Graph-based Persona, 2021. [[pdf]](https://arxiv.org/abs/2109.08875)
 - ERICA: An Empathetic Android Companion for Covid-19 Quarantine, 2021. [[pdf]](http://arxiv.org/abs/2106.02325)
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2020. [[pdf]](http://arxiv.org/abs/1812.08989)
 - Recipes for building an open-domain chatbot, 2020. [[pdf]](http://arxiv.org/abs/2004.13637)
