@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--09--22-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-76-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--09--28-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-77-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -33,6 +33,7 @@
 - `ICASSP20` Generating Empathetic Responses by Looking Ahead the User's Sentiment, 2020. [[pdf]](https://ieeexplore.ieee.org/document/9054379/) [[code]](https://github.com/HLTCHKUST/sentiment-lookahead)
 - DialogueTRM: exploring the intra- And inter-modal emotional behaviors in the conversation, 2020. [[pdf]](https://arxiv.org/abs/2010.07637)
 - `COLING20` EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation, 2020 [[pdf]](https://arxiv.org/abs/1911.08698) [[code]](https://github.com/qtli/EmpDG)
+- A Multi-Turn Emotionally Engaging Dialog Model, 2019. [[pdf]](https://arxiv.org/abs/1908.07816) [[code]](https://github.com/yuboxie/meed)
 - Emotional Neural Language Generation Grounded in Situational Contexts, 2019. [[pdf]](http://arxiv.org/abs/1911.11161) [[code]](https://github.com/sashank06/CCNLG-emotion)
 - `EMNLP19`  MOEL: Mixture of empathetic listeners, 2019. [[pdf]](https://www.aclweb.org/anthology/D19-1012) [[code]](https://github.com/HLTCHKUST/MoEL)
 - `ACL19`  Generating Responses with a Specific Emotion in Dialog, 2019. [[pdf]](http://arxiv.org/abs/1911.11161)
