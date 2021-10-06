@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--02-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-81-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--06-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-81-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -17,7 +17,6 @@
 - Modeling Human Motives and Emotions from Personal Narratives Using External Knowledge And Entity Tracking, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449997)
 - SentEmojiBot: Empathising Conversations Generation with Emojis, 2021. [[paper]](http://arxiv.org/abs/2105.12399)
 - Towards an Online Empathetic Chatbot with Emotion Causes, 2021. [[paper]](http://arxiv.org/abs/2105.11903)
-- Towards Detecting Need for Empathetic Response in Motivational Interviewing. 2021. [[paper]](http://arxiv.org/abs/2105.09649)
 - `ACL21` CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2105.08316) [[code]](https://github.com/chujiezheng/CoMAE)
 - Generative Adversarial Imitation Learning for Empathy-based AI, 2021. [[paper]](http://arxiv.org/abs/2105.13328)
 - Generating Empathetic Responses with a Large Scale Dialog Dataset [[paper]](http://arxiv.org/abs/2105.06829)
@@ -84,6 +83,7 @@
 - Effectiveness of an Empathic Chatbot in Combating Adverse Effects of Social Exclusion on Mood, 2020. [[paper]](https://www.frontiersin.org/article/10.3389/fpsyg.2019.03061/full)
 - `ACL19` Finding Your Voice: The Linguistic Development of Mental Health Counselors, 2019. [[paper]](https://arxiv.org/abs/1906.07194)
 - I like that you feel my pain, but I love that you feel my joy: Empathy for a partner’s negative versus positive emotions independently affect relationship quality, 2019. [[paper]](http://journals.sagepub.com/doi/10.1177/0265407517746518)
+- `EMNLP17` Detecting and Explaining Crisis, 2017. [[paper]](https://arxiv.org/abs/1705.09585)
 - Annotating and modeling empathy in spoken conversations, 2017. [[paper]](http://arxiv.org/abs/1705.04839)
 - Are we really measuring empathy? Proposal for a new measurement framework, 2017. [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S0149763417304852)
 - The positive (and negative) psychology of empathy, 2016. [[paper]](https://www.semanticscholar.org/paper/The-Positive-(and-Negative)-Psychology-of-Empathy-Grynberg-Konrath/4d7278564c9ece399f62df490960c2e0b4d73860)
