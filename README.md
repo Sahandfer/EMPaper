@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--06-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-81-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--11-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-84-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -66,6 +66,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Chatbot-ff69bf" alt="arXiv"/>
 
+- CheerBots: Chatbots toward Empathy and Emotion using Reinforcement Learning, 2021. [[paper]](https://arxiv.org/abs/2110.03949)
 - Emily: Developing An Emotion-affective Open-Domain Chatbot with Knowledge Graph-based Persona, 2021. [[paper]](https://arxiv.org/abs/2109.08875)
 - ERICA: An Empathetic Android Companion for Covid-19 Quarantine, 2021. [[paper]](http://arxiv.org/abs/2106.02325)
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2020. [[paper]](http://arxiv.org/abs/1812.08989)
@@ -81,6 +82,7 @@
 - Facilitation of human empathy through self-disclosure of anthropomorphic agents, 2021. [[paper]](http://arxiv.org/abs/2106.09906)
 - A theoretical approach for a novel model to Realizing Empathy, 2020. [[paper]](https://arxiv.org/abs/2009.01229)
 - Effectiveness of an Empathic Chatbot in Combating Adverse Effects of Social Exclusion on Mood, 2020. [[paper]](https://www.frontiersin.org/article/10.3389/fpsyg.2019.03061/full)
+- Detection and Classification of mental illnesses on social media using RoBERTa, 2020. [[paper]](https://arxiv.org/abs/2011.11226)
 - `ACL19` Finding Your Voice: The Linguistic Development of Mental Health Counselors, 2019. [[paper]](https://arxiv.org/abs/1906.07194)
 - I like that you feel my pain, but I love that you feel my joy: Empathy for a partner’s negative versus positive emotions independently affect relationship quality, 2019. [[paper]](http://journals.sagepub.com/doi/10.1177/0265407517746518)
 - `EMNLP17` Detecting and Explaining Crisis, 2017. [[paper]](https://arxiv.org/abs/1705.09585)
