@@ -25,6 +25,7 @@
 - `WWW21` Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach, 2021. [[paper]](https://arxiv.org/abs/2101.07714) [[code]](https://github.com/behavioral-data/PARTNER)
 - Empathetic BERT2BERT Conversational Model: Learning Arabic Language Generation with Little Data, 2021. [[paper]](https://arxiv.org/abs/2103.04353) [[code]](https://github.com/aub-mind/Arabic-Empathetic-Chatbot)
 - EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction, 2021. [[paper]](https://arxiv.org/abs/2102.00272)
+- `NEURIPS20` CheerBots: Chatbots toward Empathy and Emotion using Reinforcement Learning, 2021. [[paper]](https://arxiv.org/abs/2110.03949)
 - Towards Empathetic Dialogue Generation over Multi-type Knowledge, 2020. [[paper]](http://arxiv.org/abs/2009.09708)
 - `LREC20` Learning word ratings for empathy and distress from document-level user responses, 2020. [[paper]](http://arxiv.org/abs/1912.01079)
 - `EMNLP20` MIME: MIMicking Emotions for Empathetic Response Generation, 2020. [[paper]](https://arxiv.org/abs/2010.01454) [[code]](https://github.com/declare-lab/MIME)
@@ -66,7 +67,6 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Chatbot-ff69bf" alt="arXiv"/>
 
-- CheerBots: Chatbots toward Empathy and Emotion using Reinforcement Learning, 2021. [[paper]](https://arxiv.org/abs/2110.03949)
 - Emily: Developing An Emotion-affective Open-Domain Chatbot with Knowledge Graph-based Persona, 2021. [[paper]](https://arxiv.org/abs/2109.08875)
 - ERICA: An Empathetic Android Companion for Covid-19 Quarantine, 2021. [[paper]](http://arxiv.org/abs/2106.02325)
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2020. [[paper]](http://arxiv.org/abs/1812.08989)
