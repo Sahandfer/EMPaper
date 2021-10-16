@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--16-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-86-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--16-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-88-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -86,12 +86,14 @@
 - Effectiveness of an Empathic Chatbot in Combating Adverse Effects of Social Exclusion on Mood, 2020. [[paper]](https://www.frontiersin.org/article/10.3389/fpsyg.2019.03061/full)
 - Detection and Classification of mental illnesses on social media using RoBERTa, 2020. [[paper]](https://arxiv.org/abs/2011.11226)
 - `ACL19` Finding Your Voice: The Linguistic Development of Mental Health Counselors, 2019. [[paper]](https://arxiv.org/abs/1906.07194)
+- `ACL19` Identifying therapist conversational actions across diverse psychotherapeutic approaches, 2019. [[paper]](https://aclanthology.org/W19-3002/)
 - I like that you feel my pain, but I love that you feel my joy: Empathy for a partner’s negative versus positive emotions independently affect relationship quality, 2019. [[paper]](http://journals.sagepub.com/doi/10.1177/0265407517746518)
 - `EMNLP17` Detecting and Explaining Crisis, 2017. [[paper]](https://arxiv.org/abs/1705.09585)
 - Annotating and modeling empathy in spoken conversations, 2017. [[paper]](http://arxiv.org/abs/1705.04839)
 - Are we really measuring empathy? Proposal for a new measurement framework, 2017. [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S0149763417304852)
 - The positive (and negative) psychology of empathy, 2016. [[paper]](https://www.semanticscholar.org/paper/The-Positive-(and-Negative)-Psychology-of-Empathy-Grynberg-Konrath/4d7278564c9ece399f62df490960c2e0b4d73860)
 - Empathy: A review of the concept, 2016. [[paper]](http://journals.sagepub.com/doi/10.1177/1754073914558466)
+- New Look at Social Support: A Theoretical Perspective on Thriving through Relationships, 2015. [[paper]](https://pubmed.ncbi.nlm.nih.gov/25125368/)
 - `ISCA15` Predicting Therapist Empathy in Motivational Interviews using Language Features Inspired by Psycholinguistic Norms, 2015. [[paper]](https://sail.usc.edu/~malandra/files/papers/interspeech2015b.pdf)
 - The Emerging Study of Positive Empathy, 2015. [[paper]](https://onlinelibrary.wiley.com/doi/10.1111/spc3.12157)
 - From what isn’t empathy to empathic learning process, 2013. [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S1877042814010696)
