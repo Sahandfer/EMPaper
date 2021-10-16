@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--12-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-85-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--16-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-86-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -75,6 +75,7 @@
 - Towards a Human-like Open-Domain Chatbot, 2020. [[paper]](http://arxiv.org/abs/2001.09977)
 - HappyBot: Generating Empathetic Dialogue Responses by Improving User Experience Look-ahead, 2019.  [[paper]](http://arxiv.org/abs/1906.08487)
 - CAiRE: An Empathetic Neural Chatbot, 2019. [[paper]](http://arxiv.org/abs/1907.12108)
+- Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial, 2017. [[paper]](https://mental.jmir.org/2017/2/e19/)
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2014. [[paper]](https://watermark.silverchair.com/coli_a_00368.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqMwggKfBgkqhkiG9w0BBwagggKQMIICjAIBADCCAoUGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMjpoY3TFRfSx-ye-sAgEQgIICVmOvf6PHKUw6xkAbcCK-55GxZyWMssnHqxkvoEkr8DEFcJsBSSZf9d18h4J8GL8la-VHyOVpZCp2VtgcZIIjVXe3wQAI1h02xtjnLN7zrAi5zKQJWSITbrwMwBXMLhi-PKM2hMGt969niT4mUhc9LorS17wU0ld2T9xuKyVg9RnwNr64-q5buGXXAfC1adjgUDrkYo8ALbt8zEOKHumoASyoAaVdXUWnkfVk-OHH2fCezOGvE1fmoMZTqsGSWMsorYPbKtiXThYSje3Og7bgCkm0fad4C5QJPxjx8hkdP2s-KSDtRq8VR1kvsvr3ve5DtMs3Lh1S0WZjowOpyJ7d_XtvHxHv3kIwiAMkPWHD6hW7ccBpjjicBYsTTCZzpdf5mNc-I-4ncVPtte5FpHrhWhAfCFoyY1VKYUR5nkNHv17ByXzQvlbW6CI13JhA2zEF9u4SAqyfM6YVAKoaTsXifgpeL_YO3ZWOMy8Fr6xX0-SrDnc5pQUJj-mTt5L2O4UjC5uEyVgO_q8InpNtvaCJFCHl24juuusLyQz3tLOm54eNvTkyL_FhW-SYYRhMxY5MS5hlDssLC242vhxAVGzHlsW5P4oVH_aeKlhAD7nq9ZTbycJwlygXpdEMZWVgydDHh5k22QP6Ini3xquxaqD82RNMaavY94MGyNK3853DKXWkqBGTboyRN72M4HBwwyKZxPofCzrHPf0pcG2GMIzpOnO81dAg9unt8gKS3yzoT9bvImLkBkCazEpgW_iHldjrfLP2PWRGRrN2pVWHPTDd0MiliTbF1OQ)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
