@@ -2,7 +2,11 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--16-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-88-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--23-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-93-2D333B" alt="PaperNum"/>
+
+# <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
+
+- **October 2021** I am planning to remove resources for emotion recognition and papers from other less related topics from this list. I will also be providing a separate file that includes my favorite picks from this list. 
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -80,16 +84,21 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
+- `ACM` The Language of Situational Empathy, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3449087)
 - `ACL21` Exploring Self-Identified Counseling Expertise in Online Support Forums, 2021. [[paper]](http://arxiv.org/abs/2106.12976) [[code]](https://github.com/MichiganNLP/MHP-and-Peers-Reddit)
 - Facilitation of human empathy through self-disclosure of anthropomorphic agents, 2021. [[paper]](http://arxiv.org/abs/2106.09906)
+- Strategic Regulation of Empathy, 2020. [[paper]](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(20)30298-9)
+- Building empathy through motivation-based interventions, 2020. [[paper]](https://pubmed.ncbi.nlm.nih.gov/33211508/)
 - A theoretical approach for a novel model to Realizing Empathy, 2020. [[paper]](https://arxiv.org/abs/2009.01229)
 - Effectiveness of an Empathic Chatbot in Combating Adverse Effects of Social Exclusion on Mood, 2020. [[paper]](https://www.frontiersin.org/article/10.3389/fpsyg.2019.03061/full)
 - Detection and Classification of mental illnesses on social media using RoBERTa, 2020. [[paper]](https://arxiv.org/abs/2011.11226)
+- Empathy and emotion regulation: An integrative account, 2019. [[paper]](https://pubmed.ncbi.nlm.nih.gov/31196438/)
 - `ACL19` Finding Your Voice: The Linguistic Development of Mental Health Counselors, 2019. [[paper]](https://arxiv.org/abs/1906.07194)
 - `ACL19` Identifying therapist conversational actions across diverse psychotherapeutic approaches, 2019. [[paper]](https://aclanthology.org/W19-3002/)
 - I like that you feel my pain, but I love that you feel my joy: Empathy for a partner’s negative versus positive emotions independently affect relationship quality, 2019. [[paper]](http://journals.sagepub.com/doi/10.1177/0265407517746518)
 - `EMNLP17` Detecting and Explaining Crisis, 2017. [[paper]](https://arxiv.org/abs/1705.09585)
 - Annotating and modeling empathy in spoken conversations, 2017. [[paper]](http://arxiv.org/abs/1705.04839)
+- Mammalian empathy: behavioural manifestations and neural basis, 2017. [[paper]](https://www.nature.com/articles/nrn.2017.72)
 - Are we really measuring empathy? Proposal for a new measurement framework, 2017. [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S0149763417304852)
 - The positive (and negative) psychology of empathy, 2016. [[paper]](https://www.semanticscholar.org/paper/The-Positive-(and-Negative)-Psychology-of-Empathy-Grynberg-Konrath/4d7278564c9ece399f62df490960c2e0b4d73860)
 - Empathy: A review of the concept, 2016. [[paper]](http://journals.sagepub.com/doi/10.1177/1754073914558466)
