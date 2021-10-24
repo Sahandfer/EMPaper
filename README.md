@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--23-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-93-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--24-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-96-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
 
@@ -85,8 +85,11 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
 - `ACM` The Language of Situational Empathy, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3449087)
+- `RANLP21`  A Psychologically Informed Part-of-Speech Analysis of Depression in Social Media, 2021. [[paper]](https://arxiv.org/abs/2108.00279)
 - `ACL21` Exploring Self-Identified Counseling Expertise in Online Support Forums, 2021. [[paper]](http://arxiv.org/abs/2106.12976) [[code]](https://github.com/MichiganNLP/MHP-and-Peers-Reddit)
 - Facilitation of human empathy through self-disclosure of anthropomorphic agents, 2021. [[paper]](http://arxiv.org/abs/2106.09906)
+- `CHI20` Exploring the Effects of Technological Writing Assistance for Support Providers in Online Mental Health Community, 2020. [[paper]](https://dl.acm.org/doi/abs/10.1145/3313831.3376695)
+- `CHI20` Understanding Client Support Strategies to Improve Clinical Outcomes in an Online Mental Health Intervention, 2020. [[paper]](https://dl.acm.org/doi/10.1145/3313831.3376341)
 - Strategic Regulation of Empathy, 2020. [[paper]](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(20)30298-9)
 - Building empathy through motivation-based interventions, 2020. [[paper]](https://pubmed.ncbi.nlm.nih.gov/33211508/)
 - A theoretical approach for a novel model to Realizing Empathy, 2020. [[paper]](https://arxiv.org/abs/2009.01229)
