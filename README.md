@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--24-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-96-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--10--26-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-97-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
 
@@ -84,7 +84,8 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
-- `ACM` The Language of Situational Empathy, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3449087)
+- Exploring the Effect of Social Support and Empathy on User Engagement in Online Mental Health Communities,m 2021. [[paper]](https://www.mdpi.com/1660-4601/18/13/6855)
+- The Language of Situational Empathy, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3449087)
 - `RANLP21`  A Psychologically Informed Part-of-Speech Analysis of Depression in Social Media, 2021. [[paper]](https://arxiv.org/abs/2108.00279)
 - `ACL21` Exploring Self-Identified Counseling Expertise in Online Support Forums, 2021. [[paper]](http://arxiv.org/abs/2106.12976) [[code]](https://github.com/MichiganNLP/MHP-and-Peers-Reddit)
 - Facilitation of human empathy through self-disclosure of anthropomorphic agents, 2021. [[paper]](http://arxiv.org/abs/2106.09906)
