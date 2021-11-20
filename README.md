@@ -1,18 +1,20 @@
-# Empathetic Dialogue Systems
+# EMPapers
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--11--15-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-102-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--11--20-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-102-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
 
+- **November 2021** This month's ARR received a number of interesting papers. For now, I have included them in a [separate list]() in case you want to check them out sooner. 
 - **November 2021** We surpassed 100 papers in the list :tada:
 - **October 2021** I am planning to remove resources for emotion recognition and papers from other less related topics from this list. I will also be providing a separate file that includes my favorite picks from this list. 
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
 - CEM: Commonsense-aware Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2109.05739)
-- MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare. [[paper]](https://arxiv.org/abs/2110.15621)
+- MEDCOD: A Medically-Accurate, Emotive, Diverse, and COntrollable Dialog System, 2021. [[paper]](https://arxiv.org/pdf/2111.09381v1.pdf) [[code]](https://github.com/curai/curai-research/tree/main/MEDCOD)
+- MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare, 2021. [[paper]](https://arxiv.org/abs/2110.15621)
 - EmpBot: A T5-based Empathetic Chatbot focusing on Sentiments, 2021. [[paper]](https://arxiv.org/abs/2111.00310)
 - Empathetic Response Generation through Graph-based Multi-hop Reasoning on Emotional Causality, 2021. [[paper]](https://arxiv.org/abs/2110.04614)
 - `EMNLP21` Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes, 2021. [[paper]](https://arxiv.org/abs/2109.08828) [[code]](https://github.com/skywalker023/focused-empathy)
@@ -27,7 +29,6 @@
 - Towards an Online Empathetic Chatbot with Emotion Causes, 2021. [[paper]](http://arxiv.org/abs/2105.11903)
 - `ACL21` CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2105.08316) [[code]](https://github.com/chujiezheng/CoMAE)
 - Generative Adversarial Imitation Learning for Empathy-based AI, 2021. [[paper]](http://arxiv.org/abs/2105.13328)
-- Generating Empathetic Responses with a Large Scale Dialog Dataset [[paper]](http://arxiv.org/abs/2105.06829)
 - Towards Detecting Need for Empathetic Response in Motivational Interviewing, 2021. [[paper]](http://arxiv.org/abs/2105.09649)
 - `WWW21` Modeling Human Motives and Emotions from Personal Narratives Using External Knowledge And Entity Tracking, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449997)
 - `WWW21` Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach, 2021. [[paper]](https://arxiv.org/abs/2101.07714) [[code]](https://github.com/behavioral-data/PARTNER)
@@ -54,13 +55,13 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
+- `EMNLP21` A Large-Scale Dataset for Empathetic Response Generation, 2021 [[paper]](https://aclanthology.org/2021.emnlp-main.96/) [[code]](https://github.com/anuradha1992/EDOS)
 - EmoWOZ: A Large-Scale Corpus and Labelling Scheme for Emotion in Task-Oriented Dialogue Systems, 2021. [[paper]](https://arxiv.org/abs/2109.04919)
 - A Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts, 2021. [[paper]](https://arxiv.org/abs/2108.11810) [[code]](https://github.com/humanfactorspsych/covid19-tom-empathy-diary?utm_source=catalyzex.com)
 - `ACL21` Towards Emotional Support Dialog Systems, 2021. [[paper]](http://arxiv.org/abs/2106.01144) [[code]](https://github.com/thu-coai/Emotional-Support-Conversation)
-- `ACL21` PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support, 2021. [[paper]](http://arxiv.org/abs/2106.01702)
+- `ACL21` PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support, 2021. [[paper]](http://arxiv.org/abs/2106.01702) [[code]](https://github.com/thu-coai/PsyQA)
 - `COLING20` A Taxonomy of Empathetic Response Intents in Human Social Conversations, 2020. [[paper]](http://arxiv.org/abs/2012.04080) [[code]](https://github.com/anuradha1992/EmpatheticIntents)
 - `ACL19` Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset, 2019. [[paper]](https://arxiv.org/abs/1811.00207) [[code]](https://github.com/facebookresearch/EmpatheticDialogues)
-- `LREC18` EmotionLines: An Emotion Corpus of Multi-Party Conversations, 2018. [[paper]](http://arxiv.org/abs/1802.08379) [[code]](https://academiasinicanlplab.github.io/#download)
 - `EMNLP18` It’s going to be okay: Measuring Access to Support in Online Communities, 2018. [[paper]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/davidjurgens/support)
 - `EMNLP18` Modeling empathy and distress in reaction to news stories, 2018. [[paper]](http://arxiv.org/abs/1808.10399) [[code]](https://github.com/wwbp/empathic_reactions)
 - `ACL17` MojiTalk: Generating Emotional Responses at Scale, 2017. [[paper]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/ArponKundu/UIU_MojiTalk?utm_source=catalyzex.com)
