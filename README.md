@@ -6,7 +6,7 @@
 
 # <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
 
-- **November 2021** This month's ARR received a number of interesting papers. For now, I have included them in a [separate list]() in case you want to check them out sooner. 
+- **November 2021** This month's ARR received a number of interesting papers. For now, I have included them in a [separate list](https://github.com/Sahandfer/EMPaper/blob/master/PREPRINTS.md) in case you want to check them out sooner. 
 - **November 2021** We surpassed 100 papers in the list :tada:
 - **October 2021** I am planning to remove resources for emotion recognition and papers from other less related topics from this list. I will also be providing a separate file that includes my favorite picks from this list. 
 
