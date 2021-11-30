@@ -2,10 +2,11 @@
 
 > A list of unpublished/anonymous preprints of EMPapers. I will move this to the README once they are published or deanonymized.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--11--20-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-6-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--11--30-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-7-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Venue-ACL ARR 21.11-informational" alt="type"/>
 
+- How to be Helpful on Online Support Forums?. [[paper]](https://openreview.net/forum?id=PMh4S5-FEC)
 - Multi-Party Empathetic Dialogue Generation: A New Task for Dialog Systems. [[paper]](https://openreview.net/forum?id=pheR28vOKmF)
 - Empathetic Persuasion: Reinforcing Empathy and Persuasiveness in Dialogue Systems. [[paper]](https://openreview.net/forum?id=oDo65FJacdy)
 - Mental Health Assessment for the Chatbots. [[paper]](https://openreview.net/forum?id=1BTmXDgdEVp)
