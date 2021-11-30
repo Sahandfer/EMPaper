@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--11--20-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-102-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--11--30-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-103-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
 
@@ -112,6 +112,7 @@
 - Annotating and modeling empathy in spoken conversations, 2017. [[paper]](http://arxiv.org/abs/1705.04839)
 - Mammalian empathy: behavioural manifestations and neural basis, 2017. [[paper]](https://www.nature.com/articles/nrn.2017.72)
 - Are we really measuring empathy? Proposal for a new measurement framework, 2017. [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S0149763417304852)
+- `TACL16` Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health, 2016. [[paper]](https://arxiv.org/abs/1605.04462) [[code]](http://snap.stanford.edu/counseling/)
 - The positive (and negative) psychology of empathy, 2016. [[paper]](https://www.semanticscholar.org/paper/The-Positive-(and-Negative)-Psychology-of-Empathy-Grynberg-Konrath/4d7278564c9ece399f62df490960c2e0b4d73860)
 - Empathy: A review of the concept, 2016. [[paper]](http://journals.sagepub.com/doi/10.1177/1754073914558466)
 - New Look at Social Support: A Theoretical Perspective on Thriving through Relationships, 2015. [[paper]](https://pubmed.ncbi.nlm.nih.gov/25125368/)
