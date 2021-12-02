@@ -12,7 +12,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
-- CEM: Commonsense-aware Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2109.05739)
+- `AAAI22` CEM: Commonsense-aware Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2109.05739) [[code]](https://github.com/Sahandfer/CEM)
 - MEDCOD: A Medically-Accurate, Emotive, Diverse, and COntrollable Dialog System, 2021. [[paper]](https://arxiv.org/pdf/2111.09381v1.pdf) [[code]](https://github.com/curai/curai-research/tree/main/MEDCOD)
 - MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare, 2021. [[paper]](https://arxiv.org/abs/2110.15621)
 - EmpBot: A T5-based Empathetic Chatbot focusing on Sentiments, 2021. [[paper]](https://arxiv.org/abs/2111.00310)
