@@ -14,7 +14,7 @@
 - Data Augmentation for Mental Health Classification on Social Media, 2021. [[paper]](https://arxiv.org/abs/2112.10064)
 - `AAAI22` CEM: Commonsense-aware Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2109.05739) [[code]](https://github.com/Sahandfer/CEM)
 - `AAAI22` Knowledge Bridging for Empathetic Dialogue Generation, 2021. [[paper]](https://qtli.github.io/publication/kemp/kemp.pdf) [[code]](https://github.com/qtli/KEMP)
-- Micromodels for Efficient, Explainable, and Reusable Systems: A Case Study on Mental Health, 2021. [[paper]](https://arxiv.org/abs/2109.13770) [[code]](https://github.com/ MichiganNLP/micromodels.git)
+- Micromodels for Efficient, Explainable, and Reusable Systems: A Case Study on Mental Health, 2021. [[paper]](https://arxiv.org/abs/2109.13770) [[code]](https://github.com/MichiganNLP/micromodels.git)
 - MEDCOD: A Medically-Accurate, Emotive, Diverse, and COntrollable Dialog System, 2021. [[paper]](https://arxiv.org/pdf/2111.09381v1.pdf) [[code]](https://github.com/curai/curai-research/tree/main/MEDCOD)
 - MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare, 2021. [[paper]](https://arxiv.org/abs/2110.15621)
 - EmpBot: A T5-based Empathetic Chatbot focusing on Sentiments, 2021. [[paper]](https://arxiv.org/abs/2111.00310)
