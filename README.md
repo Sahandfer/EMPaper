@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2021--12--23-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-106-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--01--01-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-108-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
 
@@ -13,6 +13,8 @@
 
 - Data Augmentation for Mental Health Classification on Social Media, 2021. [[paper]](https://arxiv.org/abs/2112.10064)
 - `AAAI22` CEM: Commonsense-aware Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2109.05739) [[code]](https://github.com/Sahandfer/CEM)
+- `AAAI22` Knowledge Bridging for Empathetic Dialogue Generation, 2021. [[paper]](https://qtli.github.io/publication/kemp/kemp.pdf) [[code]](https://github.com/qtli/KEMP)
+- Micromodels for Efficient, Explainable, and Reusable Systems: A Case Study on Mental Health, 2021. [[paper]](https://arxiv.org/abs/2109.13770) [[code]](https://github.com/ MichiganNLP/micromodels.git)
 - MEDCOD: A Medically-Accurate, Emotive, Diverse, and COntrollable Dialog System, 2021. [[paper]](https://arxiv.org/pdf/2111.09381v1.pdf) [[code]](https://github.com/curai/curai-research/tree/main/MEDCOD)
 - MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare, 2021. [[paper]](https://arxiv.org/abs/2110.15621)
 - EmpBot: A T5-based Empathetic Chatbot focusing on Sentiments, 2021. [[paper]](https://arxiv.org/abs/2111.00310)
@@ -35,7 +37,6 @@
 - Empathetic BERT2BERT Conversational Model: Learning Arabic Language Generation with Little Data, 2021. [[paper]](https://arxiv.org/abs/2103.04353) [[code]](https://github.com/aub-mind/Arabic-Empathetic-Chatbot)
 - EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction, 2021. [[paper]](https://arxiv.org/abs/2102.00272)
 - `NEURIPS20` CheerBots: Chatbots toward Empathy and Emotion using Reinforcement Learning, 2021. [[paper]](https://arxiv.org/abs/2110.03949)
-- Towards Empathetic Dialogue Generation over Multi-type Knowledge, 2020. [[paper]](http://arxiv.org/abs/2009.09708)
 - `LREC20` Learning word ratings for empathy and distress from document-level user responses, 2020. [[paper]](http://arxiv.org/abs/1912.01079)
 - `EMNLP20` MIME: MIMicking Emotions for Empathetic Response Generation, 2020. [[paper]](https://arxiv.org/abs/2010.01454) [[code]](https://github.com/declare-lab/MIME)
 - EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems, 2020. [[paper]](https://arxiv.org/abs/2003.02958) [[code]](https://github.com/roholazandie/EmpTransfo)
@@ -46,6 +47,7 @@
 - A Multi-Turn Emotionally Engaging Dialog Model, 2019. [[paper]](https://arxiv.org/abs/1908.07816) [[code]](https://github.com/yuboxie/meed)
 - Emotional Neural Language Generation Grounded in Situational Contexts, 2019. [[paper]](http://arxiv.org/abs/1911.11161) [[code]](https://github.com/sashank06/CCNLG-emotion)
 - `EMNLP19`  MOEL: Mixture of empathetic listeners, 2019. [[paper]](https://www.aclweb.org/anthology/D19-1012) [[code]](https://github.com/HLTCHKUST/MoEL)
+- `NAACL19` Affect-Driven Dialog Generation, 2019. [[paper]](https://arxiv.org/abs/1904.02793)
 - `ACL19`  Generating Responses with a Specific Emotion in Dialog, 2019. [[paper]](http://arxiv.org/abs/1911.11161)
 - `LREC19`  Empathetic dialog systems, 2019. [[paper]](http://lrec2018.lrec-conf.org/media/filer_public/2018/05/03/pascale_fungempathetic_dialog_systems.pdf)
 - `AAAI18` Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, 2018. [[paper]](http://arxiv.org/abs/1802.08379) [[code]](https://github.com/tuxchow/ecm)
