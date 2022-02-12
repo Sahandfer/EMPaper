@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--01--01-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-108-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--02--12-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-120-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
 
@@ -11,9 +11,11 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- Emotion-based Modeling of Mental Disorders on Social Media, 2022. [[paper]](https://arxiv.org/abs/2201.09451)
 - Data Augmentation for Mental Health Classification on Social Media, 2021. [[paper]](https://arxiv.org/abs/2112.10064)
 - `AAAI22` CEM: Commonsense-aware Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2109.05739) [[code]](https://github.com/Sahandfer/CEM)
 - `AAAI22` Knowledge Bridging for Empathetic Dialogue Generation, 2021. [[paper]](https://qtli.github.io/publication/kemp/kemp.pdf) [[code]](https://github.com/qtli/KEMP)
+- `EMNLP21` Distilling Knowledge for Empathy Detection, 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.314/) [[code]](https://aclanthology.org/2021.findings-emnlp.314/)
 - Micromodels for Efficient, Explainable, and Reusable Systems: A Case Study on Mental Health, 2021. [[paper]](https://arxiv.org/abs/2109.13770) [[code]](https://github.com/MichiganNLP/micromodels.git)
 - MEDCOD: A Medically-Accurate, Emotive, Diverse, and COntrollable Dialog System, 2021. [[paper]](https://arxiv.org/pdf/2111.09381v1.pdf) [[code]](https://github.com/curai/curai-research/tree/main/MEDCOD)
 - MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare, 2021. [[paper]](https://arxiv.org/abs/2110.15621)
@@ -23,7 +25,9 @@
 - `EMNLP21` Constructing Emotion Consensus and Utilizing Unpaired Data for Empathetic Dialogue Generation, 2021. [[paper]](https://arxiv.org/abs/2109.07779)
 - Empathetic Dialogue Generation with Pre-trained RoBERTa-GPT2 and External Knowledge, 2021. [[paper]](https://arxiv.org/abs/2109.03004)
 - `ACL21` Modulating Language Models with Emotions, 2021. [[paper]](https://arxiv.org/abs/2108.07886)
+- `AAAI21` It Takes Two to Empathize: One to Seek and One to Provide, 2021. [[paper]](https://www.cs.uic.edu/~cornelia/papers/aaai21.pdf) [[code]](https://github.com/Mahhos/Empathy)
 - `INLG21` Affective Decoding for Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2108.08102) [[code]](https://github.com/zenggo/affective-decoding-4-empathetic-dialog)
+- Predicting User Emotional Tone in Mental Disorder Online Communities, 2021. [[paper]](https://arxiv.org/abs/2005.07473)
 - Exemplars-guided Empathetic Response Generation Controlled by the Elements of Human Communication, 2021. [[paper]](http://arxiv.org/abs/2106.11791) [[code]](https://github.com/declare-lab/exemplary-empathy)
 - `CPL21` Towards Low-Resource Real-Time Assessment of Empathy in Counselling, 2021. [[paper]](https://www.aclweb.org/anthology/2021.clpsych-1.22/)
 - Modeling Human Motives and Emotions from Personal Narratives Using External Knowledge And Entity Tracking, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449997)
@@ -50,14 +54,17 @@
 - `NAACL19` Affect-Driven Dialog Generation, 2019. [[paper]](https://arxiv.org/abs/1904.02793)
 - `ACL19`  Generating Responses with a Specific Emotion in Dialog, 2019. [[paper]](http://arxiv.org/abs/1911.11161)
 - `LREC19`  Empathetic dialog systems, 2019. [[paper]](http://lrec2018.lrec-conf.org/media/filer_public/2018/05/03/pascale_fungempathetic_dialog_systems.pdf)
+- `AAAI19` An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss, 2018. [[paper]](https://arxiv.org/abs/1811.07078)
 - `AAAI18` Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, 2018. [[paper]](http://arxiv.org/abs/1802.08379) [[code]](https://github.com/tuxchow/ecm)
 - `AAAI18` Eliciting Positive Emotion through Affect-Sensitive Dialogue Response Generation: A Neural Network Approach, 2018. [[paper]](https://ahcweb01.naist.jp/papers/conference/2018/201802_AAAI_nurul-lu_1/201802_AAAI_nurul-lu_1.paper.pdf)
 - `ACL17` Affect-LM: A Neural Language Model for Customizable Affective Text Generation, 2017. [[paper]](http://arxiv.org/abs/1704.06851)
+- `ACL17` Predicting Counselor Behaviors in Motivational Interviewing Encounters, 2017. [[paper]](https://aclanthology.org/E17-1106/)
 - A deep learning approach to modeling empathy in addiction counseling, 2016. [[paper]](http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0554.html)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
-- `EMNLP21` A Large-Scale Dataset for Empathetic Response Generation, 2021 [[paper]](https://aclanthology.org/2021.emnlp-main.96/) [[code]](https://github.com/anuradha1992/EDOS)
+- The CARE Dataset for Affective Response Detection, 2022. [[paper]](https://arxiv.org/abs/2201.11895)
+- `EMNLP21` A Large-Scale Dataset for Empathetic Response Generation, 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.96/) [[code]](https://github.com/anuradha1992/EDOS)
 - EmoWOZ: A Large-Scale Corpus and Labelling Scheme for Emotion in Task-Oriented Dialogue Systems, 2021. [[paper]](https://arxiv.org/abs/2109.04919)
 - A Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts, 2021. [[paper]](https://arxiv.org/abs/2108.11810) [[code]](https://github.com/humanfactorspsych/covid19-tom-empathy-diary?utm_source=catalyzex.com)
 - `ACL21` Towards Emotional Support Dialog Systems, 2021. [[paper]](http://arxiv.org/abs/2106.01144) [[code]](https://github.com/thu-coai/Emotional-Support-Conversation)
@@ -67,6 +74,7 @@
 - `ACL19` Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset, 2019. [[paper]](https://arxiv.org/abs/1811.00207) [[code]](https://github.com/facebookresearch/EmpatheticDialogues)
 - `EMNLP18` It’s going to be okay: Measuring Access to Support in Online Communities, 2018. [[paper]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/davidjurgens/support)
 - `EMNLP18` Modeling empathy and distress in reaction to news stories, 2018. [[paper]](http://arxiv.org/abs/1808.10399) [[code]](https://github.com/wwbp/empathic_reactions)
+- A Large-Scale Dataset for Motivational Dialogue System: An Application of Natural Language Generation to Mental Health, 2018. [[paper]](https://ieeexplore.ieee.org/document/9533924)
 - `ACL17` MojiTalk: Generating Emotional Responses at Scale, 2017. [[paper]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/ArponKundu/UIU_MojiTalk?utm_source=catalyzex.com)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
@@ -93,6 +101,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
+- The Effect of Moderation on Online Mental Health Conversations, 2021. [[paper]](https://arxiv.org/abs/2005.09225)
 - Exploring the Effect of Social Support and Empathy on User Engagement in Online Mental Health Communities, 2021. [[paper]](https://www.mdpi.com/1660-4601/18/13/6855)
 - The Language of Situational Empathy, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3449087)
 - `RANLP21`  A Psychologically Informed Part-of-Speech Analysis of Depression in Social Media, 2021. [[paper]](https://arxiv.org/abs/2108.00279)
@@ -101,6 +110,7 @@
 - Facilitation of human empathy through self-disclosure of anthropomorphic agents, 2021. [[paper]](http://arxiv.org/abs/2106.09906)
 - `CHI20` Exploring the Effects of Technological Writing Assistance for Support Providers in Online Mental Health Community, 2020. [[paper]](https://dl.acm.org/doi/abs/10.1145/3313831.3376695)
 - `CHI20` Understanding Client Support Strategies to Improve Clinical Outcomes in an Online Mental Health Intervention, 2020. [[paper]](https://dl.acm.org/doi/10.1145/3313831.3376341)
+- Assessing Users' Mental Status from their Journaling Behavior through Chatbots, 2020. [[paper]](https://dl.acm.org/doi/10.1145/3383652.3423870)
 - Strategic Regulation of Empathy, 2020. [[paper]](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(20)30298-9)
 - Building empathy through motivation-based interventions, 2020. [[paper]](https://pubmed.ncbi.nlm.nih.gov/33211508/)
 - A theoretical approach for a novel model to Realizing Empathy, 2020. [[paper]](https://arxiv.org/abs/2009.01229)
@@ -111,6 +121,8 @@
 - `ACL19` Finding Your Voice: The Linguistic Development of Mental Health Counselors, 2019. [[paper]](https://arxiv.org/abs/1906.07194)
 - `ACL19` Identifying therapist conversational actions across diverse psychotherapeutic approaches, 2019. [[paper]](https://aclanthology.org/W19-3002/)
 - I like that you feel my pain, but I love that you feel my joy: Empathy for a partner’s negative versus positive emotions independently affect relationship quality, 2019. [[paper]](http://journals.sagepub.com/doi/10.1177/0265407517746518)
+- Analyzing the Quality of Counseling Conversations: the Tell-Tale Signs of High-quality Counseling, 2018. [[paper]](https://aclanthology.org/L18-1591.pdf)
+- Psychological, Relational, and Emotional Effects of Self-Disclosure After Conversations With a Chatbot, 2018. [[paper]](https://academic.oup.com/joc/article/68/4/712/5025583)
 - `EMNLP17` Detecting and Explaining Crisis, 2017. [[paper]](https://arxiv.org/abs/1705.09585)
 - Empathy in One-Shot Prisoner Dilemma, 2017. [[paper]](https://arxiv.org/abs/1702.05361)
 - Annotating and modeling empathy in spoken conversations, 2017. [[paper]](http://arxiv.org/abs/1705.04839)
@@ -135,4 +147,3 @@
 ## Copyright
 
 The contents of this repository is bound by the [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) license.
-
