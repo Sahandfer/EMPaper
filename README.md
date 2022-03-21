@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--02--12-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-120-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-121-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
 
@@ -15,7 +15,8 @@
 - Data Augmentation for Mental Health Classification on Social Media, 2021. [[paper]](https://arxiv.org/abs/2112.10064)
 - `AAAI22` CEM: Commonsense-aware Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2109.05739) [[code]](https://github.com/Sahandfer/CEM)
 - `AAAI22` Knowledge Bridging for Empathetic Dialogue Generation, 2021. [[paper]](https://qtli.github.io/publication/kemp/kemp.pdf) [[code]](https://github.com/qtli/KEMP)
-- `EMNLP21` Distilling Knowledge for Empathy Detection, 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.314/) [[code]](https://aclanthology.org/2021.findings-emnlp.314/)
+- `EMNLP21` Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations, 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.70.pdf) [[code]](https://github.com/A-Rain/EmpDialogue_RecEC)
+- `EMNLP21` Distilling Knowledge for Empathy Detection, 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.314/) [[code]](https://github.com/Mahhos/KDempathy)
 - Micromodels for Efficient, Explainable, and Reusable Systems: A Case Study on Mental Health, 2021. [[paper]](https://arxiv.org/abs/2109.13770) [[code]](https://github.com/MichiganNLP/micromodels.git)
 - MEDCOD: A Medically-Accurate, Emotive, Diverse, and COntrollable Dialog System, 2021. [[paper]](https://arxiv.org/pdf/2111.09381v1.pdf) [[code]](https://github.com/curai/curai-research/tree/main/MEDCOD)
 - MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare, 2021. [[paper]](https://arxiv.org/abs/2110.15621)
