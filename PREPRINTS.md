@@ -2,9 +2,13 @@
 
 > A list of unpublished/anonymous preprints of EMPapers. I will move this to the README once they are published or deanonymized.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--07å-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-11-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--23-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-12-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Venue-ACL ARR-informational" alt="type"/>
+
+### March 2022
+
+- ProKnow: Dataset and Method for Process-guided, Safety-Contrained, and Explainable Mental Health Diagnostic Assistance. [[paper]](https://openreview.net/pdf?id=HYWL2_ebxfq)
 
 ### January 2022
 

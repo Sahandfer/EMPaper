@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-121-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--23-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-122-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
 
@@ -80,6 +80,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
+- A Computational Approach to Understand Mental Health from Reddit: Knowledge-aware Multitask Learning Framework, 2022. [[paper]](https://arxiv.org/pdf/2203.11856v1.pdf) 
 - Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations, 2021. [[paper]](https://arxiv.org/pdf/2111.06647v1.pdf) [[code]](https://github.com/LCS2-IIITD/SPARTA_WSDM2022)
 - Automatically Select Emotion for Response via Personality-affected Emotion Transition, 2021. [[paper]](http://arxiv.org/abs/2106.15846)
 - Supporting Cognitive and Emotional Empathic Writing of Students, 2021. [[paper]](http://arxiv.org/abs/2105.14815)
