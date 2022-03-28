@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--23-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-122-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--03--28-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-123-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
 
@@ -11,6 +11,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- `ACL22` MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation, 2022. [[paper]](https://arxiv.org/pdf/2203.13560v1.pdf) [[code]](https://github.com/morecry/MISC)
 - Emotion-based Modeling of Mental Disorders on Social Media, 2022. [[paper]](https://arxiv.org/abs/2201.09451)
 - Data Augmentation for Mental Health Classification on Social Media, 2021. [[paper]](https://arxiv.org/abs/2112.10064)
 - `AAAI22` CEM: Commonsense-aware Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2109.05739) [[code]](https://github.com/Sahandfer/CEM)
