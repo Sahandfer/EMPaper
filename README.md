@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--04--16-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-126-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--04--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-128-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
 
@@ -79,6 +79,7 @@
 - `EMNLP18` Modeling empathy and distress in reaction to news stories, 2018. [[paper]](http://arxiv.org/abs/1808.10399) [[code]](https://github.com/wwbp/empathic_reactions)
 - A Large-Scale Dataset for Motivational Dialogue System: An Application of Natural Language Generation to Mental Health, 2018. [[paper]](https://ieeexplore.ieee.org/document/9533924)
 - `ACL17` MojiTalk: Generating Emotional Responses at Scale, 2017. [[paper]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/ArponKundu/UIU_MojiTalk?utm_source=catalyzex.com)
+- Constructing Knowledge Graphs of Depression, 2017. [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-69182-4_16)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
@@ -106,6 +107,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
+- Deep Annotation of Therapeutic Working Alliance in Psychotherapy, 2022. [[paper]](https://arxiv.org/abs/2204.05522)
 - `CHI22` Exploring the Effects of AI-assisted Emotional Support Processes in Online Mental Health Community, 2022. [[paper]](https://arxiv.org/abs/2202.10065)
 - The Effect of Moderation on Online Mental Health Conversations, 2021. [[paper]](https://arxiv.org/abs/2005.09225)
 - Exploring the Effect of Social Support and Empathy on User Engagement in Online Mental Health Communities, 2021. [[paper]](https://www.mdpi.com/1660-4601/18/13/6855)
