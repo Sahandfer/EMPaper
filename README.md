@@ -2,12 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--06--07-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-136-2D333B" alt="PaperNum"/>
-
-# <img src="https://img.shields.io/badge/Announcements-News-FFD700" alt="type"/>
-
-- **November 2021** This month's ARR received a number of interesting papers. For now, I have included them in a [separate list](https://github.com/Sahandfer/EMPaper/blob/master/PREPRINTS.md) in case you want to check them out sooner. 
-- **November 2021** We surpassed 100 papers in the list :tada:
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--08--15-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-140-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -113,10 +108,17 @@
 - Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial, 2017. [[paper]](https://mental.jmir.org/2017/2/e19/)
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2014. [[paper]](https://watermark.silverchair.com/coli_a_00368.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqMwggKfBgkqhkiG9w0BBwagggKQMIICjAIBADCCAoUGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMjpoY3TFRfSx-ye-sAgEQgIICVmOvf6PHKUw6xkAbcCK-55GxZyWMssnHqxkvoEkr8DEFcJsBSSZf9d18h4J8GL8la-VHyOVpZCp2VtgcZIIjVXe3wQAI1h02xtjnLN7zrAi5zKQJWSITbrwMwBXMLhi-PKM2hMGt969niT4mUhc9LorS17wU0ld2T9xuKyVg9RnwNr64-q5buGXXAfC1adjgUDrkYo8ALbt8zEOKHumoASyoAaVdXUWnkfVk-OHH2fCezOGvE1fmoMZTqsGSWMsorYPbKtiXThYSje3Og7bgCkm0fad4C5QJPxjx8hkdP2s-KSDtRq8VR1kvsvr3ve5DtMs3Lh1S0WZjowOpyJ7d_XtvHxHv3kIwiAMkPWHD6hW7ccBpjjicBYsTTCZzpdf5mNc-I-4ncVPtte5FpHrhWhAfCFoyY1VKYUR5nkNHv17ByXzQvlbW6CI13JhA2zEF9u4SAqyfM6YVAKoaTsXifgpeL_YO3ZWOMy8Fr6xX0-SrDnc5pQUJj-mTt5L2O4UjC5uEyVgO_q8InpNtvaCJFCHl24juuusLyQz3tLOm54eNvTkyL_FhW-SYYRhMxY5MS5hlDssLC242vhxAVGzHlsW5P4oVH_aeKlhAD7nq9ZTbycJwlygXpdEMZWVgydDHh5k22QP6Ini3xquxaqD82RNMaavY94MGyNK3853DKXWkqBGTboyRN72M4HBwwyKZxPofCzrHPf0pcG2GMIzpOnO81dAg9unt8gKS3yzoT9bvImLkBkCazEpgW_iHldjrfLP2PWRGRrN2pVWHPTDd0MiliTbF1OQ)
 
+
+# <img src="https://img.shields.io/badge/Paper%20Type-Survey-FFD700" alt="type"/>
+- Empathetic Conversational Systems: A Review of Current Advances, Gaps, and Opportunities, 2022. [[paper]](https://arxiv.org/abs/2206.05017)
+- `ACL22` The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications, 2022. [[paper]](https://aclanthology.org/2022.acl-long.458)
+- The Effectiveness of Artificial Intelligence Conversational Agents in Health Care: Systematic Review, 2020. [[paper]](https://www.jmir.org/2020/10/e20346/)
+
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
 - Deep Annotation of Therapeutic Working Alliance in Psychotherapy, 2022. [[paper]](https://arxiv.org/abs/2204.05522)
 - `CHI22` Exploring the Effects of AI-assisted Emotional Support Processes in Online Mental Health Community, 2022. [[paper]](https://arxiv.org/abs/2202.10065)
+- What makes an AI device human-like? The role of interaction quality, empathy and perceived psychological anthropomorphic characteristics in the acceptance of artificial intelligence in the service industry, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0747563221001783)
 - The Effect of Moderation on Online Mental Health Conversations, 2021. [[paper]](https://arxiv.org/abs/2005.09225)
 - Exploring the Effect of Social Support and Empathy on User Engagement in Online Mental Health Communities, 2021. [[paper]](https://www.mdpi.com/1660-4601/18/13/6855)
 - The Language of Situational Empathy, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3449087)
