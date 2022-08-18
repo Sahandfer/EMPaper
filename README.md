@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--08--15-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-140-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--08--18-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-142-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -64,6 +64,8 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
+- `KDD22` Counseling Summarization using Mental Health Knowledge Guided Utterance Filtering, 2022. [[paper]](https://arxiv.org/abs/2206.03886)
+- `LREC22` MentSum- A Resource for Exploring Summarization of Mental Health Online Posts, 2022. [[paper]](https://arxiv.org/abs/2206.00856v1)
 - `ACL22` Multi-Party Empathetic Dialogue Generation: A New Task for Dialog Systems, 2022. [[paper]](https://aclanthology.org/2022.acl-long.24/)
 - Empathic Conversations: A Multi-level Dataset of Contextualized Conversations, 2022. [[paper]](https://arxiv.org/abs/2205.12698)
 - `AAAI22` HEAL: A Knowledge Graph for Distress Management Conversations, 2022. [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-452.WelivitaA.pdf)
