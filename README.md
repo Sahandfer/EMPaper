@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--08--18-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-142-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--08--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-144-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -99,6 +99,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Chatbot-ff69bf" alt="arXiv"/>
 
+- Using AI chatbots to provide self-help depression interventions for university students: A randomized trial of effectiveness, 2022. [[paper]](sciencedirect.com/science/article/pii/S2214782922000021)
 - Elomia Chatbot: the Effectiveness of Artificial Intelligence in the Fight for Mental Health, 2021. [[paper]](http://ceur-ws.org/Vol-2870/paper89.pdf)
 - Emily: Developing An Emotion-affective Open-Domain Chatbot with Knowledge Graph-based Persona, 2021. [[paper]](https://arxiv.org/abs/2109.08875)
 - ERICA: An Empathetic Android Companion for Covid-19 Quarantine, 2021. [[paper]](http://arxiv.org/abs/2106.02325)
@@ -118,6 +119,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
+- The avatar will see you now: Support from a virtual human provides socio-emotional benefits, 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S074756322200190X)
 - Deep Annotation of Therapeutic Working Alliance in Psychotherapy, 2022. [[paper]](https://arxiv.org/abs/2204.05522)
 - `CHI22` Exploring the Effects of AI-assisted Emotional Support Processes in Online Mental Health Community, 2022. [[paper]](https://arxiv.org/abs/2202.10065)
 - What makes an AI device human-like? The role of interaction quality, empathy and perceived psychological anthropomorphic characteristics in the acceptance of artificial intelligence in the service industry, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0747563221001783)
