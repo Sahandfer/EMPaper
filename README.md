@@ -2,10 +2,11 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--08--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-144-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--09--22-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-148-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation, 2022. [[paper]](https://arxiv.org/abs/2208.08845)
 - `NAACL22` Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy, 2022. [[paper]](https://arxiv.org/abs/2205.07233)
 - `NAACL22` Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances, 2022. [[paper]](https://arxiv.org/abs/2205.03112v1)
 - `NAACL22` EmpHi: Generating Empathetic Responses with Human-like Intents, 2022. [[paper]](https://arxiv.org/abs/2204.12191) [[code]](https://github.com/mattc95/EmpHi)
@@ -64,6 +65,8 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
+- `LREC22` CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts, 2022. [[paper]](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.686.pdf) [[code]](https://github.com/drmuskangarg/CAMS)
+- Symptom Identification for Interpretable Detection of Multiple Mental Disorders, 2022. [[paper]](https://arxiv.org/abs/2205.11308)
 - `KDD22` Counseling Summarization using Mental Health Knowledge Guided Utterance Filtering, 2022. [[paper]](https://arxiv.org/abs/2206.03886)
 - `LREC22` MentSum- A Resource for Exploring Summarization of Mental Health Online Posts, 2022. [[paper]](https://arxiv.org/abs/2206.00856v1)
 - `ACL22` Multi-Party Empathetic Dialogue Generation: A New Task for Dialog Systems, 2022. [[paper]](https://aclanthology.org/2022.acl-long.24/)
@@ -99,6 +102,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Chatbot-ff69bf" alt="arXiv"/>
 
+- Chatbots for Mental Health Support: Exploring the Impact of Emohaa on Reducing Mental Distress in China, 2022. [[paper]](https://arxiv.org/abs/2209.10183)
 - Using AI chatbots to provide self-help depression interventions for university students: A randomized trial of effectiveness, 2022. [[paper]](sciencedirect.com/science/article/pii/S2214782922000021)
 - Elomia Chatbot: the Effectiveness of Artificial Intelligence in the Fight for Mental Health, 2021. [[paper]](http://ceur-ws.org/Vol-2870/paper89.pdf)
 - Emily: Developing An Emotion-affective Open-Domain Chatbot with Knowledge Graph-based Persona, 2021. [[paper]](https://arxiv.org/abs/2109.08875)
