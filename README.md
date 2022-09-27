@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--09--22-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-148-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--09--27-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-150-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
@@ -11,6 +11,7 @@
 - `NAACL22` Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances, 2022. [[paper]](https://arxiv.org/abs/2205.03112v1)
 - `NAACL22` EmpHi: Generating Empathetic Responses with Human-like Intents, 2022. [[paper]](https://arxiv.org/abs/2204.12191) [[code]](https://github.com/mattc95/EmpHi)
 - Empathetic Response Generation with State Management, 2022. [[paper]](https://arxiv.org/abs/2205.03676) [[code]](https://github.com/A-Rain/State_Management_EmpDialogue)
+- ` IJCAI22` Control Globally, Understand Locally: A Global-to-Local Hierarchical Graph Network for Emotional Support Conversation, 2022. [[paper]](https://arxiv.org/abs/2204.12749)
 - `ACL22` MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation, 2022. [[paper]](https://arxiv.org/pdf/2203.13560v1.pdf) [[code]](https://github.com/morecry/MISC)
 - Emotion-based Modeling of Mental Disorders on Social Media, 2022. [[paper]](https://arxiv.org/abs/2201.09451)
 - Data Augmentation for Mental Health Classification on Social Media, 2021. [[paper]](https://arxiv.org/abs/2112.10064)
@@ -103,6 +104,7 @@
 # <img src="https://img.shields.io/badge/Paper%20Type-Chatbot-ff69bf" alt="arXiv"/>
 
 - Chatbots for Mental Health Support: Exploring the Impact of Emohaa on Reducing Mental Distress in China, 2022. [[paper]](https://arxiv.org/abs/2209.10183)
+- An Empathetic AI Coach for Self-Attachment Therapy, 2022. [[paper]](https://ieeexplore.ieee.org/document/9750315)
 - Using AI chatbots to provide self-help depression interventions for university students: A randomized trial of effectiveness, 2022. [[paper]](sciencedirect.com/science/article/pii/S2214782922000021)
 - Elomia Chatbot: the Effectiveness of Artificial Intelligence in the Fight for Mental Health, 2021. [[paper]](http://ceur-ws.org/Vol-2870/paper89.pdf)
 - Emily: Developing An Emotion-affective Open-Domain Chatbot with Knowledge Graph-based Persona, 2021. [[paper]](https://arxiv.org/abs/2109.08875)
