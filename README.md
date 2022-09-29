@@ -2,10 +2,11 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--09--27-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-150-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--09--29-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-151-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
 
+- Modeling Content-Emotion Duality via Disentanglement for Empathetic Conversation, 2022. [[paper]](https://arxiv.org/abs/2209.12495) [[code]](https://github.com/lpq29743/CEDual)
 - CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation, 2022. [[paper]](https://arxiv.org/abs/2208.08845)
 - `NAACL22` Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy, 2022. [[paper]](https://arxiv.org/abs/2205.07233)
 - `NAACL22` Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances, 2022. [[paper]](https://arxiv.org/abs/2205.03112v1)
