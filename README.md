@@ -2,11 +2,14 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--09--29-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-151-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--10--18-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-154-2D333B" alt="PaperNum"/>
 
-# <img src="https://img.shields.io/badge/Paper%20Type-Model-informational" alt="type"/>
+# <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
-- Modeling Content-Emotion Duality via Disentanglement for Empathetic Conversation, 2022. [[paper]](https://arxiv.org/abs/2209.12495) [[code]](https://github.com/lpq29743/CEDual)
+- `COLING22` Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation, 2022. [[paper]](https://aclanthology.org/2022.coling-1.56/) [[code]](https://github.com/passing2961/EmpGPT-3)
+- `CCL22` Using Extracted Emotion Cause to Improve Content-Relevance for Empathetic Conversation Generation, 2022. [[paper]](https://aclanthology.org/2022.ccl-1.72/)
+- Don’t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness, 2022. [[paper]](https://arxiv.org/abs/2210.03884)
+- Modeling Content-Emotion Duality via Disentanglement for Empathetic Conversation, 2022. [[paper]](https://arxiv.org/abs/2209.12495) [[code]](https://github.com/lpq29743/CEDual)
 - CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation, 2022. [[paper]](https://arxiv.org/abs/2208.08845)
 - `NAACL22` Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy, 2022. [[paper]](https://arxiv.org/abs/2205.07233)
 - `NAACL22` Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances, 2022. [[paper]](https://arxiv.org/abs/2205.03112v1)
