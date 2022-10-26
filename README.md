@@ -2,10 +2,12 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--10--19-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-155-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--10--26-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-157-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
+- PoKE- Prior Knowledge Enhanced Emotional Support Conversation with Latent Variable, 2022. [[paper]](https://arxiv.org/abs/2210.12640)
+- `EMNLP22` Empathetic Dialogue Generation via Sensitive Emotion Recognition and Sensible Knowledge Selection, 2022. [[paper]](https://arxiv.org/abs/2210.11715) [[code]](https://github.com/wlr737/EMNLP2022-SEEK)
 - `EMNLP22` Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning, 2022. [[paper]](https://arxiv.org/abs/2210.04242) [[code]](https://github.com/lwgkzl/MultiESC)
 - `COLING22` Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation, 2022. [[paper]](https://aclanthology.org/2022.coling-1.56/) [[code]](https://github.com/passing2961/EmpGPT-3)
 - `CCL22` Using Extracted Emotion Cause to Improve Content-Relevance for Empathetic Conversation Generation, 2022. [[paper]](https://aclanthology.org/2022.ccl-1.72/)
