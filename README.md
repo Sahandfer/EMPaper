@@ -2,10 +2,13 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--10--26-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-157-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--11--6-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-160-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
+- `EMNLP22` CARE: Causality Reasoning for Empathetic Responses by Conditional Graph Generation, 2022. [[paper]](https://arxiv.org/abs/2211.00255) [[code]](https://github.com/wangjs9/CARE-master)
+- FADO: Feedback-Aware Double COntrolling Network for Emotional Support Conversation, 2022. [[paper]](https://arxiv.org/abs/2211.00250)
+- Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats, 2022. [[paper]](https://arxiv.org/abs/2211.00171) [[code]](https://github.com/gchochla/Demux-MEmo)
 - PoKE- Prior Knowledge Enhanced Emotional Support Conversation with Latent Variable, 2022. [[paper]](https://arxiv.org/abs/2210.12640)
 - `EMNLP22` Empathetic Dialogue Generation via Sensitive Emotion Recognition and Sensible Knowledge Selection, 2022. [[paper]](https://arxiv.org/abs/2210.11715) [[code]](https://github.com/wlr737/EMNLP2022-SEEK)
 - `EMNLP22` Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning, 2022. [[paper]](https://arxiv.org/abs/2210.04242) [[code]](https://github.com/lwgkzl/MultiESC)
