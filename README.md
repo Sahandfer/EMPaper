@@ -2,13 +2,14 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--11--6-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-160-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--11--7-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-162-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
 - `EMNLP22` CARE: Causality Reasoning for Empathetic Responses by Conditional Graph Generation, 2022. [[paper]](https://arxiv.org/abs/2211.00255) [[code]](https://github.com/wangjs9/CARE-master)
 - FADO: Feedback-Aware Double COntrolling Network for Emotional Support Conversation, 2022. [[paper]](https://arxiv.org/abs/2211.00250)
-- Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats, 2022. [[paper]](https://arxiv.org/abs/2211.00171) [[code]](https://github.com/gchochla/Demux-MEmo)
+- Leveraging Label Correlations in a Multi-label Setting: A Case Study in Emotion, 2022. [[paper]](https://arxiv.org/abs/2210.15842) [[code]](https://github.com/gchochla/Demux-MEmo)
+- Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats, 2022. [[paper]](https://arxiv.org/abs/2211.00171) [[code]](https://github.com/gchochla/Demux-MEmo)
 - PoKE- Prior Knowledge Enhanced Emotional Support Conversation with Latent Variable, 2022. [[paper]](https://arxiv.org/abs/2210.12640)
 - `EMNLP22` Empathetic Dialogue Generation via Sensitive Emotion Recognition and Sensible Knowledge Selection, 2022. [[paper]](https://arxiv.org/abs/2210.11715) [[code]](https://github.com/wlr737/EMNLP2022-SEEK)
 - `EMNLP22` Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning, 2022. [[paper]](https://arxiv.org/abs/2210.04242) [[code]](https://github.com/lwgkzl/MultiESC)
@@ -129,6 +130,8 @@
 
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Survey-FFD700" alt="type"/>
+
+- `EMNLP22` A Critical Reflection and Forward Perspective on Empathy and Natural Language Processing [[paper]](https://arxiv.org/pdf/2210.16604.pdf)
 - Empathetic Conversational Systems: A Review of Current Advances, Gaps, and Opportunities, 2022. [[paper]](https://arxiv.org/abs/2206.05017)
 - `ACL22` The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications, 2022. [[paper]](https://aclanthology.org/2022.acl-long.458)
 - The Effectiveness of Artificial Intelligence Conversational Agents in Health Care: Systematic Review, 2020. [[paper]](https://www.jmir.org/2020/10/e20346/)
