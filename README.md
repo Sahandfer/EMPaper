@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--11--7-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-162-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--11--8-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-164-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
@@ -15,6 +15,7 @@
 - `EMNLP22` Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning, 2022. [[paper]](https://arxiv.org/abs/2210.04242) [[code]](https://github.com/lwgkzl/MultiESC)
 - `COLING22` Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation, 2022. [[paper]](https://aclanthology.org/2022.coling-1.56/) [[code]](https://github.com/passing2961/EmpGPT-3)
 - `CCL22` Using Extracted Emotion Cause to Improve Content-Relevance for Empathetic Conversation Generation, 2022. [[paper]](https://aclanthology.org/2022.ccl-1.72/)
+- `IJCNN22` CogIntAc: Modeling the Relationships between Intention, Emotion and Action in Interactive Process from Cognitive Perspective, 2022. [[paper]](https://arxiv.org/abs/2205.03540)
 - Don’t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness, 2022. [[paper]](https://arxiv.org/abs/2210.03884)
 - Modeling Content-Emotion Duality via Disentanglement for Empathetic Conversation, 2022. [[paper]](https://arxiv.org/abs/2209.12495) [[code]](https://github.com/lpq29743/CEDual)
 - CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation, 2022. [[paper]](https://arxiv.org/abs/2208.08845)
@@ -103,6 +104,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
+- `COLING22` COMMA: Modeling Relationship among Motivations, Emotions and Actions in Language-based Human Activities, 2022. [[paper]](https://arxiv.org/abs/2209.06470) [[code]](https://github.com/IndexFziQ/COMMA)
 - Human-AI Collaboration Enables More Empathic Conversations in Text-based Peer-to-Peer Mental Health Support, 2022. [[paper]](https://arxiv.org/abs/2203.15144)
 - A Computational Approach to Understand Mental Health from Reddit: Knowledge-aware Multitask Learning Framework, 2022. [[paper]](https://arxiv.org/pdf/2203.11856v1.pdf) 
 - Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations, 2021. [[paper]](https://arxiv.org/pdf/2111.06647v1.pdf) [[code]](https://github.com/LCS2-IIITD/SPARTA_WSDM2022)
