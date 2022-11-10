@@ -2,20 +2,23 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--11--8-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-164-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--11--10-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-169-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
+- `EMNLP22` Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts, 2022. [[paper]](https://arxiv.org/abs/2210.12531) [[code]](https://github.com/honglizhan/CovidET)
 - `EMNLP22` CARE: Causality Reasoning for Empathetic Responses by Conditional Graph Generation, 2022. [[paper]](https://arxiv.org/abs/2211.00255) [[code]](https://github.com/wangjs9/CARE-master)
+- Affective feature knowledge interaction for empathetic conversation generation, 2022. [[paper]](https://www.tandfonline.com/doi/full/10.1080/09540091.2022.2134301)
 - FADO: Feedback-Aware Double COntrolling Network for Emotional Support Conversation, 2022. [[paper]](https://arxiv.org/abs/2211.00250)
 - Leveraging Label Correlations in a Multi-label Setting: A Case Study in Emotion, 2022. [[paper]](https://arxiv.org/abs/2210.15842) [[code]](https://github.com/gchochla/Demux-MEmo)
 - Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats, 2022. [[paper]](https://arxiv.org/abs/2211.00171) [[code]](https://github.com/gchochla/Demux-MEmo)
-- PoKE- Prior Knowledge Enhanced Emotional Support Conversation with Latent Variable, 2022. [[paper]](https://arxiv.org/abs/2210.12640)
+- PoKE: Prior Knowledge Enhanced Emotional Support Conversation with Latent Variable, 2022. [[paper]](https://arxiv.org/abs/2210.12640)
 - `EMNLP22` Empathetic Dialogue Generation via Sensitive Emotion Recognition and Sensible Knowledge Selection, 2022. [[paper]](https://arxiv.org/abs/2210.11715) [[code]](https://github.com/wlr737/EMNLP2022-SEEK)
 - `EMNLP22` Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning, 2022. [[paper]](https://arxiv.org/abs/2210.04242) [[code]](https://github.com/lwgkzl/MultiESC)
 - `COLING22` Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation, 2022. [[paper]](https://aclanthology.org/2022.coling-1.56/) [[code]](https://github.com/passing2961/EmpGPT-3)
 - `CCL22` Using Extracted Emotion Cause to Improve Content-Relevance for Empathetic Conversation Generation, 2022. [[paper]](https://aclanthology.org/2022.ccl-1.72/)
 - `IJCNN22` CogIntAc: Modeling the Relationships between Intention, Emotion and Action in Interactive Process from Cognitive Perspective, 2022. [[paper]](https://arxiv.org/abs/2205.03540)
+- `SIGIR22` Towards Motivational and Empathetic Response Generation in Online Mental Health Support, 2022. [[paper]](https://dl.acm.org/doi/10.1145/3477495.3531912)
 - Don’t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness, 2022. [[paper]](https://arxiv.org/abs/2210.03884)
 - Modeling Content-Emotion Duality via Disentanglement for Empathetic Conversation, 2022. [[paper]](https://arxiv.org/abs/2209.12495) [[code]](https://github.com/lpq29743/CEDual)
 - CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation, 2022. [[paper]](https://arxiv.org/abs/2208.08845)
@@ -78,10 +81,12 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
+- `EMNLP22` D4: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat, 2022. [[paper]](https://arxiv.org/abs/2205.11764) [[code]](https://x-lance.github.io/D4/)
 - `LREC22` CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts, 2022. [[paper]](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.686.pdf) [[code]](https://github.com/drmuskangarg/CAMS)
+- `NAACL22` A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.174/)
 - Symptom Identification for Interpretable Detection of Multiple Mental Disorders, 2022. [[paper]](https://arxiv.org/abs/2205.11308)
 - `KDD22` Counseling Summarization using Mental Health Knowledge Guided Utterance Filtering, 2022. [[paper]](https://arxiv.org/abs/2206.03886)
-- `LREC22` MentSum- A Resource for Exploring Summarization of Mental Health Online Posts, 2022. [[paper]](https://arxiv.org/abs/2206.00856v1)
+- `LREC22` MentSum: A Resource for Exploring Summarization of Mental Health Online Posts, 2022. [[paper]](https://arxiv.org/abs/2206.00856v1)
 - `ACL22` Multi-Party Empathetic Dialogue Generation: A New Task for Dialog Systems, 2022. [[paper]](https://aclanthology.org/2022.acl-long.24/)
 - Empathic Conversations: A Multi-level Dataset of Contextualized Conversations, 2022. [[paper]](https://arxiv.org/abs/2205.12698)
 - `AAAI22` HEAL: A Knowledge Graph for Distress Management Conversations, 2022. [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-452.WelivitaA.pdf)
