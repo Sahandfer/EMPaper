@@ -2,10 +2,14 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2022--11--10-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-169-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--02--06-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-174-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
+- Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation, 2023. [[paper]](https://arxiv.org/abs/2302.01441)
+- Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling, 2023. [[paper]](https://arxiv.org/abs/2301.12729)
+- Curriculum-guided Abstractive Summarization for Mental Health Online Posts, 2023. [[paper]](Curriculum-guided Abstractive Summarization for Mental Health Online Posts)
+- Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective, 2022. [[paper]](https://arxiv.org/abs/2212.10529)
 - `EMNLP22` Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts, 2022. [[paper]](https://arxiv.org/abs/2210.12531) [[code]](https://github.com/honglizhan/CovidET)
 - `EMNLP22` CARE: Causality Reasoning for Empathetic Responses by Conditional Graph Generation, 2022. [[paper]](https://arxiv.org/abs/2211.00255) [[code]](https://github.com/wangjs9/CARE-master)
 - Affective feature knowledge interaction for empathetic conversation generation, 2022. [[paper]](https://www.tandfonline.com/doi/full/10.1080/09540091.2022.2134301)
@@ -93,6 +97,7 @@
 - Towards Multi-Turn Empathetic Dialogs with Positive Emotion Elicitation, 2022. [[paper]](https://arxiv.org/abs/2204.10509)
 - Mental Health Disorder Identification From Motivational Conversations, 2022. [[paper]](https://ieeexplore.ieee.org/document/9729467)
 - The CARE Dataset for Affective Response Detection, 2022. [[paper]](https://arxiv.org/abs/2201.11895)
+- `IJCNN21` A Large-Scale Dataset for Motivational Dialogue System: An Application of Natural Language Generation to Mental Health, 2021. [[paper]](https://ieeexplore.ieee.org/document/9533924)
 - `EMNLP21` A Large-Scale Dataset for Empathetic Response Generation, 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.96/) [[code]](https://github.com/anuradha1992/EDOS)
 - EmoWOZ: A Large-Scale Corpus and Labelling Scheme for Emotion in Task-Oriented Dialogue Systems, 2021. [[paper]](https://arxiv.org/abs/2109.04919)
 - A Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts, 2021. [[paper]](https://arxiv.org/abs/2108.11810) [[code]](https://github.com/humanfactorspsych/covid19-tom-empathy-diary?utm_source=catalyzex.com)
@@ -103,12 +108,12 @@
 - `ACL19` Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset, 2019. [[paper]](https://arxiv.org/abs/1811.00207) [[code]](https://github.com/facebookresearch/EmpatheticDialogues)
 - `EMNLP18` It’s going to be okay: Measuring Access to Support in Online Communities, 2018. [[paper]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/davidjurgens/support)
 - `EMNLP18` Modeling empathy and distress in reaction to news stories, 2018. [[paper]](http://arxiv.org/abs/1808.10399) [[code]](https://github.com/wwbp/empathic_reactions)
-- A Large-Scale Dataset for Motivational Dialogue System: An Application of Natural Language Generation to Mental Health, 2018. [[paper]](https://ieeexplore.ieee.org/document/9533924)
 - `ACL17` MojiTalk: Generating Emotional Responses at Scale, 2017. [[paper]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/ArponKundu/UIU_MojiTalk?utm_source=catalyzex.com)
 - Constructing Knowledge Graphs of Depression, 2017. [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-69182-4_16)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
+- EMP-EVAL: A Framework for Measuring Empathy in Open Domain Dialogues, 2023. [[paper]](https://arxiv.org/abs/2301.12510)
 - `COLING22` COMMA: Modeling Relationship among Motivations, Emotions and Actions in Language-based Human Activities, 2022. [[paper]](https://arxiv.org/abs/2209.06470) [[code]](https://github.com/IndexFziQ/COMMA)
 - Human-AI Collaboration Enables More Empathic Conversations in Text-based Peer-to-Peer Mental Health Support, 2022. [[paper]](https://arxiv.org/abs/2203.15144)
 - A Computational Approach to Understand Mental Health from Reddit: Knowledge-aware Multitask Learning Framework, 2022. [[paper]](https://arxiv.org/pdf/2203.11856v1.pdf) 
