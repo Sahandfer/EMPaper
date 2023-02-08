@@ -2,10 +2,11 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--02--06-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-174-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--02--08-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-175-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
+- CAB: Empathetic Dialogue Generation with Cognition, Affection and Behavior, 2023. [[paper]](https://arxiv.org/abs/2302.01935) [[code]](https://github.com/geri-emp/CAB)
 - Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation, 2023. [[paper]](https://arxiv.org/abs/2302.01441)
 - Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling, 2023. [[paper]](https://arxiv.org/abs/2301.12729)
 - Curriculum-guided Abstractive Summarization for Mental Health Online Posts, 2023. [[paper]](Curriculum-guided Abstractive Summarization for Mental Health Online Posts)
