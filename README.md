@@ -2,10 +2,12 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--02--08-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-175-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--11-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-177-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
+- Improving Mental Health Support Response Generation with Event-based Knowledge Graph, 2023. [[paper]](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf) [[code]](https://github.com/Stan7s/MHKG)
+- `ICASSP23` Empathetic Response Generation via Emotion Cause Transition Graph, 2023. [[paper]]()
 - CAB: Empathetic Dialogue Generation with Cognition, Affection and Behavior, 2023. [[paper]](https://arxiv.org/abs/2302.01935) [[code]](https://github.com/geri-emp/CAB)
 - Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation, 2023. [[paper]](https://arxiv.org/abs/2302.01441)
 - Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling, 2023. [[paper]](https://arxiv.org/abs/2301.12729)
