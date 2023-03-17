@@ -2,11 +2,11 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--11-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-177-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--17-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-182-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
-- Improving Mental Health Support Response Generation with Event-based Knowledge Graph, 2023. [[paper]](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf) [[code]](https://github.com/Stan7s/MHKG)
+- Improving Mental Health Support Response Generation with Event-based Knowledge Graph, 2023. [[paper]](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf) [[code]](https://github.com/Stan7s/MHKG)
 - `ICASSP23` Empathetic Response Generation via Emotion Cause Transition Graph, 2023. [[paper]]()
 - CAB: Empathetic Dialogue Generation with Cognition, Affection and Behavior, 2023. [[paper]](https://arxiv.org/abs/2302.01935) [[code]](https://github.com/geri-emp/CAB)
 - Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation, 2023. [[paper]](https://arxiv.org/abs/2302.01441)
@@ -116,6 +116,7 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
+- FaceChat: An Emotion-Aware Face-to-face Dialogue Framework, 2023. [[paper]](https://arxiv.org/abs/2303.07316) [[code]](https://github.com/qywu/FaceChat)
 - EMP-EVAL: A Framework for Measuring Empathy in Open Domain Dialogues, 2023. [[paper]](https://arxiv.org/abs/2301.12510)
 - `COLING22` COMMA: Modeling Relationship among Motivations, Emotions and Actions in Language-based Human Activities, 2022. [[paper]](https://arxiv.org/abs/2209.06470) [[code]](https://github.com/IndexFziQ/COMMA)
 - Human-AI Collaboration Enables More Empathic Conversations in Text-based Peer-to-Peer Mental Health Support, 2022. [[paper]](https://arxiv.org/abs/2203.15144)
@@ -129,10 +130,11 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Chatbot-ff69bf" alt="arXiv"/>
 
-- Chatbots for Mental Health Support: Exploring the Impact of Emohaa on Reducing Mental Distress in China, 2022. [[paper]](https://arxiv.org/abs/2209.10183)
 - An Empathetic AI Coach for Self-Attachment Therapy, 2022. [[paper]](https://ieeexplore.ieee.org/document/9750315)
 - Using AI chatbots to provide self-help depression interventions for university students: A randomized trial of effectiveness, 2022. [[paper]](sciencedirect.com/science/article/pii/S2214782922000021)
+- “I am chatbot, your virtual mental health adviser.” What drives citizens’ satisfaction and continuance intention toward mental health chatbots during the COVID-19 pandemic? An empirical study in China, 2022. [[paper]](https://pubmed.ncbi.nlm.nih.gov/35381977/)
 - Elomia Chatbot: the Effectiveness of Artificial Intelligence in the Fight for Mental Health, 2021. [[paper]](http://ceur-ws.org/Vol-2870/paper89.pdf)
+- Efficacy of an Internet-Based Intervention for Subclinical Depression (MoodBox) in China: Study Protocol for a Randomized Controlled Trial, 2021. [[paper]](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.585920/full)
 - Emily: Developing An Emotion-affective Open-Domain Chatbot with Knowledge Graph-based Persona, 2021. [[paper]](https://arxiv.org/abs/2109.08875)
 - ERICA: An Empathetic Android Companion for Covid-19 Quarantine, 2021. [[paper]](http://arxiv.org/abs/2106.02325)
 - The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2020. [[paper]](http://arxiv.org/abs/1812.08989)
@@ -149,10 +151,14 @@
 - `EMNLP22` A Critical Reflection and Forward Perspective on Empathy and Natural Language Processing [[paper]](https://arxiv.org/pdf/2210.16604.pdf)
 - Empathetic Conversational Systems: A Review of Current Advances, Gaps, and Opportunities, 2022. [[paper]](https://arxiv.org/abs/2206.05017)
 - `ACL22` The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications, 2022. [[paper]](https://aclanthology.org/2022.acl-long.458)
+- Perceptions and Opinions of Patients About Mental Health Chatbots: Scoping Review, 2021. [[paper]](https://pubmed.ncbi.nlm.nih.gov/33439133/)
 - The Effectiveness of Artificial Intelligence Conversational Agents in Health Care: Systematic Review, 2020. [[paper]](https://www.jmir.org/2020/10/e20346/)
+- Chatbots and Conversational Agents in Mental Health: A Review
+   of the Psychiatric Landscape, 2019. [[paper]](https://pubmed.ncbi.nlm.nih.gov/30897957/)
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
+- Chatbots for Mental Health Support: Exploring the Impact of Emohaa on Reducing Mental Distress in China, 2022. [[paper]](https://arxiv.org/abs/2209.10183)
 - The avatar will see you now: Support from a virtual human provides socio-emotional benefits, 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S074756322200190X)
 - Deep Annotation of Therapeutic Working Alliance in Psychotherapy, 2022. [[paper]](https://arxiv.org/abs/2204.05522)
 - `CHI22` Exploring the Effects of AI-assisted Emotional Support Processes in Online Mental Health Community, 2022. [[paper]](https://arxiv.org/abs/2202.10065)
