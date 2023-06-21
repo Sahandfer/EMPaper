@@ -2,10 +2,22 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--03--17-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-182-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--06--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-196-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
+- `ACL23` Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction, 2023. [[paper]](https://arxiv.org/abs/2305.02466) [[code]](https://github.com/behavioral-data/Cognitive-Reframing)
+- `ACL23` DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation, 2023. [[paper]](https://arxiv.org/abs/2306.01657)
+- `ACL23` Unsupervised Extractive Summarization of Emotion Triggers, 2023. [[paper]](https://arxiv.org/abs/2306.01444) [[code]](https://github.com/tsosea2/CovidET-EXT)
+- `ACL23` Boosting Distress Support Dialogue Responses with Motivational Interviewing Strategy, 2023. [[paper]](https://arxiv.org/abs/2305.10195) [[code]](https://github.com/anuradha1992/Boosting-with-MI-Strategy)
+- `ACL23` Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations, 2023. [[paper]](https://arxiv.org/abs/2305.10172) [[code]](https://github.com/dengyang17/KEMI)
+- `ACL23` TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition, 2023. [[paper]](https://arxiv.org/abs/2305.03296) [[code]](https://github.com/circle-hit/TransESC)
+- `ACL23` Improving Empathetic Dialogue Generation by Dynamically Infusing Commonsense Knowledge, 2023. [[paper]](https://arxiv.org/abs/2306.04657) [[code]](https://github.com/Hanscal/DCKS)
+- LLM-empowered Chatbots for Psychiatrist and Patient Simulation: Application and Evaluation, 2023. [[paper]](https://arxiv.org/abs/2305.13614)
+- Helping the Helper: Supporting Peer Counselors via AI-Empowered Practice and Feedback, 2023. [[paper]](https://arxiv.org/abs/2305.08982)
+- SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support, 2023. [[paper]](https://arxiv.org/abs/2305.00450)
+- MindGames: Targeting Theory of Mind in Large Language Models with Dynamic Epistemic Modal Logic, 2023. [[paper]](https://arxiv.org/abs/2305.03353)
+- Local dynamic mode of Cognitive Behavioral Therapy, 2023. [[paper]](https://arxiv.org/abs/2205.09752)
 - Improving Mental Health Support Response Generation with Event-based Knowledge Graph, 2023. [[paper]](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf) [[code]](https://github.com/Stan7s/MHKG)
 - `ICASSP23` Empathetic Response Generation via Emotion Cause Transition Graph, 2023. [[paper]]()
 - CAB: Empathetic Dialogue Generation with Cognition, Affection and Behavior, 2023. [[paper]](https://arxiv.org/abs/2302.01935) [[code]](https://github.com/geri-emp/CAB)
@@ -88,6 +100,9 @@
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
+- COKE: A Cognitive Knowledge Graph for Machine Theory of Mind, 2023. [[paper]](https://arxiv.org/abs/2305.05390)
+- ToMChallenges: A Principle-Guided Dataset and Diverse Evaluation Tasks for Exploring Theory of Mind, 2023. [[paper]](https://arxiv.org/abs/2305.15068) [[code]](https://github.com/xiaomeng-ma/ToMChallenges)
+- LOST: A Mental Health Dataset of Low Self-esteem in Reddit Posts, 2023. [[paper]](https://arxiv.org/abs/2306.05596) [[code]](https://github.com/drmuskangarg/LoST)
 - `EMNLP22` D4: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat, 2022. [[paper]](https://arxiv.org/abs/2205.11764) [[code]](https://x-lance.github.io/D4/)
 - `LREC22` CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts, 2022. [[paper]](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.686.pdf) [[code]](https://github.com/drmuskangarg/CAMS)
 - `NAACL22` A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.174/)
