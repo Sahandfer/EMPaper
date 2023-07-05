@@ -2,224 +2,235 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--06--21-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-196-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--07--05--success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-198-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
-- `ACL23` Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction, 2023. [[paper]](https://arxiv.org/abs/2305.02466) [[code]](https://github.com/behavioral-data/Cognitive-Reframing)
-- `ACL23` DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation, 2023. [[paper]](https://arxiv.org/abs/2306.01657)
-- `ACL23` Unsupervised Extractive Summarization of Emotion Triggers, 2023. [[paper]](https://arxiv.org/abs/2306.01444) [[code]](https://github.com/tsosea2/CovidET-EXT)
-- `ACL23` Boosting Distress Support Dialogue Responses with Motivational Interviewing Strategy, 2023. [[paper]](https://arxiv.org/abs/2305.10195) [[code]](https://github.com/anuradha1992/Boosting-with-MI-Strategy)
-- `ACL23` Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations, 2023. [[paper]](https://arxiv.org/abs/2305.10172) [[code]](https://github.com/dengyang17/KEMI)
-- `ACL23` TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition, 2023. [[paper]](https://arxiv.org/abs/2305.03296) [[code]](https://github.com/circle-hit/TransESC)
-- `ACL23` Improving Empathetic Dialogue Generation by Dynamically Infusing Commonsense Knowledge, 2023. [[paper]](https://arxiv.org/abs/2306.04657) [[code]](https://github.com/Hanscal/DCKS)
-- LLM-empowered Chatbots for Psychiatrist and Patient Simulation: Application and Evaluation, 2023. [[paper]](https://arxiv.org/abs/2305.13614)
-- Helping the Helper: Supporting Peer Counselors via AI-Empowered Practice and Feedback, 2023. [[paper]](https://arxiv.org/abs/2305.08982)
-- SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support, 2023. [[paper]](https://arxiv.org/abs/2305.00450)
-- MindGames: Targeting Theory of Mind in Large Language Models with Dynamic Epistemic Modal Logic, 2023. [[paper]](https://arxiv.org/abs/2305.03353)
-- Local dynamic mode of Cognitive Behavioral Therapy, 2023. [[paper]](https://arxiv.org/abs/2205.09752)
-- Improving Mental Health Support Response Generation with Event-based Knowledge Graph, 2023. [[paper]](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf) [[code]](https://github.com/Stan7s/MHKG)
-- `ICASSP23` Empathetic Response Generation via Emotion Cause Transition Graph, 2023. [[paper]]()
-- CAB: Empathetic Dialogue Generation with Cognition, Affection and Behavior, 2023. [[paper]](https://arxiv.org/abs/2302.01935) [[code]](https://github.com/geri-emp/CAB)
-- Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation, 2023. [[paper]](https://arxiv.org/abs/2302.01441)
-- Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling, 2023. [[paper]](https://arxiv.org/abs/2301.12729)
-- Curriculum-guided Abstractive Summarization for Mental Health Online Posts, 2023. [[paper]](https://arxiv.org/abs/2302.00954)
-- Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective, 2022. [[paper]](https://arxiv.org/abs/2212.10529)
-- `EMNLP22` Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts, 2022. [[paper]](https://arxiv.org/abs/2210.12531) [[code]](https://github.com/honglizhan/CovidET)
-- `EMNLP22` CARE: Causality Reasoning for Empathetic Responses by Conditional Graph Generation, 2022. [[paper]](https://arxiv.org/abs/2211.00255) [[code]](https://github.com/wangjs9/CARE-master)
-- Affective feature knowledge interaction for empathetic conversation generation, 2022. [[paper]](https://www.tandfonline.com/doi/full/10.1080/09540091.2022.2134301)
-- FADO: Feedback-Aware Double COntrolling Network for Emotional Support Conversation, 2022. [[paper]](https://arxiv.org/abs/2211.00250)
-- Leveraging Label Correlations in a Multi-label Setting: A Case Study in Emotion, 2022. [[paper]](https://arxiv.org/abs/2210.15842) [[code]](https://github.com/gchochla/Demux-MEmo)
-- Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats, 2022. [[paper]](https://arxiv.org/abs/2211.00171) [[code]](https://github.com/gchochla/Demux-MEmo)
-- PoKE: Prior Knowledge Enhanced Emotional Support Conversation with Latent Variable, 2022. [[paper]](https://arxiv.org/abs/2210.12640)
-- `EMNLP22` Empathetic Dialogue Generation via Sensitive Emotion Recognition and Sensible Knowledge Selection, 2022. [[paper]](https://arxiv.org/abs/2210.11715) [[code]](https://github.com/wlr737/EMNLP2022-SEEK)
-- `EMNLP22` Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning, 2022. [[paper]](https://arxiv.org/abs/2210.04242) [[code]](https://github.com/lwgkzl/MultiESC)
-- `COLING22` Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation, 2022. [[paper]](https://aclanthology.org/2022.coling-1.56/) [[code]](https://github.com/passing2961/EmpGPT-3)
-- `CCL22` Using Extracted Emotion Cause to Improve Content-Relevance for Empathetic Conversation Generation, 2022. [[paper]](https://aclanthology.org/2022.ccl-1.72/)
-- `IJCNN22` CogIntAc: Modeling the Relationships between Intention, Emotion and Action in Interactive Process from Cognitive Perspective, 2022. [[paper]](https://arxiv.org/abs/2205.03540)
-- `SIGIR22` Towards Motivational and Empathetic Response Generation in Online Mental Health Support, 2022. [[paper]](https://dl.acm.org/doi/10.1145/3477495.3531912)
-- Don’t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness, 2022. [[paper]](https://arxiv.org/abs/2210.03884)
-- Modeling Content-Emotion Duality via Disentanglement for Empathetic Conversation, 2022. [[paper]](https://arxiv.org/abs/2209.12495) [[code]](https://github.com/lpq29743/CEDual)
-- CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation, 2022. [[paper]](https://arxiv.org/abs/2208.08845)
-- `NAACL22` Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy, 2022. [[paper]](https://arxiv.org/abs/2205.07233)
-- `NAACL22` Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances, 2022. [[paper]](https://arxiv.org/abs/2205.03112v1)
-- `NAACL22` EmpHi: Generating Empathetic Responses with Human-like Intents, 2022. [[paper]](https://arxiv.org/abs/2204.12191) [[code]](https://github.com/mattc95/EmpHi)
-- Empathetic Response Generation with State Management, 2022. [[paper]](https://arxiv.org/abs/2205.03676) [[code]](https://github.com/A-Rain/State_Management_EmpDialogue)
-- ` IJCAI22` Control Globally, Understand Locally: A Global-to-Local Hierarchical Graph Network for Emotional Support Conversation, 2022. [[paper]](https://arxiv.org/abs/2204.12749)
-- `ACL22` MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation, 2022. [[paper]](https://arxiv.org/pdf/2203.13560v1.pdf) [[code]](https://github.com/morecry/MISC)
-- Emotion-based Modeling of Mental Disorders on Social Media, 2022. [[paper]](https://arxiv.org/abs/2201.09451)
-- Data Augmentation for Mental Health Classification on Social Media, 2021. [[paper]](https://arxiv.org/abs/2112.10064)
-- `AAAI22` CEM: Commonsense-aware Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2109.05739) [[code]](https://github.com/Sahandfer/CEM)
-- `AAAI22` Knowledge Bridging for Empathetic Dialogue Generation, 2021. [[paper]](https://qtli.github.io/publication/kemp/kemp.pdf) [[code]](https://github.com/qtli/KEMP)
-- `EMNLP21` Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations, 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.70.pdf) [[code]](https://github.com/A-Rain/EmpDialogue_RecEC)
-- `EMNLP21` Distilling Knowledge for Empathy Detection, 2021. [[paper]](https://aclanthology.org/2021.findings-emnlp.314/) [[code]](https://github.com/Mahhos/KDempathy)
-- Micromodels for Efficient, Explainable, and Reusable Systems: A Case Study on Mental Health, 2021. [[paper]](https://arxiv.org/abs/2109.13770) [[code]](https://github.com/MichiganNLP/micromodels.git)
-- MEDCOD: A Medically-Accurate, Emotive, Diverse, and COntrollable Dialog System, 2021. [[paper]](https://arxiv.org/pdf/2111.09381v1.pdf) [[code]](https://github.com/curai/curai-research/tree/main/MEDCOD)
-- MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare, 2021. [[paper]](https://arxiv.org/abs/2110.15621)
-- EmpBot: A T5-based Empathetic Chatbot focusing on Sentiments, 2021. [[paper]](https://arxiv.org/abs/2111.00310)
-- Empathetic Response Generation through Graph-based Multi-hop Reasoning on Emotional Causality, 2021. [[paper]](https://arxiv.org/abs/2110.04614)
-- `EMNLP21` Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes, 2021. [[paper]](https://arxiv.org/abs/2109.08828) [[code]](https://github.com/skywalker023/focused-empathy)
-- `EMNLP21` Constructing Emotion Consensus and Utilizing Unpaired Data for Empathetic Dialogue Generation, 2021. [[paper]](https://arxiv.org/abs/2109.07779)
-- Empathetic Dialogue Generation with Pre-trained RoBERTa-GPT2 and External Knowledge, 2021. [[paper]](https://arxiv.org/abs/2109.03004)
-- `ACL21` Modulating Language Models with Emotions, 2021. [[paper]](https://arxiv.org/abs/2108.07886)
-- `AAAI21` It Takes Two to Empathize: One to Seek and One to Provide, 2021. [[paper]](https://www.cs.uic.edu/~cornelia/papers/aaai21.pdf) [[code]](https://github.com/Mahhos/Empathy)
-- `INLG21` Affective Decoding for Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2108.08102) [[code]](https://github.com/zenggo/affective-decoding-4-empathetic-dialog)
-- Predicting User Emotional Tone in Mental Disorder Online Communities, 2021. [[paper]](https://arxiv.org/abs/2005.07473)
-- Exemplars-guided Empathetic Response Generation Controlled by the Elements of Human Communication, 2021. [[paper]](http://arxiv.org/abs/2106.11791) [[code]](https://github.com/declare-lab/exemplary-empathy)
-- `CPL21` Towards Low-Resource Real-Time Assessment of Empathy in Counselling, 2021. [[paper]](https://www.aclweb.org/anthology/2021.clpsych-1.22/)
-- Modeling Human Motives and Emotions from Personal Narratives Using External Knowledge And Entity Tracking, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449997)
-- SentEmojiBot: Empathising Conversations Generation with Emojis, 2021. [[paper]](http://arxiv.org/abs/2105.12399)
-- Towards an Online Empathetic Chatbot with Emotion Causes, 2021. [[paper]](http://arxiv.org/abs/2105.11903)
-- `ACL21` CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation, 2021. [[paper]](https://arxiv.org/abs/2105.08316) [[code]](https://github.com/chujiezheng/CoMAE)
-- Generative Adversarial Imitation Learning for Empathy-based AI, 2021. [[paper]](http://arxiv.org/abs/2105.13328)
-- Towards Detecting Need for Empathetic Response in Motivational Interviewing, 2021. [[paper]](http://arxiv.org/abs/2105.09649)
-- `WWW21` Modeling Human Motives and Emotions from Personal Narratives Using External Knowledge And Entity Tracking, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3442381.3449997)
-- `WWW21` Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach, 2021. [[paper]](https://arxiv.org/abs/2101.07714) [[code]](https://github.com/behavioral-data/PARTNER)
-- Empathetic BERT2BERT Conversational Model: Learning Arabic Language Generation with Little Data, 2021. [[paper]](https://arxiv.org/abs/2103.04353) [[code]](https://github.com/aub-mind/Arabic-Empathetic-Chatbot)
-- EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction, 2021. [[paper]](https://arxiv.org/abs/2102.00272)
-- `NEURIPS20` CheerBots: Chatbots toward Empathy and Emotion using Reinforcement Learning, 2021. [[paper]](https://arxiv.org/abs/2110.03949)
-- `LREC20` Learning word ratings for empathy and distress from document-level user responses, 2020. [[paper]](http://arxiv.org/abs/1912.01079)
-- `EMNLP20` MIME: MIMicking Emotions for Empathetic Response Generation, 2020. [[paper]](https://arxiv.org/abs/2010.01454) [[code]](https://github.com/declare-lab/MIME)
-- EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems, 2020. [[paper]](https://arxiv.org/abs/2003.02958) [[code]](https://github.com/roholazandie/EmpTransfo)
-- `SIGIR20` What If Bots Feel Moods ? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks, 2020. [[paper]](https://dl.acm.org/doi/abs/10.1145/3397271.3401108)
-- `ICASSP20` Generating Empathetic Responses by Looking Ahead the User's Sentiment, 2020. [[paper]](https://ieeexplore.ieee.org/document/9054379/) [[code]](https://github.com/HLTCHKUST/sentiment-lookahead)
-- DialogueTRM: exploring the intra- And inter-modal emotional behaviors in the conversation, 2020. [[paper]](https://arxiv.org/abs/2010.07637)
-- `COLING20` EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation, 2020 [[paper]](https://arxiv.org/abs/1911.08698) [[code]](https://github.com/qtli/EmpDG)
-- A Multi-Turn Emotionally Engaging Dialog Model, 2019. [[paper]](https://arxiv.org/abs/1908.07816) [[code]](https://github.com/yuboxie/meed)
-- Emotional Neural Language Generation Grounded in Situational Contexts, 2019. [[paper]](http://arxiv.org/abs/1911.11161) [[code]](https://github.com/sashank06/CCNLG-emotion)
-- `EMNLP19`  MOEL: Mixture of empathetic listeners, 2019. [[paper]](https://www.aclweb.org/anthology/D19-1012) [[code]](https://github.com/HLTCHKUST/MoEL)
-- `NAACL19` Affect-Driven Dialog Generation, 2019. [[paper]](https://arxiv.org/abs/1904.02793)
-- `ACL19`  Generating Responses with a Specific Emotion in Dialog, 2019. [[paper]](http://arxiv.org/abs/1911.11161)
-- `LREC19`  Empathetic dialog systems, 2019. [[paper]](http://lrec2018.lrec-conf.org/media/filer_public/2018/05/03/pascale_fungempathetic_dialog_systems.pdf)
-- `AAAI19` An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss, 2018. [[paper]](https://arxiv.org/abs/1811.07078)
-- `AAAI18` Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory, 2018. [[paper]](http://arxiv.org/abs/1802.08379) [[code]](https://github.com/tuxchow/ecm)
-- `AAAI18` Eliciting Positive Emotion through Affect-Sensitive Dialogue Response Generation: A Neural Network Approach, 2018. [[paper]](https://ahcweb01.naist.jp/papers/conference/2018/201802_AAAI_nurul-lu_1/201802_AAAI_nurul-lu_1.paper.pdf)
-- `ACL17` Affect-LM: A Neural Language Model for Customizable Affective Text Generation, 2017. [[paper]](http://arxiv.org/abs/1704.06851)
-- `ACL17` Predicting Counselor Behaviors in Motivational Interviewing Encounters, 2017. [[paper]](https://aclanthology.org/E17-1106/)
-- A deep learning approach to modeling empathy in addiction counseling, 2016. [[paper]](http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0554.html)
+| **Venue** | **Title** | **Paper** | **Code** |
+| :-------: | --------- |:---------:|:--------:|
+| EACL23 |Empathy Identification Systems are not Accurately Accounting for Context|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.eacl-main.123/)|[![GitHub](https://img.shields.io/github/stars/MichiganNLP/micromodels)](https://github.com/MichiganNLP/micromodels)|
+| ACL23 |Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction|[![arXiv](https://img.shields.io/badge/arXiv-2305.02466-b31b1b.svg)](https://arxiv.org/abs/2305.02466)|[![GitHub](https://img.shields.io/github/stars/behavioral-data/Cognitive-Reframing)](https://github.com/behavioral-data/Cognitive-Reframing)|
+| ACL23 |DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation|[![arXiv](https://img.shields.io/badge/arXiv-2306.01657-b31b1b.svg)](https://arxiv.org/abs/2306.01657)|:heavy_minus_sign:|
+| ACL23 |Unsupervised Extractive Summarization of Emotion Triggers|[![arXiv](https://img.shields.io/badge/arXiv-2306.01444-b31b1b.svg)](https://arxiv.org/abs/2306.01444)|[![GitHub](https://img.shields.io/github/stars/tsosea2/CovidET-EXT)](https://github.com/tsosea2/CovidET-EXT)|
+| ACL23 |Boosting Distress Support Dialogue Responses with Motivational Interviewing Strategy|[![arXiv](https://img.shields.io/badge/arXiv-2305.10195-b31b1b.svg)](https://arxiv.org/abs/2305.10195)|[![GitHub](https://img.shields.io/github/stars/anuradha1992/Boosting-with-MI-Strategy)](https://github.com/anuradha1992/Boosting-with-MI-Strategy)|
+| ACL23 |Knowledge-enhanced Mixed-initiative Dialogue System for Emotional Support Conversations|[![arXiv](https://img.shields.io/badge/arXiv-2305.10172-b31b1b.svg)](https://arxiv.org/abs/2305.10172)|[![GitHub](https://img.shields.io/github/stars/dengyang17/KEMI)](https://github.com/dengyang17/KEMI)|
+| ACL23 |TransESC: Smoothing Emotional Support Conversation via Turn-Level State Transition|[![arXiv](https://img.shields.io/badge/arXiv-2305.03296-b31b1b.svg)](https://arxiv.org/abs/2305.03296)|[![GitHub](https://img.shields.io/github/stars/circle-hit/TransESC)](https://github.com/circle-hit/TransESC)|
+| ACL23 |Improving Empathetic Dialogue Generation by Dynamically Infusing Commonsense Knowledge|[![arXiv](https://img.shields.io/badge/arXiv-2306.04657-b31b1b.svg)](https://arxiv.org/abs/2306.04657)|[![GitHub](https://img.shields.io/github/stars/Hanscal/DCKS)](https://github.com/Hanscal/DCKS)|
+| :heavy_minus_sign: |LLM-empowered Chatbots for Psychiatrist and Patient Simulation: Application and Evaluation|[![arXiv](https://img.shields.io/badge/arXiv-2305.13614-b31b1b.svg)](https://arxiv.org/abs/2305.13614)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Helping the Helper: Supporting Peer Counselors via AI-Empowered Practice and Feedback|[![arXiv](https://img.shields.io/badge/arXiv-2305.08982-b31b1b.svg)](https://arxiv.org/abs/2305.08982)|:heavy_minus_sign:|
+| :heavy_minus_sign: |SMILE: Single-turn to Multi-turn Inclusive Language Expansion via ChatGPT for Mental Health Support|[![arXiv](https://img.shields.io/badge/arXiv-2305.00450-b31b1b.svg)](https://arxiv.org/abs/2305.00450)|:heavy_minus_sign:|
+| :heavy_minus_sign: |MindGames: Targeting Theory of Mind in Large Language Models with Dynamic Epistemic Modal Logic|[![arXiv](https://img.shields.io/badge/arXiv-2305.03353-b31b1b.svg)](https://arxiv.org/abs/2305.03353)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Local dynamic mode of Cognitive Behavioral Therapy|[![arXiv](https://img.shields.io/badge/arXiv-2205.09752-b31b1b.svg)](https://arxiv.org/abs/2205.09752)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Improving Mental Health Support Response Generation with Event-based Knowledge Graph|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://knowledge-nlp.github.io/aaai2023/papers/006-MHKG-oral.pdf)|[![GitHub](https://img.shields.io/github/stars/Stan7s/MHKG)](https://github.com/Stan7s/MHKG)|
+| ICASSP23 |Empathetic Response Generation via Emotion Cause Transition Graph|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)]()|:heavy_minus_sign:|
+| :heavy_minus_sign: |CAB: Empathetic Dialogue Generation with Cognition, Affection and Behavior|[![arXiv](https://img.shields.io/badge/arXiv-2302.01935-b31b1b.svg)](https://arxiv.org/abs/2302.01935)|[![GitHub](https://img.shields.io/github/stars/geri-emp/CAB)](https://github.com/geri-emp/CAB)|
+| :heavy_minus_sign: |Commonsense-Aware Prompting for Controllable Empathetic Dialogue Generation|[![arXiv](https://img.shields.io/badge/arXiv-2302.01441-b31b1b.svg)](https://arxiv.org/abs/2302.01441)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling|[![arXiv](https://img.shields.io/badge/arXiv-2301.12729-b31b1b.svg)](https://arxiv.org/abs/2301.12729)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Curriculum-guided Abstractive Summarization for Mental Health Online Posts|[![arXiv](https://img.shields.io/badge/arXiv-2302.00954-b31b1b.svg)](https://arxiv.org/abs/2302.00954)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Is GPT-3 a Psychopath? Evaluating Large Language Models from a Psychological Perspective|[![arXiv](https://img.shields.io/badge/arXiv-2212.10529-b31b1b.svg)](https://arxiv.org/abs/2212.10529)|:heavy_minus_sign:|
+| EMNLP22 |Why Do You Feel This Way? Summarizing Triggers of Emotions in Social Media Posts|[![arXiv](https://img.shields.io/badge/arXiv-2210.12531-b31b1b.svg)](https://arxiv.org/abs/2210.12531)|[![GitHub](https://img.shields.io/github/stars/honglizhan/CovidET)](https://github.com/honglizhan/CovidET)|
+| EMNLP22 |CARE: Causality Reasoning for Empathetic Responses by Conditional Graph Generation|[![arXiv](https://img.shields.io/badge/arXiv-2211.00255-b31b1b.svg)](https://arxiv.org/abs/2211.00255)|[![GitHub](https://img.shields.io/github/stars/wangjs9/CARE-master)](https://github.com/wangjs9/CARE-master)|
+| :heavy_minus_sign: |Affective feature knowledge interaction for empathetic conversation generation|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.tandfonline.com/doi/full/10.1080/09540091.2022.2134301)|:heavy_minus_sign:|
+| :heavy_minus_sign: |FADO: Feedback-Aware Double COntrolling Network for Emotional Support Conversation|[![arXiv](https://img.shields.io/badge/arXiv-2211.00250-b31b1b.svg)](https://arxiv.org/abs/2211.00250)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Leveraging Label Correlations in a Multi-label Setting: A Case Study in Emotion|[![arXiv](https://img.shields.io/badge/arXiv-2210.15842-b31b1b.svg)](https://arxiv.org/abs/2210.15842)|[![GitHub](https://img.shields.io/github/stars/gchochla/Demux-MEmo)](https://github.com/gchochla/Demux-MEmo)|
+| :heavy_minus_sign: |Using Emotion Embeddings to Transfer Knowledge Between Emotions, Languages, and Annotation Formats|[![arXiv](https://img.shields.io/badge/arXiv-2211.00171-b31b1b.svg)](https://arxiv.org/abs/2211.00171)|[![GitHub](https://img.shields.io/github/stars/gchochla/Demux-MEmo)](https://github.com/gchochla/Demux-MEmo)|
+| :heavy_minus_sign: |PoKE: Prior Knowledge Enhanced Emotional Support Conversation with Latent Variable|[![arXiv](https://img.shields.io/badge/arXiv-2210.12640-b31b1b.svg)](https://arxiv.org/abs/2210.12640)|:heavy_minus_sign:|
+| EMNLP22 |Empathetic Dialogue Generation via Sensitive Emotion Recognition and Sensible Knowledge Selection|[![arXiv](https://img.shields.io/badge/arXiv-2210.11715-b31b1b.svg)](https://arxiv.org/abs/2210.11715)|[![GitHub](https://img.shields.io/github/stars/wlr737/EMNLP2022-SEEK)](https://github.com/wlr737/EMNLP2022-SEEK)|
+| EMNLP22 |Improving Multi-turn Emotional Support Dialogue Generation with Lookahead Strategy Planning|[![arXiv](https://img.shields.io/badge/arXiv-2210.04242-b31b1b.svg)](https://arxiv.org/abs/2210.04242)|[![GitHub](https://img.shields.io/github/stars/lwgkzl/MultiESC)](https://github.com/lwgkzl/MultiESC)|
+| COLING22 |Does GPT-3 Generate Empathetic Dialogues? A Novel In-Context Example Selection Method and Automatic Evaluation Metric for Empathetic Dialogue Generation|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2022.coling-1.56/)|[![GitHub](https://img.shields.io/github/stars/passing2961/EmpGPT-3)](https://github.com/passing2961/EmpGPT-3)|
+| CCL22 |Using Extracted Emotion Cause to Improve Content-Relevance for Empathetic Conversation Generation|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2022.ccl-1.72/)|:heavy_minus_sign:|
+| IJCNN22 |CogIntAc: Modeling the Relationships between Intention, Emotion and Action in Interactive Process from Cognitive Perspective|[![arXiv](https://img.shields.io/badge/arXiv-2205.03540-b31b1b.svg)](https://arxiv.org/abs/2205.03540)|:heavy_minus_sign:|
+| SIGIR22 |Towards Motivational and Empathetic Response Generation in Online Mental Health Support|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3477495.3531912)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Don’t Lose Yourself! Empathetic Response Generation via Explicit Self-Other Awareness|[![arXiv](https://img.shields.io/badge/arXiv-2210.03884-b31b1b.svg)](https://arxiv.org/abs/2210.03884)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Modeling Content-Emotion Duality via Disentanglement for Empathetic Conversation|[![arXiv](https://img.shields.io/badge/arXiv-2209.12495-b31b1b.svg)](https://arxiv.org/abs/2209.12495)|[![GitHub](https://img.shields.io/github/stars/lpq29743/CEDual)](https://github.com/lpq29743/CEDual)|
+| :heavy_minus_sign: |CASE: Aligning Coarse-to-Fine Cognition and Affection for Empathetic Response Generation|[![arXiv](https://img.shields.io/badge/arXiv-2208.08845-b31b1b.svg)](https://arxiv.org/abs/2208.08845)|:heavy_minus_sign:|
+| NAACL22 |Mitigating Toxic Degeneration with Empathetic Data: Exploring the Relationship Between Toxicity and Empathy|[![arXiv](https://img.shields.io/badge/arXiv-2205.07233-b31b1b.svg)](https://arxiv.org/abs/2205.07233)|:heavy_minus_sign:|
+| NAACL22 |Emp-RFT: Empathetic Response Generation via Recognizing Feature Transitions between Utterances|[![arXiv](https://img.shields.io/badge/arXiv-2205.03112v1-b31b1b.svg)](https://arxiv.org/abs/2205.03112v1)|:heavy_minus_sign:|
+| NAACL22 |EmpHi: Generating Empathetic Responses with Human-like Intents|[![arXiv](https://img.shields.io/badge/arXiv-2204.12191-b31b1b.svg)](https://arxiv.org/abs/2204.12191)|[![GitHub](https://img.shields.io/github/stars/mattc95/EmpHi)](https://github.com/mattc95/EmpHi)|
+| :heavy_minus_sign: |Empathetic Response Generation with State Management|[![arXiv](https://img.shields.io/badge/arXiv-2205.03676-b31b1b.svg)](https://arxiv.org/abs/2205.03676)|[![GitHub](https://img.shields.io/github/stars/A-Rain/State_Management_EmpDialogue)](https://github.com/A-Rain/State_Management_EmpDialogue)|
+|  IJCAI22 |Control Globally, Understand Locally: A Global-to-Local Hierarchical Graph Network for Emotional Support Conversation|[![arXiv](https://img.shields.io/badge/arXiv-2204.12749-b31b1b.svg)](https://arxiv.org/abs/2204.12749)|:heavy_minus_sign:|
+| ACL22 |MISC: A MIxed Strategy-Aware Model Integrating COMET for Emotional Support Conversation|[![arXiv](https://img.shields.io/badge/arXiv-2203.13560v1.pdf-b31b1b.svg)](https://arxiv.org/pdf/2203.13560v1.pdf)|[![GitHub](https://img.shields.io/github/stars/morecry/MISC)](https://github.com/morecry/MISC)|
+| :heavy_minus_sign: |Emotion-based Modeling of Mental Disorders on Social Media|[![arXiv](https://img.shields.io/badge/arXiv-2201.09451-b31b1b.svg)](https://arxiv.org/abs/2201.09451)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Data Augmentation for Mental Health Classification on Social Media|[![arXiv](https://img.shields.io/badge/arXiv-2112.10064-b31b1b.svg)](https://arxiv.org/abs/2112.10064)|:heavy_minus_sign:|
+| AAAI22 |CEM: Commonsense-aware Empathetic Response Generation|[![arXiv](https://img.shields.io/badge/arXiv-2109.05739-b31b1b.svg)](https://arxiv.org/abs/2109.05739)|[![GitHub](https://img.shields.io/github/stars/Sahandfer/CEM)](https://github.com/Sahandfer/CEM)|
+| AAAI22 |Knowledge Bridging for Empathetic Dialogue Generation|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://qtli.github.io/publication/kemp/kemp.pdf)|[![GitHub](https://img.shields.io/github/stars/qtli/KEMP)](https://github.com/qtli/KEMP)|
+| EMNLP21 |Improving Empathetic Response Generation by Recognizing Emotion Cause in Conversations|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2021.findings-emnlp.70.pdf)|[![GitHub](https://img.shields.io/github/stars/A-Rain/EmpDialogue_RecEC)](https://github.com/A-Rain/EmpDialogue_RecEC)|
+| EMNLP21 |Distilling Knowledge for Empathy Detection|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2021.findings-emnlp.314/)|[![GitHub](https://img.shields.io/github/stars/Mahhos/KDempathy)](https://github.com/Mahhos/KDempathy)|
+| :heavy_minus_sign: |Micromodels for Efficient, Explainable, and Reusable Systems: A Case Study on Mental Health|[![arXiv](https://img.shields.io/badge/arXiv-2109.13770-b31b1b.svg)](https://arxiv.org/abs/2109.13770)|[![GitHub](https://img.shields.io/github/stars/MichiganNLP/micromodels)](https://github.com/MichiganNLP/micromodels)|
+| :heavy_minus_sign: |MEDCOD: A Medically-Accurate, Emotive, Diverse, and COntrollable Dialog System|[![arXiv](https://img.shields.io/badge/arXiv-2111.09381v1.pdf-b31b1b.svg)](https://arxiv.org/pdf/2111.09381v1.pdf)|[![GitHub](https://img.shields.io/github/stars/curai/curai-research/tree/main/MEDCOD)](https://github.com/curai/curai-research/tree/main/MEDCOD)|
+| :heavy_minus_sign: |MentalBERT: Publicly Available Pretrained Language Models for Mental Healthcare|[![arXiv](https://img.shields.io/badge/arXiv-2110.15621-b31b1b.svg)](https://arxiv.org/abs/2110.15621)|:heavy_minus_sign:|
+| :heavy_minus_sign: |EmpBot: A T5-based Empathetic Chatbot focusing on Sentiments|[![arXiv](https://img.shields.io/badge/arXiv-2111.00310-b31b1b.svg)](https://arxiv.org/abs/2111.00310)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Empathetic Response Generation through Graph-based Multi-hop Reasoning on Emotional Causality|[![arXiv](https://img.shields.io/badge/arXiv-2110.04614-b31b1b.svg)](https://arxiv.org/abs/2110.04614)|:heavy_minus_sign:|
+| EMNLP21 |Perspective-taking and Pragmatics for Generating Empathetic Responses Focused on Emotion Causes|[![arXiv](https://img.shields.io/badge/arXiv-2109.08828-b31b1b.svg)](https://arxiv.org/abs/2109.08828)|[![GitHub](https://img.shields.io/github/stars/skywalker023/focused-empathy)](https://github.com/skywalker023/focused-empathy)|
+| EMNLP21 |Constructing Emotion Consensus and Utilizing Unpaired Data for Empathetic Dialogue Generation|[![arXiv](https://img.shields.io/badge/arXiv-2109.07779-b31b1b.svg)](https://arxiv.org/abs/2109.07779)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Empathetic Dialogue Generation with Pre-trained RoBERTa-GPT2 and External Knowledge|[![arXiv](https://img.shields.io/badge/arXiv-2109.03004-b31b1b.svg)](https://arxiv.org/abs/2109.03004)|:heavy_minus_sign:|
+| ACL21 |Modulating Language Models with Emotions|[![arXiv](https://img.shields.io/badge/arXiv-2108.07886-b31b1b.svg)](https://arxiv.org/abs/2108.07886)|:heavy_minus_sign:|
+| AAAI21 |It Takes Two to Empathize: One to Seek and One to Provide|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.cs.uic.edu/~cornelia/papers/aaai21.pdf)|[![GitHub](https://img.shields.io/github/stars/Mahhos/Empathy)](https://github.com/Mahhos/Empathy)|
+| INLG21 |Affective Decoding for Empathetic Response Generation|[![arXiv](https://img.shields.io/badge/arXiv-2108.08102-b31b1b.svg)](https://arxiv.org/abs/2108.08102)|[![GitHub](https://img.shields.io/github/stars/zenggo/affective-decoding-4-empathetic-dialog)](https://github.com/zenggo/affective-decoding-4-empathetic-dialog)|
+| :heavy_minus_sign: |Predicting User Emotional Tone in Mental Disorder Online Communities|[![arXiv](https://img.shields.io/badge/arXiv-2005.07473-b31b1b.svg)](https://arxiv.org/abs/2005.07473)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Exemplars-guided Empathetic Response Generation Controlled by the Elements of Human Communication|[![arXiv](https://img.shields.io/badge/arXiv-2106.11791-b31b1b.svg)](http://arxiv.org/abs/2106.11791)|[![GitHub](https://img.shields.io/github/stars/declare-lab/exemplary-empathy)](https://github.com/declare-lab/exemplary-empathy)|
+| CPL21 |Towards Low-Resource Real-Time Assessment of Empathy in Counselling|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.aclweb.org/anthology/2021.clpsych-1.22/)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Modeling Human Motives and Emotions from Personal Narratives Using External Knowledge And Entity Tracking|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3442381.3449997)|:heavy_minus_sign:|
+| :heavy_minus_sign: |SentEmojiBot: Empathising Conversations Generation with Emojis|[![arXiv](https://img.shields.io/badge/arXiv-2105.12399-b31b1b.svg)](http://arxiv.org/abs/2105.12399)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Towards an Online Empathetic Chatbot with Emotion Causes|[![arXiv](https://img.shields.io/badge/arXiv-2105.11903-b31b1b.svg)](http://arxiv.org/abs/2105.11903)|:heavy_minus_sign:|
+| ACL21 |CoMAE: A Multi-factor Hierarchical Framework for Empathetic Response Generation|[![arXiv](https://img.shields.io/badge/arXiv-2105.08316-b31b1b.svg)](https://arxiv.org/abs/2105.08316)|[![GitHub](https://img.shields.io/github/stars/chujiezheng/CoMAE)](https://github.com/chujiezheng/CoMAE)|
+| :heavy_minus_sign: |Generative Adversarial Imitation Learning for Empathy-based AI|[![arXiv](https://img.shields.io/badge/arXiv-2105.13328-b31b1b.svg)](http://arxiv.org/abs/2105.13328)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Towards Detecting Need for Empathetic Response in Motivational Interviewing|[![arXiv](https://img.shields.io/badge/arXiv-2105.09649-b31b1b.svg)](http://arxiv.org/abs/2105.09649)|:heavy_minus_sign:|
+| WWW21 |Modeling Human Motives and Emotions from Personal Narratives Using External Knowledge And Entity Tracking|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3442381.3449997)|:heavy_minus_sign:|
+| WWW21 |Towards facilitating empathic conversations in Online Mental Health Support: A Reinforcement Learning Approach|[![arXiv](https://img.shields.io/badge/arXiv-2101.07714-b31b1b.svg)](https://arxiv.org/abs/2101.07714)|[![GitHub](https://img.shields.io/github/stars/behavioral-data/PARTNER)](https://github.com/behavioral-data/PARTNER)|
+| :heavy_minus_sign: |Empathetic BERT2BERT Conversational Model: Learning Arabic Language Generation with Little Data|[![arXiv](https://img.shields.io/badge/arXiv-2103.04353-b31b1b.svg)](https://arxiv.org/abs/2103.04353)|[![GitHub](https://img.shields.io/github/stars/aub-mind/Arabic-Empathetic-Chatbot)](https://github.com/aub-mind/Arabic-Empathetic-Chatbot)|
+| :heavy_minus_sign: |EmpathBERT: A BERT-based Framework for Demographic-aware Empathy Prediction|[![arXiv](https://img.shields.io/badge/arXiv-2102.00272-b31b1b.svg)](https://arxiv.org/abs/2102.00272)|:heavy_minus_sign:|
+| NEURIPS20 |CheerBots: Chatbots toward Empathy and Emotion using Reinforcement Learning|[![arXiv](https://img.shields.io/badge/arXiv-2110.03949-b31b1b.svg)](https://arxiv.org/abs/2110.03949)|:heavy_minus_sign:|
+| LREC20 |Learning word ratings for empathy and distress from document-level user responses|[![arXiv](https://img.shields.io/badge/arXiv-1912.01079-b31b1b.svg)](http://arxiv.org/abs/1912.01079)|:heavy_minus_sign:|
+| EMNLP20 |MIME: MIMicking Emotions for Empathetic Response Generation|[![arXiv](https://img.shields.io/badge/arXiv-2010.01454-b31b1b.svg)](https://arxiv.org/abs/2010.01454)|[![GitHub](https://img.shields.io/github/stars/declare-lab/MIME)](https://github.com/declare-lab/MIME)|
+| :heavy_minus_sign: |EmpTransfo: A Multi-head Transformer Architecture for Creating Empathetic Dialog Systems|[![arXiv](https://img.shields.io/badge/arXiv-2003.02958-b31b1b.svg)](https://arxiv.org/abs/2003.02958)|[![GitHub](https://img.shields.io/github/stars/roholazandie/EmpTransfo)](https://github.com/roholazandie/EmpTransfo)|
+| SIGIR20 |What If Bots Feel Moods ? Towards Controllable Retrieval-based Dialogue Systems with Emotion-Aware Transition Networks|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3397271.3401108)|:heavy_minus_sign:|
+| ICASSP20 |Generating Empathetic Responses by Looking Ahead the User's Sentiment|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://ieeexplore.ieee.org/document/9054379/)|[![GitHub](https://img.shields.io/github/stars/HLTCHKUST/sentiment-lookahead)](https://github.com/HLTCHKUST/sentiment-lookahead)|
+| :heavy_minus_sign: |DialogueTRM: exploring the intraAnd inter-modal emotional behaviors in the conversation|[![arXiv](https://img.shields.io/badge/arXiv-2010.07637-b31b1b.svg)](https://arxiv.org/abs/2010.07637)|:heavy_minus_sign:|
+| COLING20 |EmpDG: Multi-resolution Interactive Empathetic Dialogue Generation|[![arXiv](https://img.shields.io/badge/arXiv-1911.08698-b31b1b.svg)](https://arxiv.org/abs/1911.08698)|[![GitHub](https://img.shields.io/github/stars/qtli/EmpDG)](https://github.com/qtli/EmpDG)|
+| :heavy_minus_sign: |A Multi-Turn Emotionally Engaging Dialog Model|[![arXiv](https://img.shields.io/badge/arXiv-1908.07816-b31b1b.svg)](https://arxiv.org/abs/1908.07816)|[![GitHub](https://img.shields.io/github/stars/yuboxie/meed)](https://github.com/yuboxie/meed)|
+| :heavy_minus_sign: |Emotional Neural Language Generation Grounded in Situational Contexts|[![arXiv](https://img.shields.io/badge/arXiv-1911.11161-b31b1b.svg)](http://arxiv.org/abs/1911.11161)|[![GitHub](https://img.shields.io/github/stars/sashank06/CCNLG-emotion)](https://github.com/sashank06/CCNLG-emotion)|
+| EMNLP19 | MOEL: Mixture of empathetic listeners|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.aclweb.org/anthology/D19-1012)|[![GitHub](https://img.shields.io/github/stars/HLTCHKUST/MoEL)](https://github.com/HLTCHKUST/MoEL)|
+| NAACL19 |Affect-Driven Dialog Generation|[![arXiv](https://img.shields.io/badge/arXiv-1904.02793-b31b1b.svg)](https://arxiv.org/abs/1904.02793)|:heavy_minus_sign:|
+| ACL19 | Generating Responses with a Specific Emotion in Dialog|[![arXiv](https://img.shields.io/badge/arXiv-1911.11161-b31b1b.svg)](http://arxiv.org/abs/1911.11161)|:heavy_minus_sign:|
+| LREC19 | Empathetic dialog systems|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](http://lrec2018.lrec-conf.org/media/filer_public/2018/05/03/pascale_fungempathetic_dialog_systems.pdf)|:heavy_minus_sign:|
+| AAAI19 |An Affect-Rich Neural Conversational Model with Biased Attention and Weighted Cross-Entropy Loss|[![arXiv](https://img.shields.io/badge/arXiv-1811.07078-b31b1b.svg)](https://arxiv.org/abs/1811.07078)|:heavy_minus_sign:|
+| AAAI18 |Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory|[![arXiv](https://img.shields.io/badge/arXiv-1802.08379-b31b1b.svg)](http://arxiv.org/abs/1802.08379)|[![GitHub](https://img.shields.io/github/stars/tuxchow/ecm)](https://github.com/tuxchow/ecm)|
+| AAAI18 |Eliciting Positive Emotion through Affect-Sensitive Dialogue Response Generation: A Neural Network Approach|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://ahcweb01.naist.jp/papers/conference/2018/201802_AAAI_nurul-lu_1/201802_AAAI_nurul-lu_1.paper.pdf)|:heavy_minus_sign:|
+| ACL17 |Affect-LM: A Neural Language Model for Customizable Affective Text Generation|[![arXiv](https://img.shields.io/badge/arXiv-1704.06851-b31b1b.svg)](http://arxiv.org/abs/1704.06851)|:heavy_minus_sign:|
+| ACL17 |Predicting Counselor Behaviors in Motivational Interviewing Encounters|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/E17-1106/)|:heavy_minus_sign:|
+| :heavy_minus_sign: |A deep learning approach to modeling empathy in addiction counseling|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](http://www.isca-speech.org/archive/Interspeech_2016/abstracts/0554.html)|:heavy_minus_sign:|
 
-# <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
+ # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
-- COKE: A Cognitive Knowledge Graph for Machine Theory of Mind, 2023. [[paper]](https://arxiv.org/abs/2305.05390)
-- ToMChallenges: A Principle-Guided Dataset and Diverse Evaluation Tasks for Exploring Theory of Mind, 2023. [[paper]](https://arxiv.org/abs/2305.15068) [[code]](https://github.com/xiaomeng-ma/ToMChallenges)
-- LOST: A Mental Health Dataset of Low Self-esteem in Reddit Posts, 2023. [[paper]](https://arxiv.org/abs/2306.05596) [[code]](https://github.com/drmuskangarg/LoST)
-- `EMNLP22` D4: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat, 2022. [[paper]](https://arxiv.org/abs/2205.11764) [[code]](https://x-lance.github.io/D4/)
-- `LREC22` CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts, 2022. [[paper]](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.686.pdf) [[code]](https://github.com/drmuskangarg/CAMS)
-- `NAACL22` A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.174/)
-- Symptom Identification for Interpretable Detection of Multiple Mental Disorders, 2022. [[paper]](https://arxiv.org/abs/2205.11308)
-- `KDD22` Counseling Summarization using Mental Health Knowledge Guided Utterance Filtering, 2022. [[paper]](https://arxiv.org/abs/2206.03886)
-- `LREC22` MentSum: A Resource for Exploring Summarization of Mental Health Online Posts, 2022. [[paper]](https://arxiv.org/abs/2206.00856v1)
-- `ACL22` Multi-Party Empathetic Dialogue Generation: A New Task for Dialog Systems, 2022. [[paper]](https://aclanthology.org/2022.acl-long.24/)
-- Empathic Conversations: A Multi-level Dataset of Contextualized Conversations, 2022. [[paper]](https://arxiv.org/abs/2205.12698)
-- `AAAI22` HEAL: A Knowledge Graph for Distress Management Conversations, 2022. [[paper]](https://www.aaai.org/AAAI22Papers/AAAI-452.WelivitaA.pdf)
-- Towards Multi-Turn Empathetic Dialogs with Positive Emotion Elicitation, 2022. [[paper]](https://arxiv.org/abs/2204.10509)
-- Mental Health Disorder Identification From Motivational Conversations, 2022. [[paper]](https://ieeexplore.ieee.org/document/9729467)
-- The CARE Dataset for Affective Response Detection, 2022. [[paper]](https://arxiv.org/abs/2201.11895)
-- `IJCNN21` A Large-Scale Dataset for Motivational Dialogue System: An Application of Natural Language Generation to Mental Health, 2021. [[paper]](https://ieeexplore.ieee.org/document/9533924)
-- `EMNLP21` A Large-Scale Dataset for Empathetic Response Generation, 2021. [[paper]](https://aclanthology.org/2021.emnlp-main.96/) [[code]](https://github.com/anuradha1992/EDOS)
-- EmoWOZ: A Large-Scale Corpus and Labelling Scheme for Emotion in Task-Oriented Dialogue Systems, 2021. [[paper]](https://arxiv.org/abs/2109.04919)
-- A Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts, 2021. [[paper]](https://arxiv.org/abs/2108.11810) [[code]](https://github.com/humanfactorspsych/covid19-tom-empathy-diary?utm_source=catalyzex.com)
-- `ACL21` Towards Emotional Support Dialog Systems, 2021. [[paper]](http://arxiv.org/abs/2106.01144) [[code]](https://github.com/thu-coai/Emotional-Support-Conversation)
-- `ACL21` PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support, 2021. [[paper]](http://arxiv.org/abs/2106.01702) [[code]](https://github.com/thu-coai/PsyQA)
-- `CLPsych21` On the State of Social Media Data for Mental Health Research, 2020. [[paper]](https://arxiv.org/abs/2011.05233) [[code]](https://github.com/kharrigian/mental-health-datasets)
-- `COLING20` A Taxonomy of Empathetic Response Intents in Human Social Conversations, 2020. [[paper]](http://arxiv.org/abs/2012.04080) [[code]](https://github.com/anuradha1992/EmpatheticIntents)
-- `ACL19` Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset, 2019. [[paper]](https://arxiv.org/abs/1811.00207) [[code]](https://github.com/facebookresearch/EmpatheticDialogues)
-- `EMNLP18` It’s going to be okay: Measuring Access to Support in Online Communities, 2018. [[paper]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/davidjurgens/support)
-- `EMNLP18` Modeling empathy and distress in reaction to news stories, 2018. [[paper]](http://arxiv.org/abs/1808.10399) [[code]](https://github.com/wwbp/empathic_reactions)
-- `ACL17` MojiTalk: Generating Emotional Responses at Scale, 2017. [[paper]](http://aclweb.org/anthology/D18-1004) [[code]](https://github.com/ArponKundu/UIU_MojiTalk?utm_source=catalyzex.com)
-- Constructing Knowledge Graphs of Depression, 2017. [[paper]](https://link.springer.com/chapter/10.1007/978-3-319-69182-4_16)
+| **Venue** | **Title** | **Paper** | **Code** |
+| --------- | --------- |:---------:|:--------:|
+| :heavy_minus_sign: |COKE: A Cognitive Knowledge Graph for Machine Theory of Mind|[![arXiv](https://img.shields.io/badge/arXiv-2305.05390-b31b1b.svg)](https://arxiv.org/abs/2305.05390)|:heavy_minus_sign:|
+| :heavy_minus_sign: |ToMChallenges: A Principle-Guided Dataset and Diverse Evaluation Tasks for Exploring Theory of Mind|[![arXiv](https://img.shields.io/badge/arXiv-2305.15068-b31b1b.svg)](https://arxiv.org/abs/2305.15068)|:heavy_minus_sign:|
+| :heavy_minus_sign: |LOST: A Mental Health Dataset of Low Self-esteem in Reddit Posts|[![arXiv](https://img.shields.io/badge/arXiv-2306.05596-b31b1b.svg)](https://arxiv.org/abs/2306.05596)|:heavy_minus_sign:|
+| EMNLP22 |D4: a Chinese Dialogue Dataset for Depression-Diagnosis-Oriented Chat|[![arXiv](https://img.shields.io/badge/arXiv-2205.11764-b31b1b.svg)](https://arxiv.org/abs/2205.11764)|[![GitHub](https://img.shields.io/github/stars/BigBinnie/D4_baseline)](https://github.com/BigBinnie/D4_baseline)|
+| LREC22 |CAMS: An Annotated Corpus for Causal Analysis of Mental Health Issues in Social Media Posts|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.686.pdf)|[![GitHub](https://img.shields.io/github/stars/drmuskangarg/CAMS)](https://github.com/drmuskangarg/CAMS)|
+| NAACL22 |A Shoulder to Cry on: Towards A Motivational Virtual Assistant for Assuaging Mental Agony|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2022.naacl-main.174/)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Symptom Identification for Interpretable Detection of Multiple Mental Disorders|[![arXiv](https://img.shields.io/badge/arXiv-2205.11308-b31b1b.svg)](https://arxiv.org/abs/2205.11308)|:heavy_minus_sign:|
+| KDD22 |Counseling Summarization using Mental Health Knowledge Guided Utterance Filtering|[![arXiv](https://img.shields.io/badge/arXiv-2206.03886-b31b1b.svg)](https://arxiv.org/abs/2206.03886)|:heavy_minus_sign:|
+| LREC22 |MentSum: A Resource for Exploring Summarization of Mental Health Online Posts|[![arXiv](https://img.shields.io/badge/arXiv-2206.00856v1-b31b1b.svg)](https://arxiv.org/abs/2206.00856v1)|:heavy_minus_sign:|
+| ACL22 |Multi-Party Empathetic Dialogue Generation: A New Task for Dialog Systems|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2022.acl-long.24/)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Empathic Conversations: A Multi-level Dataset of Contextualized Conversations|[![arXiv](https://img.shields.io/badge/arXiv-2205.12698-b31b1b.svg)](https://arxiv.org/abs/2205.12698)|:heavy_minus_sign:|
+| AAAI22 |HEAL: A Knowledge Graph for Distress Management Conversations|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.aaai.org/AAAI22Papers/AAAI-452.WelivitaA.pdf)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Towards Multi-Turn Empathetic Dialogs with Positive Emotion Elicitation|[![arXiv](https://img.shields.io/badge/arXiv-2204.10509-b31b1b.svg)](https://arxiv.org/abs/2204.10509)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Mental Health Disorder Identification From Motivational Conversations|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://ieeexplore.ieee.org/document/9729467)|:heavy_minus_sign:|
+| :heavy_minus_sign: |The CARE Dataset for Affective Response Detection|[![arXiv](https://img.shields.io/badge/arXiv-2201.11895-b31b1b.svg)](https://arxiv.org/abs/2201.11895)|:heavy_minus_sign:|
+| IJCNN21 |A Large-Scale Dataset for Motivational Dialogue System: An Application of Natural Language Generation to Mental Health|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://ieeexplore.ieee.org/document/9533924)|:heavy_minus_sign:|
+| EMNLP21 |A Large-Scale Dataset for Empathetic Response Generation|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2021.emnlp-main.96/)|[![GitHub](https://img.shields.io/github/stars/anuradha1992/EDOS)](https://github.com/anuradha1992/EDOS)|
+| :heavy_minus_sign: |EmoWOZ: A Large-Scale Corpus and Labelling Scheme for Emotion in Task-Oriented Dialogue Systems|[![arXiv](https://img.shields.io/badge/arXiv-2109.04919-b31b1b.svg)](https://arxiv.org/abs/2109.04919)|:heavy_minus_sign:|
+| :heavy_minus_sign: |A Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts|[![arXiv](https://img.shields.io/badge/arXiv-2108.11810-b31b1b.svg)](https://arxiv.org/abs/2108.11810)|[![GitHub](https://img.shields.io/github/stars/humanfactorspsych/covid19-tom-empathy-diary?utm_source=catalyzex.com)](https://github.com/humanfactorspsych/covid19-tom-empathy-diary?utm_source=catalyzex.com)|
+| ACL21 |Towards Emotional Support Dialog Systems|[![arXiv](https://img.shields.io/badge/arXiv-2106.01144-b31b1b.svg)](http://arxiv.org/abs/2106.01144)|[![GitHub](https://img.shields.io/github/stars/thu-coai/Emotional-Support-Conversation)](https://github.com/thu-coai/Emotional-Support-Conversation)|
+| ACL21 |PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support|[![arXiv](https://img.shields.io/badge/arXiv-2106.01702-b31b1b.svg)](http://arxiv.org/abs/2106.01702)|[![GitHub](https://img.shields.io/github/stars/thu-coai/PsyQA)](https://github.com/thu-coai/PsyQA)|
+| CLPsych21 |On the State of Social Media Data for Mental Health Research|[![arXiv](https://img.shields.io/badge/arXiv-2011.05233-b31b1b.svg)](https://arxiv.org/abs/2011.05233)|[![GitHub](https://img.shields.io/github/stars/kharrigian/mental-health-datasets)](https://github.com/kharrigian/mental-health-datasets)|
+| COLING20 |A Taxonomy of Empathetic Response Intents in Human Social Conversations|[![arXiv](https://img.shields.io/badge/arXiv-2012.04080-b31b1b.svg)](http://arxiv.org/abs/2012.04080)|[![GitHub](https://img.shields.io/github/stars/anuradha1992/EmpatheticIntents)](https://github.com/anuradha1992/EmpatheticIntents)|
+| ACL19 |Towards Empathetic Open-domain Conversation Models: a New Benchmark and Dataset|[![arXiv](https://img.shields.io/badge/arXiv-1811.00207-b31b1b.svg)](https://arxiv.org/abs/1811.00207)|[![GitHub](https://img.shields.io/github/stars/facebookresearch/EmpatheticDialogues)](https://github.com/facebookresearch/EmpatheticDialogues)|
+| EMNLP18 |It’s going to be okay: Measuring Access to Support in Online Communities|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](http://aclweb.org/anthology/D18-1004)|[![GitHub](https://img.shields.io/github/stars/davidjurgens/support)](https://github.com/davidjurgens/support)|
+| EMNLP18 |Modeling empathy and distress in reaction to news stories|[![arXiv](https://img.shields.io/badge/arXiv-1808.10399-b31b1b.svg)](http://arxiv.org/abs/1808.10399)|[![GitHub](https://img.shields.io/github/stars/wwbp/empathic_reactions)](https://github.com/wwbp/empathic_reactions)|
+| ACL17 |MojiTalk: Generating Emotional Responses at Scale|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](http://aclweb.org/anthology/D18-1004)|[![GitHub](https://img.shields.io/github/stars/ArponKundu/UIU_MojiTalk?utm_source=catalyzex.com)](https://github.com/ArponKundu/UIU_MojiTalk?utm_source=catalyzex.com)|
+| :heavy_minus_sign: |Constructing Knowledge Graphs of Depression|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://link.springer.com/chapter/10.1007/978-3-319-69182-4_16)|:heavy_minus_sign:|
 
-# <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
+ # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
-- FaceChat: An Emotion-Aware Face-to-face Dialogue Framework, 2023. [[paper]](https://arxiv.org/abs/2303.07316) [[code]](https://github.com/qywu/FaceChat)
-- EMP-EVAL: A Framework for Measuring Empathy in Open Domain Dialogues, 2023. [[paper]](https://arxiv.org/abs/2301.12510)
-- `COLING22` COMMA: Modeling Relationship among Motivations, Emotions and Actions in Language-based Human Activities, 2022. [[paper]](https://arxiv.org/abs/2209.06470) [[code]](https://github.com/IndexFziQ/COMMA)
-- Human-AI Collaboration Enables More Empathic Conversations in Text-based Peer-to-Peer Mental Health Support, 2022. [[paper]](https://arxiv.org/abs/2203.15144)
-- A Computational Approach to Understand Mental Health from Reddit: Knowledge-aware Multitask Learning Framework, 2022. [[paper]](https://arxiv.org/pdf/2203.11856v1.pdf) 
-- Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations, 2021. [[paper]](https://arxiv.org/pdf/2111.06647v1.pdf) [[code]](https://github.com/LCS2-IIITD/SPARTA_WSDM2022)
-- Automatically Select Emotion for Response via Personality-affected Emotion Transition, 2021. [[paper]](http://arxiv.org/abs/2106.15846)
-- Supporting Cognitive and Emotional Empathic Writing of Students, 2021. [[paper]](http://arxiv.org/abs/2105.14815)
-- `EMNLP20` A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support, 2020. [[paper]](https://arxiv.org/abs/2009.08441) [[code]](https://github.com/behavioral-data/Empathy-Mental-Health)
-- `EMNLP20` A Multi-Persona Chatbot for Hotline Counselor Training, 2020. [[paper]](https://www.aclweb.org/anthology/2020.findings-emnlp.324)
-- `EMNLP20` Towards Persona-Based Empathetic Conversational Models [[paper]](http://arxiv.org/abs/2004.12316) [[code]](https://github.com/zhongpeixiang/PEC)
+| **Venue** | **Title** | **Paper** | **Code** |
+| --------- | --------- |:---------:|:--------:|
+| :heavy_minus_sign: |FaceChat: An Emotion-Aware Face-to-face Dialogue Framework|[![arXiv](https://img.shields.io/badge/arXiv-2303.07316-b31b1b.svg)](https://arxiv.org/abs/2303.07316)|[![GitHub](https://img.shields.io/github/stars/qywu/FaceChat)](https://github.com/qywu/FaceChat)|
+| :heavy_minus_sign: |EMP-EVAL: A Framework for Measuring Empathy in Open Domain Dialogues|[![arXiv](https://img.shields.io/badge/arXiv-2301.12510-b31b1b.svg)](https://arxiv.org/abs/2301.12510)|:heavy_minus_sign:|
+| COLING22 |COMMA: Modeling Relationship among Motivations, Emotions and Actions in Language-based Human Activities|[![arXiv](https://img.shields.io/badge/arXiv-2209.06470-b31b1b.svg)](https://arxiv.org/abs/2209.06470)|[![GitHub](https://img.shields.io/github/stars/IndexFziQ/COMMA)](https://github.com/IndexFziQ/COMMA)|
+| :heavy_minus_sign: |Human-AI Collaboration Enables More Empathic Conversations in Text-based Peer-to-Peer Mental Health Support|[![arXiv](https://img.shields.io/badge/arXiv-2203.15144-b31b1b.svg)](https://arxiv.org/abs/2203.15144)|:heavy_minus_sign:|
+| :heavy_minus_sign: |A Computational Approach to Understand Mental Health from Reddit: Knowledge-aware Multitask Learning Framework|[![arXiv](https://img.shields.io/badge/arXiv-2203.11856v1.pdf-b31b1b.svg)](https://arxiv.org/pdf/2203.11856v1.pdf)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations|[![arXiv](https://img.shields.io/badge/arXiv-2111.06647v1.pdf-b31b1b.svg)](https://arxiv.org/pdf/2111.06647v1.pdf)|[![GitHub](https://img.shields.io/github/stars/LCS2-IIITD/SPARTA_WSDM2022)](https://github.com/LCS2-IIITD/SPARTA_WSDM2022)|
+| :heavy_minus_sign: |Automatically Select Emotion for Response via Personality-affected Emotion Transition|[![arXiv](https://img.shields.io/badge/arXiv-2106.15846-b31b1b.svg)](http://arxiv.org/abs/2106.15846)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Supporting Cognitive and Emotional Empathic Writing of Students|[![arXiv](https://img.shields.io/badge/arXiv-2105.14815-b31b1b.svg)](http://arxiv.org/abs/2105.14815)|:heavy_minus_sign:|
+| EMNLP20 |A Computational Approach to Understanding Empathy Expressed in Text-Based Mental Health Support|[![arXiv](https://img.shields.io/badge/arXiv-2009.08441-b31b1b.svg)](https://arxiv.org/abs/2009.08441)|[![GitHub](https://img.shields.io/github/stars/behavioral-data/Empathy-Mental-Health)](https://github.com/behavioral-data/Empathy-Mental-Health)|
+| EMNLP20 |A Multi-Persona Chatbot for Hotline Counselor Training|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.aclweb.org/anthology/2020.findings-emnlp.324)|:heavy_minus_sign:|
+| EMNLP20 |Towards Persona-Based Empathetic Conversational Models|[![arXiv](https://img.shields.io/badge/arXiv-2004.12316-b31b1b.svg)](http://arxiv.org/abs/2004.12316)|[![GitHub](https://img.shields.io/github/stars/zhongpeixiang/PEC)](https://github.com/zhongpeixiang/PEC)|
 
-# <img src="https://img.shields.io/badge/Paper%20Type-Chatbot-ff69bf" alt="arXiv"/>
+ # <img src="https://img.shields.io/badge/Paper%20Type-Chatbot-ff69bf" alt="arXiv"/>
 
-- An Empathetic AI Coach for Self-Attachment Therapy, 2022. [[paper]](https://ieeexplore.ieee.org/document/9750315)
-- Using AI chatbots to provide self-help depression interventions for university students: A randomized trial of effectiveness, 2022. [[paper]](sciencedirect.com/science/article/pii/S2214782922000021)
-- “I am chatbot, your virtual mental health adviser.” What drives citizens’ satisfaction and continuance intention toward mental health chatbots during the COVID-19 pandemic? An empirical study in China, 2022. [[paper]](https://pubmed.ncbi.nlm.nih.gov/35381977/)
-- Elomia Chatbot: the Effectiveness of Artificial Intelligence in the Fight for Mental Health, 2021. [[paper]](http://ceur-ws.org/Vol-2870/paper89.pdf)
-- Efficacy of an Internet-Based Intervention for Subclinical Depression (MoodBox) in China: Study Protocol for a Randomized Controlled Trial, 2021. [[paper]](https://www.frontiersin.org/articles/10.3389/fpsyt.2020.585920/full)
-- Emily: Developing An Emotion-affective Open-Domain Chatbot with Knowledge Graph-based Persona, 2021. [[paper]](https://arxiv.org/abs/2109.08875)
-- ERICA: An Empathetic Android Companion for Covid-19 Quarantine, 2021. [[paper]](http://arxiv.org/abs/2106.02325)
-- The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2020. [[paper]](http://arxiv.org/abs/1812.08989)
-- Recipes for building an open-domain chatbot, 2020. [[paper]](http://arxiv.org/abs/2004.13637)
-- Towards a Human-like Open-Domain Chatbot, 2020. [[paper]](http://arxiv.org/abs/2001.09977)
-- HappyBot: Generating Empathetic Dialogue Responses by Improving User Experience Look-ahead, 2019.  [[paper]](http://arxiv.org/abs/1906.08487)
-- CAiRE: An Empathetic Neural Chatbot, 2019. [[paper]](http://arxiv.org/abs/1907.12108)
-- Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial, 2017. [[paper]](https://mental.jmir.org/2017/2/e19/)
-- The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2014. [[paper]](https://watermark.silverchair.com/coli_a_00368.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqMwggKfBgkqhkiG9w0BBwagggKQMIICjAIBADCCAoUGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMjpoY3TFRfSx-ye-sAgEQgIICVmOvf6PHKUw6xkAbcCK-55GxZyWMssnHqxkvoEkr8DEFcJsBSSZf9d18h4J8GL8la-VHyOVpZCp2VtgcZIIjVXe3wQAI1h02xtjnLN7zrAi5zKQJWSITbrwMwBXMLhi-PKM2hMGt969niT4mUhc9LorS17wU0ld2T9xuKyVg9RnwNr64-q5buGXXAfC1adjgUDrkYo8ALbt8zEOKHumoASyoAaVdXUWnkfVk-OHH2fCezOGvE1fmoMZTqsGSWMsorYPbKtiXThYSje3Og7bgCkm0fad4C5QJPxjx8hkdP2s-KSDtRq8VR1kvsvr3ve5DtMs3Lh1S0WZjowOpyJ7d_XtvHxHv3kIwiAMkPWHD6hW7ccBpjjicBYsTTCZzpdf5mNc-I-4ncVPtte5FpHrhWhAfCFoyY1VKYUR5nkNHv17ByXzQvlbW6CI13JhA2zEF9u4SAqyfM6YVAKoaTsXifgpeL_YO3ZWOMy8Fr6xX0-SrDnc5pQUJj-mTt5L2O4UjC5uEyVgO_q8InpNtvaCJFCHl24juuusLyQz3tLOm54eNvTkyL_FhW-SYYRhMxY5MS5hlDssLC242vhxAVGzHlsW5P4oVH_aeKlhAD7nq9ZTbycJwlygXpdEMZWVgydDHh5k22QP6Ini3xquxaqD82RNMaavY94MGyNK3853DKXWkqBGTboyRN72M4HBwwyKZxPofCzrHPf0pcG2GMIzpOnO81dAg9unt8gKS3yzoT9bvImLkBkCazEpgW_iHldjrfLP2PWRGRrN2pVWHPTDd0MiliTbF1OQ)
+| **Venue** | **Title** | **Paper** | **Code** |
+| --------- | --------- |:---------:|:--------:|
+| :heavy_minus_sign: |An Empathetic AI Coach for Self-Attachment Therapy|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://ieeexplore.ieee.org/document/9750315)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Using AI chatbots to provide self-help depression interventions for university students: A randomized trial of effectiveness|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](sciencedirect.com/science/article/pii/S2214782922000021)|:heavy_minus_sign:|
+| :heavy_minus_sign: |“I am chatbot, your virtual mental health adviser.” What drives citizens’ satisfaction and continuance intention toward mental health chatbots during the COVID-19 pandemic? An empirical study in China|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://pubmed.ncbi.nlm.nih.gov/35381977/)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Elomia Chatbot: the Effectiveness of Artificial Intelligence in the Fight for Mental Health|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](http://ceur-ws.org/Vol-2870/paper89.pdf)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Efficacy of an Internet-Based Intervention for Subclinical Depression (MoodBox) in China: Study Protocol for a Randomized Controlled Trial|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](MoodBox)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Emily: Developing An Emotion-affective Open-Domain Chatbot with Knowledge Graph-based Persona|[![arXiv](https://img.shields.io/badge/arXiv-2109.08875-b31b1b.svg)](https://arxiv.org/abs/2109.08875)|:heavy_minus_sign:|
+| :heavy_minus_sign: |ERICA: An Empathetic Android Companion for Covid-19 Quarantine|[![arXiv](https://img.shields.io/badge/arXiv-2106.02325-b31b1b.svg)](http://arxiv.org/abs/2106.02325)|:heavy_minus_sign:|
+| :heavy_minus_sign: |The Design and Implementation of XiaoIce, an Empathetic Social Chatbot|[![arXiv](https://img.shields.io/badge/arXiv-1812.08989-b31b1b.svg)](http://arxiv.org/abs/1812.08989)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Recipes for building an open-domain chatbot|[![arXiv](https://img.shields.io/badge/arXiv-2004.13637-b31b1b.svg)](http://arxiv.org/abs/2004.13637)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Towards a Human-like Open-Domain Chatbot|[![arXiv](https://img.shields.io/badge/arXiv-2001.09977-b31b1b.svg)](http://arxiv.org/abs/2001.09977)|:heavy_minus_sign:|
+| :heavy_minus_sign: |HappyBot: Generating Empathetic Dialogue Responses by Improving User Experience Look-ahead|[![arXiv](https://img.shields.io/badge/arXiv-1906.08487-b31b1b.svg)](http://arxiv.org/abs/1906.08487)|:heavy_minus_sign:|
+| :heavy_minus_sign: |CAiRE: An Empathetic Neural Chatbot|[![arXiv](https://img.shields.io/badge/arXiv-1907.12108-b31b1b.svg)](http://arxiv.org/abs/1907.12108)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](Woebot)|:heavy_minus_sign:|
+| :heavy_minus_sign: |The Design and Implementation of XiaoIce, an Empathetic Social Chatbot|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://watermark.silverchair.com/coli_a_00368.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqMwggKfBgkqhkiG9w0BBwagggKQMIICjAIBADCCAoUGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMjpoY3TFRfSx-ye-sAgEQgIICVmOvf6PHKUw6xkAbcCK-55GxZyWMssnHqxkvoEkr8DEFcJsBSSZf9d18h4J8GL8la-VHyOVpZCp2VtgcZIIjVXe3wQAI1h02xtjnLN7zrAi5zKQJWSITbrwMwBXMLhi-PKM2hMGt969niT4mUhc9LorS17wU0ld2T9xuKyVg9RnwNr64-q5buGXXAfC1adjgUDrkYo8ALbt8zEOKHumoASyoAaVdXUWnkfVk-OHH2fCezOGvE1fmoMZTqsGSWMsorYPbKtiXThYSje3Og7bgCkm0fad4C5QJPxjx8hkdP2s-KSDtRq8VR1kvsvr3ve5DtMs3Lh1S0WZjowOpyJ7d_XtvHxHv3kIwiAMkPWHD6hW7ccBpjjicBYsTTCZzpdf5mNc-I-4ncVPtte5FpHrhWhAfCFoyY1VKYUR5nkNHv17ByXzQvlbW6CI13JhA2zEF9u4SAqyfM6YVAKoaTsXifgpeL_YO3ZWOMy8Fr6xX0-SrDnc5pQUJj-mTt5L2O4UjC5uEyVgO_q8InpNtvaCJFCHl24juuusLyQz3tLOm54eNvTkyL_FhW-SYYRhMxY5MS5hlDssLC242vhxAVGzHlsW5P4oVH_aeKlhAD7nq9ZTbycJwlygXpdEMZWVgydDHh5k22QP6Ini3xquxaqD82RNMaavY94MGyNK3853DKXWkqBGTboyRN72M4HBwwyKZxPofCzrHPf0pcG2GMIzpOnO81dAg9unt8gKS3yzoT9bvImLkBkCazEpgW_iHldjrfLP2PWRGRrN2pVWHPTDd0MiliTbF1OQ)|:heavy_minus_sign:|
 
+ # <img src="https://img.shields.io/badge/Paper%20Type-Survey-FFD700" alt="type"/>
 
-# <img src="https://img.shields.io/badge/Paper%20Type-Survey-FFD700" alt="type"/>
+| **Venue** | **Title** | **Paper** | **Code** |
+| --------- | --------- |:---------:|:--------:|
+| EMNLP22 |A Critical Reflection and Forward Perspective on Empathy and Natural Language Processing|[![arXiv](https://img.shields.io/badge/arXiv-2210.16604.pdf-b31b1b.svg)](https://arxiv.org/pdf/2210.16604.pdf)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Empathetic Conversational Systems: A Review of Current Advances, Gaps, and Opportunities|[![arXiv](https://img.shields.io/badge/arXiv-2206.05017-b31b1b.svg)](https://arxiv.org/abs/2206.05017)|:heavy_minus_sign:|
+| ACL22 |The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2022.acl-long.458)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Perceptions and Opinions of Patients About Mental Health Chatbots: Scoping Review|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://pubmed.ncbi.nlm.nih.gov/33439133/)|:heavy_minus_sign:|
+| :heavy_minus_sign: |The Effectiveness of Artificial Intelligence Conversational Agents in Health Care: Systematic Review|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.jmir.org/2020/10/e20346/)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Chatbots and Conversational Agents in Mental Health: A Review of the Psychiatric Landscape|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://pubmed.ncbi.nlm.nih.gov/30897957/)|:heavy_minus_sign:|
 
-- `EMNLP22` A Critical Reflection and Forward Perspective on Empathy and Natural Language Processing [[paper]](https://arxiv.org/pdf/2210.16604.pdf)
-- Empathetic Conversational Systems: A Review of Current Advances, Gaps, and Opportunities, 2022. [[paper]](https://arxiv.org/abs/2206.05017)
-- `ACL22` The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications, 2022. [[paper]](https://aclanthology.org/2022.acl-long.458)
-- Perceptions and Opinions of Patients About Mental Health Chatbots: Scoping Review, 2021. [[paper]](https://pubmed.ncbi.nlm.nih.gov/33439133/)
-- The Effectiveness of Artificial Intelligence Conversational Agents in Health Care: Systematic Review, 2020. [[paper]](https://www.jmir.org/2020/10/e20346/)
-- Chatbots and Conversational Agents in Mental Health: A Review
-   of the Psychiatric Landscape, 2019. [[paper]](https://pubmed.ncbi.nlm.nih.gov/30897957/)
+ # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
-# <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
-
-- Chatbots for Mental Health Support: Exploring the Impact of Emohaa on Reducing Mental Distress in China, 2022. [[paper]](https://arxiv.org/abs/2209.10183)
-- The avatar will see you now: Support from a virtual human provides socio-emotional benefits, 2022. [[paper]](https://www.sciencedirect.com/science/article/pii/S074756322200190X)
-- Deep Annotation of Therapeutic Working Alliance in Psychotherapy, 2022. [[paper]](https://arxiv.org/abs/2204.05522)
-- `CHI22` Exploring the Effects of AI-assisted Emotional Support Processes in Online Mental Health Community, 2022. [[paper]](https://arxiv.org/abs/2202.10065)
-- What makes an AI device human-like? The role of interaction quality, empathy and perceived psychological anthropomorphic characteristics in the acceptance of artificial intelligence in the service industry, 2021. [paper](https://www.sciencedirect.com/science/article/pii/S0747563221001783)
-- The Effect of Moderation on Online Mental Health Conversations, 2021. [[paper]](https://arxiv.org/abs/2005.09225)
-- Exploring the Effect of Social Support and Empathy on User Engagement in Online Mental Health Communities, 2021. [[paper]](https://www.mdpi.com/1660-4601/18/13/6855)
-- The Language of Situational Empathy, 2021. [[paper]](https://dl.acm.org/doi/abs/10.1145/3449087)
-- `RANLP21`  A Psychologically Informed Part-of-Speech Analysis of Depression in Social Media, 2021. [[paper]](https://arxiv.org/abs/2108.00279)
-- `NAACL21` Linguistic Complexity Loss in Text-Based Therapy, 2021. [[paper]](https://aclanthology.org/2021.naacl-main.352/)
-- `ACL21` Exploring Self-Identified Counseling Expertise in Online Support Forums, 2021. [[paper]](http://arxiv.org/abs/2106.12976) [[code]](https://github.com/MichiganNLP/MHP-and-Peers-Reddit)
-- Facilitation of human empathy through self-disclosure of anthropomorphic agents, 2021. [[paper]](http://arxiv.org/abs/2106.09906)
-- `CHI20` Exploring the Effects of Technological Writing Assistance for Support Providers in Online Mental Health Community, 2020. [[paper]](https://dl.acm.org/doi/abs/10.1145/3313831.3376695)
-- `CHI20` Understanding Client Support Strategies to Improve Clinical Outcomes in an Online Mental Health Intervention, 2020. [[paper]](https://dl.acm.org/doi/10.1145/3313831.3376341)
-- Assessing Users' Mental Status from their Journaling Behavior through Chatbots, 2020. [[paper]](https://dl.acm.org/doi/10.1145/3383652.3423870)
-- Strategic Regulation of Empathy, 2020. [[paper]](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(20)30298-9)
-- Building empathy through motivation-based interventions, 2020. [[paper]](https://pubmed.ncbi.nlm.nih.gov/33211508/)
-- A theoretical approach for a novel model to Realizing Empathy, 2020. [[paper]](https://arxiv.org/abs/2009.01229)
-- Effectiveness of an Empathic Chatbot in Combating Adverse Effects of Social Exclusion on Mood, 2020. [[paper]](https://www.frontiersin.org/article/10.3389/fpsyg.2019.03061/full)
-- Detection and Classification of mental illnesses on social media using RoBERTa, 2020. [[paper]](https://arxiv.org/abs/2011.11226)
-- Can Your Phone Be Your Therapist? Young People’s Ethical Perspectives on the Use of Fully Automated Conversational Agents (Chatbots) in Mental Health Support, 2019. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6402067/)
-- Empathy and emotion regulation: An integrative account, 2019. [[paper]](https://pubmed.ncbi.nlm.nih.gov/31196438/)
-- `ACL19` Finding Your Voice: The Linguistic Development of Mental Health Counselors, 2019. [[paper]](https://arxiv.org/abs/1906.07194)
-- `ACL19` Identifying therapist conversational actions across diverse psychotherapeutic approaches, 2019. [[paper]](https://aclanthology.org/W19-3002/)
-- I like that you feel my pain, but I love that you feel my joy: Empathy for a partner’s negative versus positive emotions independently affect relationship quality, 2019. [[paper]](http://journals.sagepub.com/doi/10.1177/0265407517746518)
-- Analyzing the Quality of Counseling Conversations: the Tell-Tale Signs of High-quality Counseling, 2018. [[paper]](https://aclanthology.org/L18-1591.pdf)
-- Psychological, Relational, and Emotional Effects of Self-Disclosure After Conversations With a Chatbot, 2018. [[paper]](https://academic.oup.com/joc/article/68/4/712/5025583)
-- `EMNLP17` Detecting and Explaining Crisis, 2017. [[paper]](https://arxiv.org/abs/1705.09585)
-- Empathy in One-Shot Prisoner Dilemma, 2017. [[paper]](https://arxiv.org/abs/1702.05361)
-- Annotating and modeling empathy in spoken conversations, 2017. [[paper]](http://arxiv.org/abs/1705.04839)
-- Mammalian empathy: behavioural manifestations and neural basis, 2017. [[paper]](https://www.nature.com/articles/nrn.2017.72)
-- Are we really measuring empathy? Proposal for a new measurement framework, 2017. [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S0149763417304852)
-- `TACL16` Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health, 2016. [[paper]](https://arxiv.org/abs/1605.04462) [[code]](http://snap.stanford.edu/counseling/)
-- The positive (and negative) psychology of empathy, 2016. [[paper]](https://www.semanticscholar.org/paper/The-Positive-(and-Negative)-Psychology-of-Empathy-Grynberg-Konrath/4d7278564c9ece399f62df490960c2e0b4d73860)
-- Empathy: A review of the concept, 2016. [[paper]](http://journals.sagepub.com/doi/10.1177/1754073914558466)
-- New Look at Social Support: A Theoretical Perspective on Thriving through Relationships, 2015. [[paper]](https://pubmed.ncbi.nlm.nih.gov/25125368/)
-- `ISCA15` Predicting Therapist Empathy in Motivational Interviews using Language Features Inspired by Psycholinguistic Norms, 2015. [[paper]](https://sail.usc.edu/~malandra/files/papers/interspeech2015b.pdf)
-- The Emerging Study of Positive Empathy, 2015. [[paper]](https://onlinelibrary.wiley.com/doi/10.1111/spc3.12157)
-- From what isn’t empathy to empathic learning process, 2013. [[paper]](https://linkinghub.elsevier.com/retrieve/pii/S1877042814010696)
-- Crowdsourcing Collective Emotional Intelligence, 2012. [[paper]](https://arxiv.org/abs/1204.3481)
-- From knowledge to hope: online depression communities, 2012. [[paper]](https://www.researchgate.net/publication/269617593_From_knowledge_to_hope_Online_depression_communities)
-- Information seeking and social support in online health communities: Impact on patients' perceived empathy, 2011. [[paper]](https://academic.oup.com/jamia/article/18/3/298/699704)
-- Social and emotional support and its implication for health, 2008. [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2729718/pdf/nihms138203.pdf)
-- The fullness of empathy: reflections and illustrations, 1995. [[paper]](http://ajot.aota.org/Article.aspx?doi=10.5014/ajot.49.1.24)
-- Empathy: The charismatic chimera, 1978. [[paper]](http://www.tandfonline.com/doi/abs/10.1080/00220612.1978.10671527)
-- A measure of emotional empathy, 1972. [[paper]](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.1972.tb00078.x)
-- The nature of sympathy in the art of psychotherapy, 1961. [[paper]](https://www.tandfonline.com/doi/abs/10.1080/00332747.1961.11023267)
+| **Venue** | **Title** | **Paper** | **Code** |
+| --------- | --------- |:---------:|:--------:|
+| :heavy_minus_sign: |Chatbots for Mental Health Support: Exploring the Impact of Emohaa on Reducing Mental Distress in China|[![arXiv](https://img.shields.io/badge/arXiv-2209.10183-b31b1b.svg)](https://arxiv.org/abs/2209.10183)|:heavy_minus_sign:|
+| :heavy_minus_sign: |The avatar will see you now: Support from a virtual human provides socio-emotional benefits|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.sciencedirect.com/science/article/pii/S074756322200190X)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Deep Annotation of Therapeutic Working Alliance in Psychotherapy|[![arXiv](https://img.shields.io/badge/arXiv-2204.05522-b31b1b.svg)](https://arxiv.org/abs/2204.05522)|:heavy_minus_sign:|
+| CHI22 |Exploring the Effects of AI-assisted Emotional Support Processes in Online Mental Health Community|[![arXiv](https://img.shields.io/badge/arXiv-2202.10065-b31b1b.svg)](https://arxiv.org/abs/2202.10065)|:heavy_minus_sign:|
+| :heavy_minus_sign: |What makes an AI device human-like? The role of interaction quality, empathy and perceived psychological anthropomorphic characteristics in the acceptance of artificial intelligence in the service industry|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.sciencedirect.com/science/article/pii/S0747563221001783)|:heavy_minus_sign:|
+| :heavy_minus_sign: |The Effect of Moderation on Online Mental Health Conversations|[![arXiv](https://img.shields.io/badge/arXiv-2005.09225-b31b1b.svg)](https://arxiv.org/abs/2005.09225)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Exploring the Effect of Social Support and Empathy on User Engagement in Online Mental Health Communities|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.mdpi.com/1660-4601/18/13/6855)|:heavy_minus_sign:|
+| :heavy_minus_sign: |The Language of Situational Empathy|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3449087)|:heavy_minus_sign:|
+| RANLP21 | A Psychologically Informed Part-of-Speech Analysis of Depression in Social Media|[![arXiv](https://img.shields.io/badge/arXiv-2108.00279-b31b1b.svg)](https://arxiv.org/abs/2108.00279)|:heavy_minus_sign:|
+| NAACL21 |Linguistic Complexity Loss in Text-Based Therapy|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2021.naacl-main.352/)|:heavy_minus_sign:|
+| ACL21 |Exploring Self-Identified Counseling Expertise in Online Support Forums|[![arXiv](https://img.shields.io/badge/arXiv-2106.12976-b31b1b.svg)](http://arxiv.org/abs/2106.12976)|[![GitHub](https://img.shields.io/github/stars/MichiganNLP/MHP-and-Peers-Reddit)](https://github.com/MichiganNLP/MHP-and-Peers-Reddit)|
+| :heavy_minus_sign: |Facilitation of human empathy through self-disclosure of anthropomorphic agents|[![arXiv](https://img.shields.io/badge/arXiv-2106.09906-b31b1b.svg)](http://arxiv.org/abs/2106.09906)|:heavy_minus_sign:|
+| CHI20 |Exploring the Effects of Technological Writing Assistance for Support Providers in Online Mental Health Community|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://dl.acm.org/doi/abs/10.1145/3313831.3376695)|:heavy_minus_sign:|
+| CHI20 |Understanding Client Support Strategies to Improve Clinical Outcomes in an Online Mental Health Intervention|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3313831.3376341)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Assessing Users' Mental Status from their Journaling Behavior through Chatbots|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://dl.acm.org/doi/10.1145/3383652.3423870)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Strategic Regulation of Empathy|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(20)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Building empathy through motivation-based interventions|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://pubmed.ncbi.nlm.nih.gov/33211508/)|:heavy_minus_sign:|
+| :heavy_minus_sign: |A theoretical approach for a novel model to Realizing Empathy|[![arXiv](https://img.shields.io/badge/arXiv-2009.01229-b31b1b.svg)](https://arxiv.org/abs/2009.01229)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Effectiveness of an Empathic Chatbot in Combating Adverse Effects of Social Exclusion on Mood|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.frontiersin.org/article/10.3389/fpsyg.2019.03061/full)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Detection and Classification of mental illnesses on social media using RoBERTa|[![arXiv](https://img.shields.io/badge/arXiv-2011.11226-b31b1b.svg)](https://arxiv.org/abs/2011.11226)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Can Your Phone Be Your Therapist? Young People’s Ethical Perspectives on the Use of Fully Automated Conversational Agents (Chatbots) in Mental Health Support|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](Chatbots)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Empathy and emotion regulation: An integrative account|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://pubmed.ncbi.nlm.nih.gov/31196438/)|:heavy_minus_sign:|
+| ACL19 |Finding Your Voice: The Linguistic Development of Mental Health Counselors|[![arXiv](https://img.shields.io/badge/arXiv-1906.07194-b31b1b.svg)](https://arxiv.org/abs/1906.07194)|:heavy_minus_sign:|
+| ACL19 |Identifying therapist conversational actions across diverse psychotherapeutic approaches|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/W19-3002/)|:heavy_minus_sign:|
+| :heavy_minus_sign: |I like that you feel my pain, but I love that you feel my joy: Empathy for a partner’s negative versus positive emotions independently affect relationship quality|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](http://journals.sagepub.com/doi/10.1177/0265407517746518)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Analyzing the Quality of Counseling Conversations: the Tell-Tale Signs of High-quality Counseling|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/L18-1591.pdf)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Psychological, Relational, and Emotional Effects of Self-Disclosure After Conversations With a Chatbot|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://academic.oup.com/joc/article/68/4/712/5025583)|:heavy_minus_sign:|
+| EMNLP17 |Detecting and Explaining Crisis|[![arXiv](https://img.shields.io/badge/arXiv-1705.09585-b31b1b.svg)](https://arxiv.org/abs/1705.09585)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Empathy in One-Shot Prisoner Dilemma|[![arXiv](https://img.shields.io/badge/arXiv-1702.05361-b31b1b.svg)](https://arxiv.org/abs/1702.05361)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Annotating and modeling empathy in spoken conversations|[![arXiv](https://img.shields.io/badge/arXiv-1705.04839-b31b1b.svg)](http://arxiv.org/abs/1705.04839)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Mammalian empathy: behavioural manifestations and neural basis|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.nature.com/articles/nrn.2017.72)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Are we really measuring empathy? Proposal for a new measurement framework|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://linkinghub.elsevier.com/retrieve/pii/S0149763417304852)|:heavy_minus_sign:|
+| TACL16 |Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health|[![arXiv](https://img.shields.io/badge/arXiv-1605.04462-b31b1b.svg)](https://arxiv.org/abs/1605.04462)|:heavy_minus_sign:|
+| :heavy_minus_sign: |The positive (and negative) psychology of empathy|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](and negative)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Empathy: A review of the concept|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](http://journals.sagepub.com/doi/10.1177/1754073914558466)|:heavy_minus_sign:|
+| :heavy_minus_sign: |New Look at Social Support: A Theoretical Perspective on Thriving through Relationships|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://pubmed.ncbi.nlm.nih.gov/25125368/)|:heavy_minus_sign:|
+| ISCA15 |Predicting Therapist Empathy in Motivational Interviews using Language Features Inspired by Psycholinguistic Norms|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://sail.usc.edu/~malandra/files/papers/interspeech2015b.pdf)|:heavy_minus_sign:|
+| :heavy_minus_sign: |The Emerging Study of Positive Empathy|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://onlinelibrary.wiley.com/doi/10.1111/spc3.12157)|:heavy_minus_sign:|
+| :heavy_minus_sign: |From what isn’t empathy to empathic learning process|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://linkinghub.elsevier.com/retrieve/pii/S1877042814010696)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Crowdsourcing Collective Emotional Intelligence|[![arXiv](https://img.shields.io/badge/arXiv-1204.3481-b31b1b.svg)](https://arxiv.org/abs/1204.3481)|:heavy_minus_sign:|
+| :heavy_minus_sign: |From knowledge to hope: online depression communities|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.researchgate.net/publication/269617593_From_knowledge_to_hope_Online_depression_communities)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Information seeking and social support in online health communities: Impact on patients' perceived empathy|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://academic.oup.com/jamia/article/18/3/298/699704)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Social and emotional support and its implication for health|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2729718/pdf/nihms138203.pdf)|:heavy_minus_sign:|
+| :heavy_minus_sign: |The fullness of empathy: reflections and illustrations|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](http://ajot.aota.org/Article.aspx?doi=10.5014/ajot.49.1.24)|:heavy_minus_sign:|
+| :heavy_minus_sign: |Empathy: The charismatic chimera|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](http://www.tandfonline.com/doi/abs/10.1080/00220612.1978.106715274)|:heavy_minus_sign:|
+| :heavy_minus_sign: |A measure of emotional empathy|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6494.1972.tb00078.x)|:heavy_minus_sign:|
+| :heavy_minus_sign: |The nature of sympathy in the art of psychotherapy|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.tandfonline.com/doi/abs/10.1080/00332747.1961.11023267)|:heavy_minus_sign:|
 
 ## Copyright
 
