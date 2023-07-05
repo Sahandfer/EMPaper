@@ -104,7 +104,7 @@
  # <img src="https://img.shields.io/badge/Paper%20Type-Dataset-red" alt="conf"/>
 
 | **Venue** | **Title** | **Paper** | **Code** |
-| --------- | --------- |:---------:|:--------:|
+| :-------: | --------- |:---------:|:--------:|
 | :heavy_minus_sign: |COKE: A Cognitive Knowledge Graph for Machine Theory of Mind|[![arXiv](https://img.shields.io/badge/arXiv-2305.05390-b31b1b.svg)](https://arxiv.org/abs/2305.05390)|:heavy_minus_sign:|
 | :heavy_minus_sign: |ToMChallenges: A Principle-Guided Dataset and Diverse Evaluation Tasks for Exploring Theory of Mind|[![arXiv](https://img.shields.io/badge/arXiv-2305.15068-b31b1b.svg)](https://arxiv.org/abs/2305.15068)|:heavy_minus_sign:|
 | :heavy_minus_sign: |LOST: A Mental Health Dataset of Low Self-esteem in Reddit Posts|[![arXiv](https://img.shields.io/badge/arXiv-2306.05596-b31b1b.svg)](https://arxiv.org/abs/2306.05596)|:heavy_minus_sign:|
@@ -137,7 +137,7 @@
  # <img src="https://img.shields.io/badge/Paper%20Type-Framework-brightgreen" alt="arXiv"/>
 
 | **Venue** | **Title** | **Paper** | **Code** |
-| --------- | --------- |:---------:|:--------:|
+| :-------: | --------- |:---------:|:--------:|
 | :heavy_minus_sign: |FaceChat: An Emotion-Aware Face-to-face Dialogue Framework|[![arXiv](https://img.shields.io/badge/arXiv-2303.07316-b31b1b.svg)](https://arxiv.org/abs/2303.07316)|[![GitHub](https://img.shields.io/github/stars/qywu/FaceChat)](https://github.com/qywu/FaceChat)|
 | :heavy_minus_sign: |EMP-EVAL: A Framework for Measuring Empathy in Open Domain Dialogues|[![arXiv](https://img.shields.io/badge/arXiv-2301.12510-b31b1b.svg)](https://arxiv.org/abs/2301.12510)|:heavy_minus_sign:|
 | COLING22 |COMMA: Modeling Relationship among Motivations, Emotions and Actions in Language-based Human Activities|[![arXiv](https://img.shields.io/badge/arXiv-2209.06470-b31b1b.svg)](https://arxiv.org/abs/2209.06470)|[![GitHub](https://img.shields.io/github/stars/IndexFziQ/COMMA)](https://github.com/IndexFziQ/COMMA)|
@@ -183,7 +183,7 @@
  # <img src="https://img.shields.io/badge/Paper%20Type-Psychology-blueviolet" alt="arXiv"/>
 
 | **Venue** | **Title** | **Paper** | **Code** |
-| --------- | --------- |:---------:|:--------:|
+| :-------: | --------- |:---------:|:--------:|
 | :heavy_minus_sign: |Chatbots for Mental Health Support: Exploring the Impact of Emohaa on Reducing Mental Distress in China|[![arXiv](https://img.shields.io/badge/arXiv-2209.10183-b31b1b.svg)](https://arxiv.org/abs/2209.10183)|:heavy_minus_sign:|
 | :heavy_minus_sign: |The avatar will see you now: Support from a virtual human provides socio-emotional benefits|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.sciencedirect.com/science/article/pii/S074756322200190X)|:heavy_minus_sign:|
 | :heavy_minus_sign: |Deep Annotation of Therapeutic Working Alliance in Psychotherapy|[![arXiv](https://img.shields.io/badge/arXiv-2204.05522-b31b1b.svg)](https://arxiv.org/abs/2204.05522)|:heavy_minus_sign:|
