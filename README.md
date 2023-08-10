@@ -2,13 +2,20 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--07--05--success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-198-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--07--05--success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-205-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
+| :heavy_minus_sign: | The Capability of Large Language Models to Measure Psychiatric Functioning |[![arXiv](https://img.shields.io/badge/arXiv-2308.01834-b31b1b.svg)](https://arxiv.org/abs/2308.01834)|:heavy_minus_sign: |
+| :heavy_minus_sign: | Leveraging Large Language Models for Mental Health Prediction via Online Text Data |[![arXiv](https://img.shields.io/badge/arXiv-2307.14385-b31b1b.svg)](https://arxiv.org/abs/2307.14385)|:heavy_minus_sign: |
+| :heavy_minus_sign: | A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge |[![arXiv](https://img.shields.io/badge/arXiv-2308.04811-b31b1b.svg)](https://arxiv.org/abs/2308.04811)|:heavy_minus_sign: |
+| :heavy_minus_sign: | Towards Interpretable Mental Health Analysis with ChatGPT |[![arXiv](https://img.shields.io/badge/arXiv-2304.03347-b31b1b.svg)](https://arxiv.org/abs/2304.03347)|:heavy_minus_sign: |
+| :heavy_minus_sign: | MindDial: Belief Dynamics Tracking with Theory-of-Mind Modeling for Situated Neural Dialogue Generation |[![arXiv](https://img.shields.io/badge/arXiv-2306.15253-b31b1b.svg)](https://arxiv.org/abs/2306.15253)|:heavy_minus_sign: |
+| INLG23 |Affective Natural Language Generation of Event Descriptions through Fine-grained Appraisal Conditions |[![arXiv](https://img.shields.io/badge/arXiv-2307.14004-b31b1b.svg)](https://arxiv.org/abs/2307.14004)|:heavy_minus_sign: |
 | EACL23 |Empathy Identification Systems are not Accurately Accounting for Context|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.eacl-main.123/)|[![GitHub](https://img.shields.io/github/stars/MichiganNLP/micromodels)](https://github.com/MichiganNLP/micromodels)|
+| ACL23 |Facilitating Multi-turn Emotional Support Conversation with Positive Emotion Elicitation: A Reinforcement Learning Approach|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.acl-long.96.pdf)|[![GitHub](https://img.shields.io/github/stars/jfzhouyoo/Supporter)](https://github.com/jfzhouyoo/Supporter)|
 | ACL23 |Cognitive Reframing of Negative Thoughts through Human-Language Model Interaction|[![arXiv](https://img.shields.io/badge/arXiv-2305.02466-b31b1b.svg)](https://arxiv.org/abs/2305.02466)|[![GitHub](https://img.shields.io/github/stars/behavioral-data/Cognitive-Reframing)](https://github.com/behavioral-data/Cognitive-Reframing)|
 | ACL23 |DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation|[![arXiv](https://img.shields.io/badge/arXiv-2306.01657-b31b1b.svg)](https://arxiv.org/abs/2306.01657)|:heavy_minus_sign:|
 | ACL23 |Unsupervised Extractive Summarization of Emotion Triggers|[![arXiv](https://img.shields.io/badge/arXiv-2306.01444-b31b1b.svg)](https://arxiv.org/abs/2306.01444)|[![GitHub](https://img.shields.io/github/stars/tsosea2/CovidET-EXT)](https://github.com/tsosea2/CovidET-EXT)|
