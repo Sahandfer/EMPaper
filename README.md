@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Last%20Update-2023--07--05--success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-205-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2023--08--14-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-206-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
@@ -145,6 +145,7 @@
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
+| ACL23 |Understanding Client Reactions in Online Mental Health Counseling|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.acl-long.577.pdf)|[![GitHub](https://img.shields.io/github/stars/dll-wu/Client-Reactions)](https://github.com/dll-wu/Client-Reactions)|
 | :heavy_minus_sign: |FaceChat: An Emotion-Aware Face-to-face Dialogue Framework|[![arXiv](https://img.shields.io/badge/arXiv-2303.07316-b31b1b.svg)](https://arxiv.org/abs/2303.07316)|[![GitHub](https://img.shields.io/github/stars/qywu/FaceChat)](https://github.com/qywu/FaceChat)|
 | :heavy_minus_sign: |EMP-EVAL: A Framework for Measuring Empathy in Open Domain Dialogues|[![arXiv](https://img.shields.io/badge/arXiv-2301.12510-b31b1b.svg)](https://arxiv.org/abs/2301.12510)|:heavy_minus_sign:|
 | COLING22 |COMMA: Modeling Relationship among Motivations, Emotions and Actions in Language-based Human Activities|[![arXiv](https://img.shields.io/badge/arXiv-2209.06470-b31b1b.svg)](https://arxiv.org/abs/2209.06470)|[![GitHub](https://img.shields.io/github/stars/IndexFziQ/COMMA)](https://github.com/IndexFziQ/COMMA)|
