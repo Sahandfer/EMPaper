@@ -2,12 +2,13 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2023--08--14-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-206-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2023--08--26-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-208-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
+| :heavy_minus_sign: | Building Emotional Support Chatbots in the Era of LLMs |[![arXiv](https://img.shields.io/badge/arXiv-2308.11584-b31b1b.svg)](https://arxiv.org/abs/2308.11584)|:heavy_minus_sign: |
 | :heavy_minus_sign: | The Capability of Large Language Models to Measure Psychiatric Functioning |[![arXiv](https://img.shields.io/badge/arXiv-2308.01834-b31b1b.svg)](https://arxiv.org/abs/2308.01834)|:heavy_minus_sign: |
 | :heavy_minus_sign: | Leveraging Large Language Models for Mental Health Prediction via Online Text Data |[![arXiv](https://img.shields.io/badge/arXiv-2307.14385-b31b1b.svg)](https://arxiv.org/abs/2307.14385)|:heavy_minus_sign: |
 | :heavy_minus_sign: | A Bipartite Graph is All We Need for Enhancing Emotional Reasoning with Commonsense Knowledge |[![arXiv](https://img.shields.io/badge/arXiv-2308.04811-b31b1b.svg)](https://arxiv.org/abs/2308.04811)|:heavy_minus_sign: |
@@ -145,6 +146,7 @@
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
+| :heavy_minus_sign: |Modeling Empathic Similarity in Personal Narratives|[![arXiv](https://img.shields.io/badge/arXiv-2305.14246-b31b1b.svg)](https://arxiv.org/abs/2305.14246)|[![GitHub](https://img.shields.io/github/stars/mitmedialab/empathic-stories)](https://github.com/mitmedialab/empathic-stories)|
 | ACL23 |Understanding Client Reactions in Online Mental Health Counseling|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.acl-long.577.pdf)|[![GitHub](https://img.shields.io/github/stars/dll-wu/Client-Reactions)](https://github.com/dll-wu/Client-Reactions)|
 | :heavy_minus_sign: |FaceChat: An Emotion-Aware Face-to-face Dialogue Framework|[![arXiv](https://img.shields.io/badge/arXiv-2303.07316-b31b1b.svg)](https://arxiv.org/abs/2303.07316)|[![GitHub](https://img.shields.io/github/stars/qywu/FaceChat)](https://github.com/qywu/FaceChat)|
 | :heavy_minus_sign: |EMP-EVAL: A Framework for Measuring Empathy in Open Domain Dialogues|[![arXiv](https://img.shields.io/badge/arXiv-2301.12510-b31b1b.svg)](https://arxiv.org/abs/2301.12510)|:heavy_minus_sign:|
