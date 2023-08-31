@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, and mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2023--08--26-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-208-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2023--08--31-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-209-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
@@ -113,6 +113,7 @@
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
+| :heavy_minus_sign: |CharacterChat: Learning towards Conversational AI with Personalized Social Support|[![arXiv](https://img.shields.io/badge/arXiv-2308.10278-b31b1b.svg)](https://arxiv.org/abs/2308.10278)|[![GitHub](https://img.shields.io/github/stars/morecry/CharacterChat)](https://github.com/morecry/CharacterChat)|
 | :heavy_minus_sign: |COKE: A Cognitive Knowledge Graph for Machine Theory of Mind|[![arXiv](https://img.shields.io/badge/arXiv-2305.05390-b31b1b.svg)](https://arxiv.org/abs/2305.05390)|:heavy_minus_sign:|
 | :heavy_minus_sign: |ToMChallenges: A Principle-Guided Dataset and Diverse Evaluation Tasks for Exploring Theory of Mind|[![arXiv](https://img.shields.io/badge/arXiv-2305.15068-b31b1b.svg)](https://arxiv.org/abs/2305.15068)|:heavy_minus_sign:|
 | :heavy_minus_sign: |LOST: A Mental Health Dataset of Low Self-esteem in Reddit Posts|[![arXiv](https://img.shields.io/badge/arXiv-2306.05596-b31b1b.svg)](https://arxiv.org/abs/2306.05596)|:heavy_minus_sign:|
