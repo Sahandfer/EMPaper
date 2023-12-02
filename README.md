@@ -2,12 +2,14 @@
 
 > A list of papers related to emotion, empathy, theory of mind, and emotional/mental health support in dialog systems and emotional, empathetic, and supportive response generation.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2023--11--22-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-216-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2023--12--02-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-218-2D333B" alt="PaperNum"/>
 
 # <img src="https://img.shields.io/badge/Paper%20Type-Methods-informational" alt="type"/>
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
+| :heavy_minus_sign: | E-CORE: Emotion Correlation Enhanced Empathetic Dialogue Generation |[![arXiv](https://img.shields.io/badge/arXiv-2311.15016-b31b1b.svg)](https://arxiv.org/abs/2311.15016)|:heavy_minus_sign:|
+| :heavy_minus_sign: | Enhancing Empathetic and Emotion Support Dialogue Generation with Prophetic Commonsense Inference |[![arXiv](https://img.shields.io/badge/arXiv-2311.15316-b31b1b.svg)](https://arxiv.org/abs/2311.15316)|:heavy_minus_sign:|
 | :heavy_minus_sign: | SoulChat: Improving LLMs’ Empathy, Listening, and Comfort Abilities through Fine-tuning with Multi-turn Empathy Conversations |[![arXiv](https://img.shields.io/badge/arXiv-2311.00273-b31b1b.svg)](https://arxiv.org/abs/2311.00273)|[![GitHub](https://img.shields.io/github/stars/scutcyr/soulchat)](https://github.com/scutcyr/soulchat)|
 | :heavy_minus_sign: | Knowledge-enhanced Memory Model for Emotional Support Conversation |[![arXiv](https://img.shields.io/badge/arXiv-2310.07700-b31b1b.svg)](https://arxiv.org/abs/2310.07700)|:heavy_minus_sign: |
 | IEEE23 | Developing Social Robots with Empathetic Non-Verbal Cues Using Large Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2308.16529-b31b1b.svg)](https://arxiv.org/abs/2308.16529)|:heavy_minus_sign: |
