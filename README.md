@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, theory of mind, and emotional/mental health support in dialog systems.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2024--02--26-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-237-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2024--02--26-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-238-2D333B" alt="PaperNum"/>
 
 ## List of Content
 
@@ -163,6 +163,7 @@ If you found this project helpful, please kindly cite our work:
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
 | :heavy_minus_sign: | EmoBench: Evaluating the Emotional Intelligence of Large Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2402.12071-b31b1b.svg)](https://arxiv.org/abs/2402.12071)|[![GitHub](https://img.shields.io/github/stars/Sahandfer/EmoBench)](https://github.com/Sahandfer/EmoBench)|
+| :heavy_minus_sign: | TOMBENCH: Benchmarking Theory of Mind in Large Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2402.15052-b31b1b.svg)](https://arxiv.org/abs/2402.15052)|[![GitHub](https://img.shields.io/github/stars/zhchen18/ToMBench)](https://github.com/zhchen18/ToMBench)|
 | :heavy_minus_sign: | STICKERCONV: Generating Multimodal Empathetic Responses from Scratch |[![arXiv](https://img.shields.io/badge/arXiv-2402.01679-b31b1b.svg)](https://arxiv.org/abs/2402.01679)|[![GitHub](https://img.shields.io/github/stars/ZhangYiqun018/StickerConv)](https://github.com/ZhangYiqun018/StickerConv)|
 | :heavy_minus_sign: | MERBench: A Unified Evaluation Benchmark for Multimodal Emotion Recognition |[![arXiv](https://img.shields.io/badge/arXiv-2401.03429-b31b1b.svg)](https://arxiv.org/abs/2401.03429)|[![GitHub](https://img.shields.io/github/stars/zeroQiaoba/MERTools)](https://github.com/zeroQiaoba/MERTools)|
 | :heavy_minus_sign: | EQ-Bench: An Emotional Intelligence Benchmark for Large Language Models |[![arXiv](https://img.shields.io/badge/arXiv-2312.06281-b31b1b.svg)](https://arxiv.org/abs/2312.06281)|[![GitHub](https://img.shields.io/github/stars/EQ-bench/EQ-Bench)](https://github.com/EQ-bench/EQ-Bench)|
@@ -245,7 +246,7 @@ If you found this project helpful, please kindly cite our work:
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
-| :heavy_minus_sign: |Chatbots for Mental Health Support: Exploring the Impact of Emohaa on Reducing Mental Distress in China|[![arXiv](https://img.shields.io/badge/arXiv-2209.10183-b31b1b.svg)](https://arxiv.org/abs/2209.10183)|:heavy_minus_sign:|
+| Frontiers in Digital Health |Chatbots for Mental Health Support: Exploring the Impact of Emohaa on Reducing Mental Distress in China|[![arXiv](https://img.shields.io/badge/arXiv-2209.10183-b31b1b.svg)](https://arxiv.org/abs/2209.10183)|:heavy_minus_sign:|
 | :heavy_minus_sign: |The avatar will see you now: Support from a virtual human provides socio-emotional benefits|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.sciencedirect.com/science/article/pii/S074756322200190X)|:heavy_minus_sign:|
 | :heavy_minus_sign: |Deep Annotation of Therapeutic Working Alliance in Psychotherapy|[![arXiv](https://img.shields.io/badge/arXiv-2204.05522-b31b1b.svg)](https://arxiv.org/abs/2204.05522)|:heavy_minus_sign:|
 | CHI22 |Exploring the Effects of AI-assisted Emotional Support Processes in Online Mental Health Community|[![arXiv](https://img.shields.io/badge/arXiv-2202.10065-b31b1b.svg)](https://arxiv.org/abs/2202.10065)|:heavy_minus_sign:|
