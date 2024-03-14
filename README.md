@@ -42,6 +42,7 @@ If you found this project helpful, please kindly cite our work:
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
 | AAAI24 | COOPER: Coordinating Specialized Agents towards a Complex Dialogue Goal |[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://arxiv.org/pdf/2312.11792.pdf)|[![GitHub](https://img.shields.io/github/stars/YiCheng98/Cooper)](https://github.com/YiCheng98/Cooper) |
+| AAAI23 | ConvNTM: Conversational Neural Topic Model |[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://ojs.aaai.org/index.php/AAAI/article/view/26595/26367)|[![GitHub](https://img.shields.io/github/stars/ssshddd/ConvNTM?tab=readme-ov-file)](https://github.com/ssshddd/ConvNTM?tab=readme-ov-file)|
 | :heavy_minus_sign: | Muffin: Mitigating Unhelpfulness in Emotional Support Conversations with Multifaceted AI Feedback |[![arXiv](https://img.shields.io/badge/arXiv-2401.05928-b31b1b.svg)](https://arxiv.org/abs/2401.05928)|:heavy_minus_sign:|
 | :heavy_minus_sign: | Enhancing Emotional Generation Capability of Large Language Models via Emotional Chain-of-Thought |[![arXiv](https://img.shields.io/badge/arXiv-2401.06836-b31b1b.svg)](https://arxiv.org/abs/2401.06836)|:heavy_minus_sign:|
 | :heavy_minus_sign: | Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation |[![arXiv](https://img.shields.io/badge/arXiv-2402.13211-b31b1b.svg)](https://arxiv.org/abs/2402.13211)|:heavy_minus_sign:|
