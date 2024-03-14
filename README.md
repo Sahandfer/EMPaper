@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, theory of mind, and emotional/mental health support in dialog systems.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2024--02--26-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-238-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2024--03--14-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-240-2D333B" alt="PaperNum"/>
 
 ## List of Content
 
@@ -46,6 +46,7 @@ If you found this project helpful, please kindly cite our work:
 | :heavy_minus_sign: | Enhancing Emotional Generation Capability of Large Language Models via Emotional Chain-of-Thought |[![arXiv](https://img.shields.io/badge/arXiv-2401.06836-b31b1b.svg)](https://arxiv.org/abs/2401.06836)|:heavy_minus_sign:|
 | :heavy_minus_sign: | Can Large Language Models be Good Emotional Supporter? Mitigating Preference Bias on Emotional Support Conversation |[![arXiv](https://img.shields.io/badge/arXiv-2402.13211-b31b1b.svg)](https://arxiv.org/abs/2402.13211)|:heavy_minus_sign:|
 | :heavy_minus_sign: | EmoLLMs: A Series of Emotional Large Language Models and Annotation Tools for Comprehensive Affective Analysis |[![arXiv](https://img.shields.io/badge/arXiv-2401.08508-b31b1b.svg)](https://arxiv.org/abs/2401.08508)|[![GitHub](https://img.shields.io/github/stars/lzw108/EmoLLMs)](https://github.com/lzw108/EmoLLMs/)|
+| :heavy_minus_sign: | WHO IS CHATGPT? BENCHMARKING LLMS’PSYCHOLOGICAL PORTRAYAL USING PSYCHOBENCH |[![arXiv](https://img.shields.io/badge/arXiv-2310.01386-b31b1b.svg)](https://arxiv.org/abs/2310.01386)|[![GitHub](https://img.shields.io/github/stars/CUHK-ARISE/PsychoBench)](https://github.com/CUHK-ARISE/PsychoBench)|
 | :heavy_minus_sign: | CauESC: A Causal Aware Model for Emotional Support Conversation |[![arXiv](https://img.shields.io/badge/arXiv-2401.17755-b31b1b.svg)](https://arxiv.org/abs/2401.17755)|:heavy_minus_sign:|
 | :heavy_minus_sign: | Think Twice: Perspective-Taking Improves Large Language Models' Theory-of-Mind Capabilities |[![arXiv](https://img.shields.io/badge/arXiv-2311.10227-b31b1b.svg)](https://arxiv.org/abs/2311.10227)|[![GitHub](https://img.shields.io/github/stars/shawnsihyunlee/simulatedtom)](https://github.com/shawnsihyunlee/simulatedtom)|
 | :heavy_minus_sign: | K-ESConv: Knowledge Injection for Emotional Support Dialogue Systems via Prompt Learning |[![arXiv](https://img.shields.io/badge/arXiv-2312.10371-b31b1b.svg)](https://arxiv.org/abs/2312.10371)|:heavy_minus_sign:|
