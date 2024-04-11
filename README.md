@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, theory of mind, and emotional/mental health support in dialog systems.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2024--03--14-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-240-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2024--04--11-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-253-2D333B" alt="PaperNum"/>
 
 ## List of Content
 
@@ -10,8 +10,8 @@
 - [Methods](#Methods)
 - [Datasets](#Datasets)
 - [Frameworks](#Frameworks)
-- [Systems (Chatbots)](Systems (Chatbots))
-- [Theory (Psychology)](#Theory (Psychology))
+- [Systems](#Systems)
+- [Theory](#Theory)
 
 ## Citation
 
@@ -30,6 +30,8 @@ If you found this project helpful, please kindly cite our work:
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | --------- | --------- |:---------:|:--------:|
+| COLING24 |Emotion Analysis in NLP: Trends, Gaps and Roadmap for Future Directions|[![arXiv](https://img.shields.io/badge/arXiv-2403.01222-b31b1b.svg)](https://arxiv.org/pdf/2403.01222.pdf)|[![GitHub](https://img.shields.io/github/stars/MilaNLProc/emotion_analysis_survey)](https://github.com/MilaNLProc/emotion_analysis_survey)|
+| :heavy_minus_sign: |Foundation Metrics for Evaluating Effectiveness of Healthcare Conversations Powered by Generative AI|[![arXiv](https://img.shields.io/badge/arXiv-2309.12444-b31b1b.svg)](https://arxiv.org/pdf/2309.12444.pdf)|:heavy_minus_sign:|
 | EMNLP22 |A Critical Reflection and Forward Perspective on Empathy and Natural Language Processing|[![arXiv](https://img.shields.io/badge/arXiv-2210.16604-b31b1b.svg)](https://arxiv.org/pdf/2210.16604.pdf)|:heavy_minus_sign:|
 | :heavy_minus_sign: |Empathetic Conversational Systems: A Review of Current Advances, Gaps, and Opportunities|[![arXiv](https://img.shields.io/badge/arXiv-2206.05017-b31b1b.svg)](https://arxiv.org/abs/2206.05017)|:heavy_minus_sign:|
 | ACL22 |The AI Doctor Is In: A Survey of Task-Oriented Dialogue Systems for Healthcare Applications|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2022.acl-long.458)|:heavy_minus_sign:|
@@ -41,6 +43,16 @@ If you found this project helpful, please kindly cite our work:
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
+| COLING24 | Dynamic Reward Adjustment in Multi-Reward Reinforcement Learning for Counselor Reflection Generation |[![arXiv](https://img.shields.io/badge/arXiv-2403.13578-b31b1b.svg)](https://arxiv.org/pdf/2403.13578.pdf)|[![GitHub](https://img.shields.io/github/stars/michiganNLP/dynaopt)](https://github.com/michiganNLP/dynaopt) |
+| NAACL | Grounding Gaps in Language Model Generations |[![arXiv](https://img.shields.io/badge/arXiv-2311.09144-b31b1b.svg)](https://arxiv.org/pdf/2311.09144.pdf)|[![GitHub](https://img.shields.io/github/stars/oshaikh13/grounding-gaps)](https://github.com/oshaikh13/grounding-gaps) |
+| :heavy_minus_sign: | Angry Men, Sad Women: Large Language Models Reflect Gendered Stereotypes in Emotion Attribution |[![arXiv](https://img.shields.io/badge/arXiv-2403.0312-b31b1b.svg)](https://arxiv.org/pdf/2403.0312.pdf)| :heavy_minus_sign: |
+| :heavy_minus_sign: | Where are We in Event-centric Emotion Analysis? Bridging Emotion Role Labeling and Appraisal-based Approaches |[![arXiv](https://img.shields.io/badge/arXiv-2309.02092-b31b1b.svg)](https://arxiv.org/pdf/2309.02092.pdf)| :heavy_minus_sign: |
+| :heavy_minus_sign: | The Good, The Bad, and Why: Unveiling Emotions in Generative AI |[![arXiv](https://img.shields.io/badge/arXiv-2312.11111-b31b1b.svg)](https://arxiv.org/pdf/2312.11111.pdf)| :heavy_minus_sign: |
+| :heavy_minus_sign: | Chain-of-Interaction: Enhancing Large Language Models for Psychiatric Behavior Understanding by Dyadic Contexts |[![arXiv](https://img.shields.io/badge/arXiv-2403.13786-b31b1b.svg)](https://arxiv.org/pdf/2403.13786.pdf)|[![GitHub](https://img.shields.io/github/stars/trust-nlp/CoI-Psychotherapy)](https://github.com/trust-nlp/CoI-Psychotherapy) |
+| :heavy_minus_sign: | Large Language Models Produce Responses Perceived to be Empathic |[![arXiv](https://img.shields.io/badge/arXiv-2403.18148-b31b1b.svg)](https://arxiv.org/pdf/2403.18148.pdf)|[![GitHub](https://img.shields.io/github/stars/yoonlee78/LLM_empathy_social_support)](https://github.com/yoonlee78/LLM_empathy_social_support) |
+| :heavy_minus_sign: | PsyChat: A Client-Centric Dialogue System for Mental Health Support |[![arXiv](https://img.shields.io/badge/arXiv-2312.04262-b31b1b.svg)](https://arxiv.org/pdf/2312.04262.pdf)|[![GitHub](https://img.shields.io/github/stars/qiuhuachuan/PsyChat)](https://github.com/qiuhuachuan/PsyChat) |
+| :heavy_minus_sign: | Enhancing Depression-Diagnosis-Oriented Chat with Psychological State Tracking |[![arXiv](https://img.shields.io/badge/arXiv-2403.09717-b31b1b.svg)](https://arxiv.org/pdf/2403.09717.pdf)| :heavy_minus_sign: |
+| :heavy_minus_sign: | Socratic Reasoning Improves Positive Text Rewriting |[![arXiv](https://img.shields.io/badge/arXiv-2403.03029-b31b1b.svg)](https://arxiv.org/pdf/2403.03029.pdf)| :heavy_minus_sign: |
 | AAAI24 | COOPER: Coordinating Specialized Agents towards a Complex Dialogue Goal |[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://arxiv.org/pdf/2312.11792.pdf)|[![GitHub](https://img.shields.io/github/stars/YiCheng98/Cooper)](https://github.com/YiCheng98/Cooper) |
 | :heavy_minus_sign: | Muffin: Mitigating Unhelpfulness in Emotional Support Conversations with Multifaceted AI Feedback |[![arXiv](https://img.shields.io/badge/arXiv-2401.05928-b31b1b.svg)](https://arxiv.org/abs/2401.05928)|:heavy_minus_sign:|
 | :heavy_minus_sign: | Enhancing Emotional Generation Capability of Large Language Models via Emotional Chain-of-Thought |[![arXiv](https://img.shields.io/badge/arXiv-2401.06836-b31b1b.svg)](https://arxiv.org/abs/2401.06836)|:heavy_minus_sign:|
@@ -224,10 +236,11 @@ If you found this project helpful, please kindly cite our work:
 | EMNLP20 |A Multi-Persona Chatbot for Hotline Counselor Training|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://www.aclweb.org/anthology/2020.findings-emnlp.324)|:heavy_minus_sign:|
 | EMNLP20 |Towards Persona-Based Empathetic Conversational Models|[![arXiv](https://img.shields.io/badge/arXiv-2004.12316-b31b1b.svg)](http://arxiv.org/abs/2004.12316)|[![GitHub](https://img.shields.io/github/stars/zhongpeixiang/PEC)](https://github.com/zhongpeixiang/PEC)|
 
-## Systems (Chatbots)
+## Systems
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | --------- | --------- |:---------:|:--------:|
+| :heavy_minus_sign: |Facilitating Self-Guided Mental Health Interventions Through Human-Language Model Interaction: A Case Study of Cognitive Restructuring|[![arXiv](https://img.shields.io/badge/arXiv-2310.15461-b31b1b.svg)](https://arxiv.org/abs/2310.15461)|:heavy_minus_sign:|
 | :heavy_minus_sign: |ChatCounselor: A Large Language Models for Mental Health Support|[![arXiv](https://img.shields.io/badge/arXiv-2309.15461-b31b1b.svg)](https://arxiv.org/abs/2309.15461)|:heavy_minus_sign:|
 | :heavy_minus_sign: |An Empathetic AI Coach for Self-Attachment Therapy|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://ieeexplore.ieee.org/document/9750315)|:heavy_minus_sign:|
 | :heavy_minus_sign: |Using AI chatbots to provide self-help depression interventions for university students: A randomized trial of effectiveness|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](sciencedirect.com/science/article/pii/S2214782922000021)|:heavy_minus_sign:|
@@ -244,7 +257,7 @@ If you found this project helpful, please kindly cite our work:
 | :heavy_minus_sign: |Delivering Cognitive Behavior Therapy to Young Adults With Symptoms of Depression and Anxiety Using a Fully Automated Conversational Agent (Woebot): A Randomized Controlled Trial|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](Woebot)|:heavy_minus_sign:|
 | :heavy_minus_sign: |The Design and Implementation of XiaoIce, an Empathetic Social Chatbot|[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://watermark.silverchair.com/coli_a_00368.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAqMwggKfBgkqhkiG9w0BBwagggKQMIICjAIBADCCAoUGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMjpoY3TFRfSx-ye-sAgEQgIICVmOvf6PHKUw6xkAbcCK-55GxZyWMssnHqxkvoEkr8DEFcJsBSSZf9d18h4J8GL8la-VHyOVpZCp2VtgcZIIjVXe3wQAI1h02xtjnLN7zrAi5zKQJWSITbrwMwBXMLhi-PKM2hMGt969niT4mUhc9LorS17wU0ld2T9xuKyVg9RnwNr64-q5buGXXAfC1adjgUDrkYo8ALbt8zEOKHumoASyoAaVdXUWnkfVk-OHH2fCezOGvE1fmoMZTqsGSWMsorYPbKtiXThYSje3Og7bgCkm0fad4C5QJPxjx8hkdP2s-KSDtRq8VR1kvsvr3ve5DtMs3Lh1S0WZjowOpyJ7d_XtvHxHv3kIwiAMkPWHD6hW7ccBpjjicBYsTTCZzpdf5mNc-I-4ncVPtte5FpHrhWhAfCFoyY1VKYUR5nkNHv17ByXzQvlbW6CI13JhA2zEF9u4SAqyfM6YVAKoaTsXifgpeL_YO3ZWOMy8Fr6xX0-SrDnc5pQUJj-mTt5L2O4UjC5uEyVgO_q8InpNtvaCJFCHl24juuusLyQz3tLOm54eNvTkyL_FhW-SYYRhMxY5MS5hlDssLC242vhxAVGzHlsW5P4oVH_aeKlhAD7nq9ZTbycJwlygXpdEMZWVgydDHh5k22QP6Ini3xquxaqD82RNMaavY94MGyNK3853DKXWkqBGTboyRN72M4HBwwyKZxPofCzrHPf0pcG2GMIzpOnO81dAg9unt8gKS3yzoT9bvImLkBkCazEpgW_iHldjrfLP2PWRGRrN2pVWHPTDd0MiliTbF1OQ)|:heavy_minus_sign:|
 
-## Theory (Psychology)
+## Theory
 
 | **Venue** | **Title** | **Paper** | **Code** |
 | :-------: | --------- |:---------:|:--------:|
