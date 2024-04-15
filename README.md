@@ -2,7 +2,7 @@
 
 > A list of papers related to emotion, empathy, theory of mind, and emotional/mental health support in dialog systems.
 
-<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2024--04--11-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-253-2D333B" alt="PaperNum"/>
+<img src="https://img.shields.io/badge/Contributions-Welcome-278ea5" alt="Contrib"/> <img src="https://img.shields.io/badge/Updated-2024--04--15-success" alt="update"/> <img src="https://img.shields.io/badge/Number%20of%20Papers-254-2D333B" alt="PaperNum"/>
 
 ## List of Content
 
@@ -62,6 +62,7 @@ If you found this project helpful, please kindly cite our work:
 | :heavy_minus_sign: | CauESC: A Causal Aware Model for Emotional Support Conversation |[![arXiv](https://img.shields.io/badge/arXiv-2401.17755-b31b1b.svg)](https://arxiv.org/abs/2401.17755)|:heavy_minus_sign:|
 | :heavy_minus_sign: | Think Twice: Perspective-Taking Improves Large Language Models' Theory-of-Mind Capabilities |[![arXiv](https://img.shields.io/badge/arXiv-2311.10227-b31b1b.svg)](https://arxiv.org/abs/2311.10227)|[![GitHub](https://img.shields.io/github/stars/shawnsihyunlee/simulatedtom)](https://github.com/shawnsihyunlee/simulatedtom)|
 | :heavy_minus_sign: | K-ESConv: Knowledge Injection for Emotional Support Dialogue Systems via Prompt Learning |[![arXiv](https://img.shields.io/badge/arXiv-2312.10371-b31b1b.svg)](https://arxiv.org/abs/2312.10371)|:heavy_minus_sign:|
+| NIPS23 | Aligning Language Models with Human Preferences via a Bayesian Approach | [![arXiv](https://img.shields.io/badge/arXiv-2310.05782-b31b1b.svg)](https://arxiv.org/abs/2310.05782)|[![GitHub](https://img.shields.io/github/stars/wangjs9/Aligned-dPM)](https://github.com/wangjs9/Aligned-dPM)|
 | EMNLP23 | VERVE: Template-based ReflectiVE Rewriting for MotiVational IntErviewing |[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.findings-emnlp.690.pdf)|:heavy_minus_sign: |
 | EMNLP23 | Harnessing the Power of Large Language Models for Empathetic Response Generation: Empirical Investigations and Improvements |[![arXiv](https://img.shields.io/badge/paper-link-b31b1b.svg)](https://aclanthology.org/2023.findings-emnlp.433/)|:heavy_minus_sign: |
 | :heavy_minus_sign: | E-CORE: Emotion Correlation Enhanced Empathetic Dialogue Generation |[![arXiv](https://img.shields.io/badge/arXiv-2311.15016-b31b1b.svg)](https://arxiv.org/abs/2311.15016)|:heavy_minus_sign:|
